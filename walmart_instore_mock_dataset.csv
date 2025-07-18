@@ -1,0 +1,1001 @@
+product_name,category,price,offer,allergens,diet_labels,stock_status,aisle,bin_location,customer_rating,recommended_with
+Product_0,Seafood,20.88,10% off,None,None,In Stock,Aisle 20,Bin 32,4.0,Product_72
+Product_1,Dairy,3.37,Clearance,Eggs,"Gluten-Free, Vegan",In Stock,Aisle 20,Bin 41,3.3,Product_415
+Product_2,Meat,22.92,$2 off,"Eggs, None",None,Out of Stock,Aisle 16,Bin 5,2.7,Product_585
+Product_3,Frozen Foods,14.15,None,None,None,In Stock,Aisle 6,Bin 23,4.0,Product_893
+Product_4,Beverages,13.66,10% off,"None, Milk","Vegan, Keto",In Stock,Aisle 9,Bin 12,3.1,Product_469
+Product_5,Meat,14.68,10% off,None,None,In Stock,Aisle 8,Bin 18,3.5,Product_100
+Product_6,Dairy,10.19,$2 off,None,Gluten-Free,In Stock,Aisle 2,Bin 30,4.1,Product_488
+Product_7,Meat,9.27,$2 off,None,None,Low Stock,Aisle 11,Bin 4,3.0,Product_567
+Product_8,Dairy,4.91,$2 off,"Milk, Eggs",None,In Stock,Aisle 11,Bin 14,4.3,Product_813
+Product_9,Bakery,13.29,$2 off,None,None,Low Stock,Aisle 3,Bin 28,4.4,Product_961
+Product_10,Produce,10.46,None,Nuts,Gluten-Free,Low Stock,Aisle 2,Bin 41,2.9,Product_34
+Product_11,Snacks,10.1,10% off,None,Vegan,Out of Stock,Aisle 13,Bin 35,4.3,Product_182
+Product_12,Dairy,3.74,10% off,Wheat,None,In Stock,Aisle 4,Bin 26,2.9,Product_760
+Product_13,Bakery,13.66,$2 off,None,"None, Gluten-Free",In Stock,Aisle 13,Bin 10,3.9,Product_601
+Product_14,Seafood,22.04,10% off,"Milk, Wheat",None,In Stock,Aisle 4,Bin 22,2.9,Product_658
+Product_15,Pantry,5.37,None,None,"Gluten-Free, Keto",In Stock,Aisle 20,Bin 15,2.5,Product_655
+Product_16,Beverages,1.86,10% off,Nuts,None,In Stock,Aisle 12,Bin 29,4.3,Product_357
+Product_17,Meat,18.28,Buy 1 Get 1,"Wheat, Eggs",None,In Stock,Aisle 4,Bin 22,4.6,Product_206
+Product_18,Beverages,9.36,Buy 1 Get 1,None,None,In Stock,Aisle 4,Bin 36,3.0,Product_54
+Product_19,Personal Care,5.71,$2 off,None,Vegan,In Stock,Aisle 12,Bin 46,2.8,Product_232
+Product_20,Bakery,13.16,Buy 1 Get 1,None,None,Low Stock,Aisle 8,Bin 24,3.4,Product_537
+Product_21,Bakery,23.24,Clearance,None,Keto,Low Stock,Aisle 5,Bin 37,3.0,Product_957
+Product_22,Frozen Foods,14.9,$2 off,None,None,In Stock,Aisle 3,Bin 47,2.8,Product_619
+Product_23,Bakery,24.41,Clearance,None,Keto,In Stock,Aisle 13,Bin 17,4.2,Product_557
+Product_24,Beverages,4.52,$2 off,None,Keto,In Stock,Aisle 13,Bin 27,4.1,Product_425
+Product_25,Pantry,16.2,$2 off,None,None,In Stock,Aisle 6,Bin 19,3.8,Product_912
+Product_26,Snacks,3.91,10% off,"Soy, Nuts",None,In Stock,Aisle 15,Bin 28,3.6,Product_40
+Product_27,Dairy,19.85,10% off,None,None,In Stock,Aisle 10,Bin 7,5.0,Product_63
+Product_28,Meat,12.15,None,None,None,Low Stock,Aisle 17,Bin 17,4.5,Product_890
+Product_29,Produce,10.31,$2 off,None,None,In Stock,Aisle 5,Bin 24,3.9,Product_255
+Product_30,Personal Care,18.5,10% off,None,None,Low Stock,Aisle 13,Bin 21,3.4,Product_720
+Product_31,Beverages,1.4,$2 off,"Soy, Milk","Vegan, Keto",In Stock,Aisle 2,Bin 7,4.8,Product_2
+Product_32,Produce,3.26,Buy 1 Get 1,"Milk, Wheat",None,Out of Stock,Aisle 9,Bin 35,3.4,Product_31
+Product_33,Produce,9.58,10% off,None,None,In Stock,Aisle 9,Bin 26,2.9,Product_569
+Product_34,Pantry,18.26,10% off,"Eggs, None",None,Low Stock,Aisle 17,Bin 47,2.8,Product_162
+Product_35,Seafood,17.01,Buy 1 Get 1,None,None,In Stock,Aisle 1,Bin 32,3.5,Product_983
+Product_36,Dairy,21.47,10% off,Soy,Low Sugar,In Stock,Aisle 9,Bin 33,2.6,Product_834
+Product_37,Snacks,11.69,10% off,None,Keto,Low Stock,Aisle 15,Bin 24,4.8,Product_492
+Product_38,Seafood,1.8,$2 off,"Nuts, None",None,Low Stock,Aisle 2,Bin 1,3.5,Product_303
+Product_39,Pantry,16.17,None,None,None,In Stock,Aisle 10,Bin 2,3.5,Product_82
+Product_40,Produce,10.21,10% off,None,"Low Sugar, None",In Stock,Aisle 7,Bin 1,4.8,Product_450
+Product_41,Beverages,20.17,Clearance,None,"None, Vegan",In Stock,Aisle 8,Bin 36,4.5,Product_337
+Product_42,Frozen Foods,23.82,Clearance,"Wheat, Eggs",None,In Stock,Aisle 20,Bin 30,4.8,Product_415
+Product_43,Personal Care,16.96,Buy 1 Get 1,None,None,Low Stock,Aisle 7,Bin 44,2.7,Product_308
+Product_44,Dairy,23.75,Buy 1 Get 1,None,None,In Stock,Aisle 13,Bin 4,3.8,Product_953
+Product_45,Bakery,14.12,Clearance,None,None,In Stock,Aisle 19,Bin 17,3.3,Product_772
+Product_46,Frozen Foods,22.67,$2 off,Soy,None,In Stock,Aisle 2,Bin 23,4.5,Product_163
+Product_47,Snacks,20.77,Buy 1 Get 1,None,None,In Stock,Aisle 19,Bin 31,3.3,Product_674
+Product_48,Bakery,22.53,None,"Nuts, Milk",None,In Stock,Aisle 9,Bin 15,4.3,Product_555
+Product_49,Snacks,16.24,$2 off,None,None,In Stock,Aisle 20,Bin 11,3.1,Product_680
+Product_50,Frozen Foods,21.9,$2 off,None,None,In Stock,Aisle 16,Bin 6,4.1,Product_787
+Product_51,Beverages,5.65,Buy 1 Get 1,None,None,In Stock,Aisle 1,Bin 39,2.7,Product_355
+Product_52,Dairy,8.67,10% off,"Wheat, Soy",None,In Stock,Aisle 11,Bin 6,4.0,Product_970
+Product_53,Personal Care,17.47,Buy 1 Get 1,None,None,Out of Stock,Aisle 14,Bin 15,4.2,Product_331
+Product_54,Produce,12.15,Buy 1 Get 1,None,None,Out of Stock,Aisle 17,Bin 13,4.5,Product_548
+Product_55,Pantry,2.0,Clearance,None,None,Low Stock,Aisle 18,Bin 31,3.9,Product_654
+Product_56,Personal Care,19.51,10% off,None,None,In Stock,Aisle 13,Bin 17,5.0,Product_292
+Product_57,Pantry,21.07,Clearance,None,Vegan,In Stock,Aisle 17,Bin 43,2.6,Product_260
+Product_58,Frozen Foods,7.34,10% off,None,None,In Stock,Aisle 11,Bin 42,3.2,Product_573
+Product_59,Bakery,22.01,10% off,"Milk, None",None,In Stock,Aisle 8,Bin 34,4.5,Product_946
+Product_60,Produce,15.32,$2 off,None,None,In Stock,Aisle 2,Bin 23,2.5,Product_939
+Product_61,Pantry,13.87,10% off,Eggs,None,In Stock,Aisle 6,Bin 49,3.6,Product_910
+Product_62,Seafood,22.11,Buy 1 Get 1,"Eggs, None",None,Low Stock,Aisle 15,Bin 22,2.9,Product_332
+Product_63,Bakery,20.83,Buy 1 Get 1,None,None,In Stock,Aisle 2,Bin 9,2.9,Product_771
+Product_64,Produce,13.72,Clearance,None,None,In Stock,Aisle 6,Bin 39,4.5,Product_973
+Product_65,Dairy,20.81,None,"None, Nuts","Keto, Gluten-Free",In Stock,Aisle 16,Bin 6,2.6,Product_166
+Product_66,Pantry,17.04,None,"Eggs, Milk",None,In Stock,Aisle 15,Bin 44,4.6,Product_602
+Product_67,Produce,24.17,Buy 1 Get 1,None,None,Low Stock,Aisle 1,Bin 23,4.7,Product_937
+Product_68,Pantry,9.25,$2 off,None,None,In Stock,Aisle 9,Bin 9,4.8,Product_881
+Product_69,Beverages,13.0,None,None,None,Low Stock,Aisle 14,Bin 7,4.6,Product_97
+Product_70,Seafood,23.89,None,None,None,Low Stock,Aisle 6,Bin 31,4.5,Product_892
+Product_71,Dairy,18.97,10% off,Nuts,"None, Low Sugar",Low Stock,Aisle 13,Bin 43,4.8,Product_937
+Product_72,Seafood,23.75,None,None,None,In Stock,Aisle 18,Bin 34,3.5,Product_187
+Product_73,Snacks,11.55,None,Milk,None,Low Stock,Aisle 17,Bin 13,2.8,Product_335
+Product_74,Meat,18.64,$2 off,None,None,Low Stock,Aisle 3,Bin 19,3.3,Product_54
+Product_75,Pantry,2.19,Buy 1 Get 1,None,None,Low Stock,Aisle 19,Bin 49,4.0,Product_143
+Product_76,Meat,10.09,$2 off,"Nuts, None",None,In Stock,Aisle 7,Bin 10,3.6,Product_226
+Product_77,Meat,8.48,None,"Nuts, None",Keto,In Stock,Aisle 18,Bin 20,4.2,Product_15
+Product_78,Personal Care,17.68,10% off,"Nuts, None",Gluten-Free,Out of Stock,Aisle 15,Bin 6,2.6,Product_708
+Product_79,Personal Care,19.47,Clearance,None,None,In Stock,Aisle 6,Bin 46,4.1,Product_198
+Product_80,Bakery,12.4,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 46,4.6,Product_941
+Product_81,Pantry,17.77,Clearance,None,Keto,Low Stock,Aisle 5,Bin 3,4.9,Product_228
+Product_82,Seafood,13.48,$2 off,Soy,None,In Stock,Aisle 9,Bin 36,3.3,Product_99
+Product_83,Meat,22.04,Buy 1 Get 1,None,None,In Stock,Aisle 14,Bin 29,3.8,Product_508
+Product_84,Pantry,24.94,$2 off,"Milk, Wheat",None,In Stock,Aisle 16,Bin 30,4.1,Product_7
+Product_85,Dairy,20.18,None,None,None,In Stock,Aisle 19,Bin 46,4.9,Product_386
+Product_86,Seafood,1.49,$2 off,"Nuts, Wheat",None,Low Stock,Aisle 18,Bin 44,4.3,Product_116
+Product_87,Dairy,3.56,$2 off,None,None,In Stock,Aisle 19,Bin 19,4.1,Product_564
+Product_88,Beverages,16.36,10% off,Soy,None,In Stock,Aisle 2,Bin 4,3.1,Product_629
+Product_89,Frozen Foods,6.5,$2 off,Eggs,Gluten-Free,Out of Stock,Aisle 4,Bin 26,3.5,Product_791
+Product_90,Meat,22.85,10% off,None,None,In Stock,Aisle 1,Bin 42,3.7,Product_946
+Product_91,Bakery,21.75,None,None,Keto,In Stock,Aisle 4,Bin 3,2.7,Product_177
+Product_92,Bakery,13.48,10% off,"Wheat, None",Low Sugar,In Stock,Aisle 5,Bin 20,3.3,Product_810
+Product_93,Beverages,23.35,10% off,None,None,In Stock,Aisle 2,Bin 3,4.2,Product_524
+Product_94,Produce,5.7,Clearance,None,None,In Stock,Aisle 3,Bin 30,3.8,Product_277
+Product_95,Personal Care,8.45,None,None,None,In Stock,Aisle 12,Bin 25,4.5,Product_665
+Product_96,Seafood,8.45,10% off,None,"Keto, Vegan",In Stock,Aisle 9,Bin 16,4.6,Product_533
+Product_97,Produce,23.8,Clearance,None,None,In Stock,Aisle 15,Bin 50,3.7,Product_464
+Product_98,Meat,4.82,10% off,"Wheat, Milk",None,In Stock,Aisle 17,Bin 11,4.3,Product_119
+Product_99,Snacks,11.29,None,None,Vegan,Out of Stock,Aisle 2,Bin 49,3.3,Product_331
+Product_100,Beverages,6.21,Buy 1 Get 1,None,None,In Stock,Aisle 1,Bin 17,3.7,Product_60
+Product_101,Personal Care,7.61,None,None,None,Out of Stock,Aisle 9,Bin 10,3.7,Product_298
+Product_102,Bakery,8.24,None,None,None,In Stock,Aisle 9,Bin 23,5.0,Product_408
+Product_103,Personal Care,3.29,10% off,None,None,Out of Stock,Aisle 6,Bin 35,4.3,Product_4
+Product_104,Beverages,19.19,Clearance,None,Keto,In Stock,Aisle 16,Bin 15,5.0,Product_554
+Product_105,Snacks,2.76,Clearance,"Soy, None",None,In Stock,Aisle 2,Bin 9,4.0,Product_40
+Product_106,Seafood,3.55,None,None,Low Sugar,Low Stock,Aisle 7,Bin 37,3.4,Product_495
+Product_107,Beverages,8.97,$2 off,None,"Keto, None",In Stock,Aisle 19,Bin 11,3.5,Product_718
+Product_108,Personal Care,3.31,None,None,Keto,In Stock,Aisle 6,Bin 41,2.9,Product_518
+Product_109,Produce,16.46,$2 off,None,None,In Stock,Aisle 8,Bin 28,3.6,Product_964
+Product_110,Meat,4.36,Clearance,None,None,In Stock,Aisle 17,Bin 36,3.4,Product_956
+Product_111,Dairy,1.17,Clearance,Milk,None,In Stock,Aisle 18,Bin 25,4.4,Product_627
+Product_112,Meat,24.42,$2 off,None,None,In Stock,Aisle 1,Bin 8,3.6,Product_910
+Product_113,Personal Care,17.02,Buy 1 Get 1,None,None,In Stock,Aisle 10,Bin 46,4.5,Product_684
+Product_114,Dairy,10.49,Buy 1 Get 1,None,None,In Stock,Aisle 17,Bin 24,4.5,Product_745
+Product_115,Bakery,12.57,$2 off,Eggs,None,In Stock,Aisle 12,Bin 48,4.2,Product_377
+Product_116,Personal Care,10.97,Buy 1 Get 1,None,"Vegan, Gluten-Free",In Stock,Aisle 8,Bin 34,3.5,Product_574
+Product_117,Dairy,21.15,Clearance,"Soy, Milk",None,In Stock,Aisle 16,Bin 31,3.2,Product_357
+Product_118,Frozen Foods,23.45,Clearance,"Nuts, Milk",None,In Stock,Aisle 15,Bin 24,3.9,Product_899
+Product_119,Produce,11.62,Buy 1 Get 1,None,None,In Stock,Aisle 6,Bin 11,4.1,Product_555
+Product_120,Beverages,5.33,Buy 1 Get 1,Milk,None,Low Stock,Aisle 2,Bin 17,2.9,Product_970
+Product_121,Snacks,1.28,$2 off,None,None,In Stock,Aisle 20,Bin 3,4.5,Product_412
+Product_122,Meat,12.19,$2 off,None,None,Low Stock,Aisle 3,Bin 41,2.8,Product_245
+Product_123,Snacks,9.81,Buy 1 Get 1,None,None,Low Stock,Aisle 17,Bin 38,4.3,Product_77
+Product_124,Personal Care,16.61,None,"None, Eggs","Keto, Vegan",Low Stock,Aisle 15,Bin 21,4.3,Product_858
+Product_125,Meat,24.2,10% off,Milk,"Keto, Vegan",Out of Stock,Aisle 15,Bin 10,3.4,Product_111
+Product_126,Personal Care,12.41,10% off,Wheat,None,In Stock,Aisle 3,Bin 26,4.5,Product_84
+Product_127,Pantry,19.71,Buy 1 Get 1,None,None,In Stock,Aisle 18,Bin 16,3.0,Product_721
+Product_128,Bakery,4.27,Buy 1 Get 1,None,None,In Stock,Aisle 11,Bin 25,3.8,Product_692
+Product_129,Beverages,10.9,None,None,Gluten-Free,In Stock,Aisle 4,Bin 7,3.6,Product_109
+Product_130,Pantry,5.28,$2 off,None,"Vegan, Keto",Low Stock,Aisle 19,Bin 8,4.2,Product_832
+Product_131,Meat,10.66,None,None,None,In Stock,Aisle 6,Bin 29,2.6,Product_73
+Product_132,Produce,12.13,Buy 1 Get 1,"Soy, Wheat",None,In Stock,Aisle 4,Bin 24,3.4,Product_532
+Product_133,Snacks,10.33,None,None,None,Low Stock,Aisle 14,Bin 1,2.9,Product_171
+Product_134,Bakery,24.55,Clearance,None,Vegan,In Stock,Aisle 3,Bin 38,2.9,Product_592
+Product_135,Pantry,16.43,$2 off,Wheat,None,In Stock,Aisle 10,Bin 14,4.0,Product_121
+Product_136,Beverages,23.27,Buy 1 Get 1,None,None,Low Stock,Aisle 13,Bin 44,3.5,Product_109
+Product_137,Bakery,10.53,Buy 1 Get 1,"Soy, Nuts",Gluten-Free,In Stock,Aisle 5,Bin 8,2.8,Product_925
+Product_138,Personal Care,19.31,Clearance,None,None,In Stock,Aisle 6,Bin 20,4.6,Product_789
+Product_139,Personal Care,4.55,$2 off,Wheat,None,In Stock,Aisle 19,Bin 24,4.2,Product_135
+Product_140,Snacks,9.87,10% off,None,None,In Stock,Aisle 14,Bin 41,5.0,Product_279
+Product_141,Seafood,7.08,None,None,Gluten-Free,Low Stock,Aisle 18,Bin 34,3.4,Product_937
+Product_142,Snacks,22.12,None,None,None,In Stock,Aisle 2,Bin 22,4.4,Product_107
+Product_143,Snacks,8.27,Clearance,"Milk, Nuts",None,In Stock,Aisle 1,Bin 27,3.1,Product_51
+Product_144,Meat,12.2,10% off,None,None,In Stock,Aisle 17,Bin 41,3.2,Product_944
+Product_145,Bakery,20.21,$2 off,Nuts,None,In Stock,Aisle 19,Bin 33,4.0,Product_503
+Product_146,Pantry,19.46,Clearance,None,None,In Stock,Aisle 5,Bin 8,4.4,Product_426
+Product_147,Snacks,5.21,Clearance,None,None,In Stock,Aisle 18,Bin 42,4.2,Product_26
+Product_148,Dairy,6.15,10% off,None,None,In Stock,Aisle 15,Bin 10,2.7,Product_776
+Product_149,Frozen Foods,7.76,$2 off,None,None,Low Stock,Aisle 5,Bin 34,3.3,Product_681
+Product_150,Beverages,22.41,Clearance,Eggs,None,In Stock,Aisle 4,Bin 8,4.7,Product_699
+Product_151,Meat,8.75,Buy 1 Get 1,None,"Low Sugar, Gluten-Free",Low Stock,Aisle 20,Bin 10,3.8,Product_63
+Product_152,Frozen Foods,14.33,None,Nuts,None,In Stock,Aisle 3,Bin 26,4.4,Product_725
+Product_153,Dairy,5.68,Buy 1 Get 1,None,None,In Stock,Aisle 9,Bin 6,3.7,Product_117
+Product_154,Seafood,1.07,Clearance,None,None,In Stock,Aisle 10,Bin 48,2.9,Product_950
+Product_155,Beverages,11.03,None,Soy,None,In Stock,Aisle 16,Bin 49,4.1,Product_287
+Product_156,Meat,8.37,10% off,None,"Gluten-Free, Keto",In Stock,Aisle 18,Bin 33,4.7,Product_305
+Product_157,Snacks,12.51,$2 off,"Eggs, Nuts",Vegan,Low Stock,Aisle 12,Bin 19,3.2,Product_128
+Product_158,Pantry,17.81,Clearance,"Wheat, Eggs",None,Low Stock,Aisle 5,Bin 2,4.1,Product_953
+Product_159,Snacks,14.21,Clearance,None,None,Low Stock,Aisle 19,Bin 41,3.7,Product_175
+Product_160,Frozen Foods,21.9,10% off,"Nuts, Wheat",None,In Stock,Aisle 5,Bin 41,2.9,Product_467
+Product_161,Seafood,8.73,10% off,None,None,Low Stock,Aisle 10,Bin 15,4.6,Product_191
+Product_162,Produce,24.64,$2 off,None,None,In Stock,Aisle 5,Bin 10,4.5,Product_437
+Product_163,Personal Care,16.44,$2 off,None,None,In Stock,Aisle 20,Bin 26,3.4,Product_482
+Product_164,Pantry,12.04,Clearance,None,None,In Stock,Aisle 11,Bin 14,4.7,Product_75
+Product_165,Pantry,1.77,None,None,None,Out of Stock,Aisle 2,Bin 10,4.7,Product_502
+Product_166,Pantry,9.52,None,None,"Vegan, None",In Stock,Aisle 4,Bin 15,4.1,Product_844
+Product_167,Beverages,17.91,None,None,None,In Stock,Aisle 6,Bin 39,3.5,Product_622
+Product_168,Meat,18.94,Buy 1 Get 1,None,None,Low Stock,Aisle 13,Bin 45,3.5,Product_962
+Product_169,Pantry,20.3,None,Milk,"Low Sugar, Vegan",In Stock,Aisle 1,Bin 50,2.8,Product_665
+Product_170,Pantry,3.93,$2 off,"Soy, Wheat","None, Low Sugar",In Stock,Aisle 5,Bin 40,4.5,Product_169
+Product_171,Snacks,5.02,Clearance,None,"Vegan, None",In Stock,Aisle 1,Bin 20,2.8,Product_889
+Product_172,Meat,13.25,$2 off,Milk,None,Low Stock,Aisle 15,Bin 13,2.7,Product_537
+Product_173,Snacks,6.45,None,None,None,In Stock,Aisle 7,Bin 27,2.9,Product_484
+Product_174,Produce,17.35,$2 off,None,None,In Stock,Aisle 18,Bin 43,4.8,Product_319
+Product_175,Dairy,22.47,Buy 1 Get 1,Soy,"None, Vegan",Low Stock,Aisle 8,Bin 6,3.9,Product_251
+Product_176,Frozen Foods,12.87,Clearance,Nuts,Keto,In Stock,Aisle 7,Bin 10,4.4,Product_813
+Product_177,Frozen Foods,8.1,$2 off,"Soy, Nuts","None, Gluten-Free",In Stock,Aisle 18,Bin 15,2.9,Product_851
+Product_178,Meat,22.58,10% off,"Eggs, None",None,In Stock,Aisle 3,Bin 34,4.2,Product_826
+Product_179,Beverages,17.75,$2 off,None,None,Low Stock,Aisle 10,Bin 2,3.1,Product_122
+Product_180,Produce,23.36,None,"Wheat, Milk",None,Low Stock,Aisle 15,Bin 29,4.3,Product_964
+Product_181,Seafood,13.17,None,None,None,Out of Stock,Aisle 8,Bin 44,3.8,Product_976
+Product_182,Meat,23.42,Buy 1 Get 1,"None, Wheat",None,Low Stock,Aisle 7,Bin 33,2.6,Product_918
+Product_183,Frozen Foods,18.49,$2 off,None,None,Low Stock,Aisle 2,Bin 26,3.9,Product_105
+Product_184,Seafood,2.3,$2 off,None,None,In Stock,Aisle 9,Bin 37,4.1,Product_707
+Product_185,Dairy,3.77,Buy 1 Get 1,None,None,In Stock,Aisle 11,Bin 42,4.2,Product_697
+Product_186,Dairy,14.97,$2 off,"Nuts, Soy",Gluten-Free,In Stock,Aisle 17,Bin 48,2.8,Product_450
+Product_187,Frozen Foods,7.47,Clearance,None,None,In Stock,Aisle 11,Bin 34,4.3,Product_278
+Product_188,Produce,6.39,Clearance,None,None,In Stock,Aisle 11,Bin 28,4.8,Product_952
+Product_189,Pantry,16.22,$2 off,None,None,In Stock,Aisle 3,Bin 16,4.6,Product_554
+Product_190,Personal Care,11.7,$2 off,"Eggs, Nuts",None,In Stock,Aisle 9,Bin 16,3.9,Product_732
+Product_191,Personal Care,16.71,10% off,"Wheat, None",None,Low Stock,Aisle 12,Bin 25,3.9,Product_546
+Product_192,Dairy,11.48,Clearance,None,None,In Stock,Aisle 8,Bin 39,4.7,Product_145
+Product_193,Dairy,12.87,$2 off,None,None,In Stock,Aisle 4,Bin 13,3.6,Product_895
+Product_194,Produce,4.69,10% off,None,None,Low Stock,Aisle 1,Bin 35,3.0,Product_103
+Product_195,Personal Care,12.01,$2 off,None,None,In Stock,Aisle 16,Bin 14,3.1,Product_240
+Product_196,Dairy,7.2,Clearance,"None, Soy",None,In Stock,Aisle 10,Bin 6,4.7,Product_383
+Product_197,Beverages,17.94,None,"Nuts, Milk",None,Low Stock,Aisle 1,Bin 38,2.6,Product_993
+Product_198,Produce,17.56,None,None,Gluten-Free,Out of Stock,Aisle 12,Bin 34,4.1,Product_798
+Product_199,Dairy,13.46,$2 off,None,None,In Stock,Aisle 3,Bin 28,3.7,Product_76
+Product_200,Bakery,8.02,$2 off,None,None,In Stock,Aisle 19,Bin 46,3.0,Product_375
+Product_201,Snacks,12.51,10% off,Wheat,None,In Stock,Aisle 10,Bin 19,3.9,Product_603
+Product_202,Meat,13.92,$2 off,None,None,Low Stock,Aisle 14,Bin 50,4.4,Product_586
+Product_203,Frozen Foods,16.77,None,Eggs,None,In Stock,Aisle 2,Bin 45,3.8,Product_750
+Product_204,Meat,14.6,$2 off,None,"Keto, Vegan",In Stock,Aisle 7,Bin 2,4.2,Product_947
+Product_205,Frozen Foods,15.0,$2 off,"Nuts, None",None,In Stock,Aisle 5,Bin 40,2.5,Product_301
+Product_206,Produce,7.88,Clearance,None,None,In Stock,Aisle 3,Bin 39,4.9,Product_169
+Product_207,Meat,19.28,$2 off,Nuts,None,In Stock,Aisle 11,Bin 13,3.8,Product_151
+Product_208,Dairy,5.08,$2 off,"None, Milk",Vegan,In Stock,Aisle 4,Bin 45,4.7,Product_949
+Product_209,Bakery,6.85,$2 off,None,None,Low Stock,Aisle 4,Bin 19,3.8,Product_859
+Product_210,Snacks,12.43,Clearance,"Milk, Eggs","Vegan, Low Sugar",Low Stock,Aisle 2,Bin 36,4.0,Product_663
+Product_211,Beverages,12.38,Clearance,None,None,Low Stock,Aisle 10,Bin 16,3.6,Product_314
+Product_212,Frozen Foods,17.0,Clearance,None,None,Low Stock,Aisle 10,Bin 25,4.1,Product_994
+Product_213,Snacks,12.3,None,"None, Milk",None,In Stock,Aisle 5,Bin 49,4.4,Product_798
+Product_214,Bakery,7.85,Buy 1 Get 1,"Wheat, Milk",None,In Stock,Aisle 8,Bin 8,2.7,Product_193
+Product_215,Dairy,14.74,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 6,3.3,Product_397
+Product_216,Seafood,21.18,10% off,Milk,None,In Stock,Aisle 19,Bin 34,2.8,Product_990
+Product_217,Beverages,15.0,Buy 1 Get 1,None,None,In Stock,Aisle 13,Bin 25,2.8,Product_738
+Product_218,Meat,16.59,Buy 1 Get 1,None,None,In Stock,Aisle 4,Bin 39,3.9,Product_198
+Product_219,Pantry,19.03,$2 off,None,Low Sugar,Out of Stock,Aisle 5,Bin 10,3.2,Product_395
+Product_220,Snacks,4.93,Buy 1 Get 1,"Milk, Nuts",None,In Stock,Aisle 6,Bin 9,5.0,Product_506
+Product_221,Frozen Foods,16.07,Buy 1 Get 1,None,None,In Stock,Aisle 20,Bin 34,4.6,Product_534
+Product_222,Dairy,20.27,10% off,None,None,In Stock,Aisle 19,Bin 1,2.8,Product_299
+Product_223,Pantry,7.32,None,None,"None, Keto",In Stock,Aisle 8,Bin 2,4.5,Product_268
+Product_224,Produce,15.52,$2 off,None,None,In Stock,Aisle 16,Bin 43,3.4,Product_88
+Product_225,Seafood,18.01,Buy 1 Get 1,"None, Wheat",None,In Stock,Aisle 12,Bin 31,2.8,Product_638
+Product_226,Frozen Foods,9.65,$2 off,"Milk, Eggs",None,In Stock,Aisle 12,Bin 10,4.5,Product_17
+Product_227,Frozen Foods,2.72,None,None,Gluten-Free,In Stock,Aisle 4,Bin 26,2.7,Product_53
+Product_228,Dairy,19.38,Buy 1 Get 1,None,"Vegan, Keto",In Stock,Aisle 14,Bin 45,4.2,Product_655
+Product_229,Bakery,14.44,$2 off,None,None,In Stock,Aisle 2,Bin 21,3.9,Product_149
+Product_230,Produce,15.13,$2 off,Wheat,None,Low Stock,Aisle 3,Bin 11,3.5,Product_682
+Product_231,Bakery,16.2,Buy 1 Get 1,"None, Soy",Low Sugar,Out of Stock,Aisle 14,Bin 20,2.9,Product_603
+Product_232,Beverages,7.49,$2 off,None,None,Low Stock,Aisle 20,Bin 46,3.6,Product_891
+Product_233,Dairy,5.52,Clearance,Wheat,None,Out of Stock,Aisle 1,Bin 28,3.3,Product_890
+Product_234,Bakery,22.33,Clearance,Wheat,None,In Stock,Aisle 16,Bin 48,2.7,Product_466
+Product_235,Beverages,18.38,Buy 1 Get 1,None,None,In Stock,Aisle 3,Bin 44,3.7,Product_341
+Product_236,Meat,4.14,Clearance,None,None,Low Stock,Aisle 11,Bin 15,4.0,Product_255
+Product_237,Beverages,9.9,$2 off,Eggs,None,In Stock,Aisle 16,Bin 7,3.0,Product_626
+Product_238,Produce,14.09,Buy 1 Get 1,Milk,None,In Stock,Aisle 4,Bin 15,4.7,Product_569
+Product_239,Dairy,10.91,Clearance,None,None,Low Stock,Aisle 18,Bin 32,3.3,Product_38
+Product_240,Seafood,7.49,None,None,None,In Stock,Aisle 8,Bin 38,4.3,Product_750
+Product_241,Pantry,18.85,$2 off,None,None,In Stock,Aisle 4,Bin 6,3.2,Product_858
+Product_242,Bakery,5.53,$2 off,Nuts,None,In Stock,Aisle 16,Bin 29,4.1,Product_714
+Product_243,Frozen Foods,15.65,$2 off,None,"Keto, Low Sugar",In Stock,Aisle 2,Bin 6,2.7,Product_527
+Product_244,Seafood,18.23,Buy 1 Get 1,Wheat,None,In Stock,Aisle 4,Bin 19,3.4,Product_543
+Product_245,Bakery,21.99,$2 off,None,None,In Stock,Aisle 3,Bin 50,3.2,Product_145
+Product_246,Frozen Foods,13.08,Buy 1 Get 1,"Eggs, Soy",None,Low Stock,Aisle 10,Bin 30,5.0,Product_337
+Product_247,Beverages,24.42,Buy 1 Get 1,None,None,In Stock,Aisle 17,Bin 36,4.5,Product_841
+Product_248,Pantry,7.49,10% off,"None, Soy",Gluten-Free,Out of Stock,Aisle 6,Bin 6,3.4,Product_206
+Product_249,Beverages,1.16,$2 off,Nuts,None,In Stock,Aisle 11,Bin 2,2.9,Product_74
+Product_250,Produce,19.64,10% off,None,Vegan,In Stock,Aisle 16,Bin 47,2.6,Product_680
+Product_251,Seafood,9.16,Clearance,"Soy, None","Low Sugar, Gluten-Free",In Stock,Aisle 3,Bin 48,3.8,Product_866
+Product_252,Beverages,10.33,None,Milk,None,In Stock,Aisle 8,Bin 19,3.1,Product_1
+Product_253,Produce,2.52,None,None,"Gluten-Free, Vegan",Low Stock,Aisle 11,Bin 48,5.0,Product_532
+Product_254,Dairy,1.91,None,None,"None, Low Sugar",In Stock,Aisle 8,Bin 28,3.3,Product_99
+Product_255,Snacks,1.21,$2 off,"None, Soy",None,In Stock,Aisle 10,Bin 40,4.1,Product_644
+Product_256,Pantry,2.77,10% off,Nuts,None,In Stock,Aisle 4,Bin 18,3.5,Product_120
+Product_257,Beverages,4.64,$2 off,None,None,In Stock,Aisle 16,Bin 16,4.1,Product_867
+Product_258,Pantry,15.08,None,None,"Low Sugar, Vegan",In Stock,Aisle 1,Bin 13,3.1,Product_281
+Product_259,Beverages,19.89,Clearance,Eggs,None,In Stock,Aisle 17,Bin 25,3.1,Product_829
+Product_260,Snacks,22.51,Buy 1 Get 1,None,"None, Gluten-Free",In Stock,Aisle 19,Bin 38,2.9,Product_437
+Product_261,Frozen Foods,10.88,Buy 1 Get 1,None,None,In Stock,Aisle 20,Bin 32,4.6,Product_220
+Product_262,Pantry,11.36,None,None,Keto,In Stock,Aisle 13,Bin 37,4.6,Product_960
+Product_263,Pantry,4.94,$2 off,None,"Gluten-Free, Low Sugar",In Stock,Aisle 2,Bin 41,3.1,Product_172
+Product_264,Snacks,20.19,Clearance,Nuts,None,Low Stock,Aisle 4,Bin 34,2.8,Product_941
+Product_265,Beverages,22.74,Buy 1 Get 1,None,None,In Stock,Aisle 16,Bin 35,3.9,Product_472
+Product_266,Beverages,9.24,None,None,None,In Stock,Aisle 1,Bin 47,3.3,Product_321
+Product_267,Meat,7.86,$2 off,None,"Low Sugar, Vegan",Out of Stock,Aisle 12,Bin 49,4.6,Product_663
+Product_268,Snacks,20.99,$2 off,"None, Eggs",None,In Stock,Aisle 20,Bin 32,2.8,Product_44
+Product_269,Seafood,16.28,Buy 1 Get 1,None,None,Low Stock,Aisle 4,Bin 2,3.8,Product_644
+Product_270,Personal Care,4.49,Buy 1 Get 1,"None, Wheat",None,In Stock,Aisle 16,Bin 50,4.0,Product_928
+Product_271,Beverages,20.63,10% off,None,None,In Stock,Aisle 15,Bin 46,4.6,Product_106
+Product_272,Personal Care,24.31,10% off,None,None,In Stock,Aisle 6,Bin 1,4.5,Product_576
+Product_273,Bakery,14.24,10% off,Nuts,None,In Stock,Aisle 13,Bin 12,2.8,Product_873
+Product_274,Beverages,12.81,$2 off,None,"Keto, Vegan",In Stock,Aisle 11,Bin 46,5.0,Product_565
+Product_275,Snacks,11.04,Clearance,None,None,In Stock,Aisle 7,Bin 44,3.1,Product_808
+Product_276,Beverages,8.74,Clearance,None,None,Low Stock,Aisle 14,Bin 7,3.4,Product_30
+Product_277,Bakery,20.07,Clearance,"Soy, Nuts",None,Low Stock,Aisle 3,Bin 32,2.7,Product_900
+Product_278,Personal Care,15.44,Clearance,None,None,In Stock,Aisle 18,Bin 42,4.0,Product_848
+Product_279,Meat,16.86,$2 off,Milk,None,In Stock,Aisle 19,Bin 25,2.5,Product_998
+Product_280,Produce,21.76,10% off,Eggs,None,Out of Stock,Aisle 4,Bin 15,3.9,Product_247
+Product_281,Beverages,22.53,$2 off,None,"None, Vegan",Low Stock,Aisle 15,Bin 6,4.6,Product_138
+Product_282,Meat,10.35,Clearance,None,"Low Sugar, Keto",In Stock,Aisle 5,Bin 45,3.3,Product_183
+Product_283,Personal Care,11.37,10% off,None,Low Sugar,In Stock,Aisle 8,Bin 47,2.6,Product_152
+Product_284,Snacks,2.92,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 4,2.7,Product_262
+Product_285,Produce,17.17,10% off,Nuts,None,In Stock,Aisle 14,Bin 38,2.9,Product_864
+Product_286,Bakery,1.85,10% off,None,None,In Stock,Aisle 16,Bin 2,4.5,Product_494
+Product_287,Meat,11.45,Buy 1 Get 1,None,Low Sugar,In Stock,Aisle 17,Bin 13,4.4,Product_709
+Product_288,Seafood,22.25,10% off,None,None,In Stock,Aisle 14,Bin 9,3.9,Product_157
+Product_289,Snacks,23.51,Clearance,None,"None, Vegan",In Stock,Aisle 15,Bin 15,3.5,Product_885
+Product_290,Personal Care,1.88,None,None,None,In Stock,Aisle 13,Bin 38,3.2,Product_543
+Product_291,Beverages,16.04,$2 off,"Soy, Nuts",None,In Stock,Aisle 14,Bin 26,3.1,Product_960
+Product_292,Dairy,18.34,None,None,None,Out of Stock,Aisle 7,Bin 39,4.4,Product_336
+Product_293,Personal Care,23.1,Buy 1 Get 1,"Nuts, None",None,In Stock,Aisle 8,Bin 39,4.8,Product_866
+Product_294,Personal Care,4.64,Clearance,None,None,In Stock,Aisle 13,Bin 33,4.9,Product_546
+Product_295,Snacks,6.19,Buy 1 Get 1,Milk,None,In Stock,Aisle 6,Bin 16,3.7,Product_33
+Product_296,Frozen Foods,14.34,None,None,None,In Stock,Aisle 18,Bin 27,4.1,Product_948
+Product_297,Pantry,12.97,Buy 1 Get 1,"None, Milk",None,In Stock,Aisle 19,Bin 43,3.1,Product_251
+Product_298,Beverages,1.09,Clearance,None,"Gluten-Free, Keto",Out of Stock,Aisle 17,Bin 18,4.5,Product_994
+Product_299,Meat,12.9,Clearance,None,None,Out of Stock,Aisle 16,Bin 28,4.3,Product_858
+Product_300,Frozen Foods,15.35,$2 off,None,None,In Stock,Aisle 20,Bin 9,3.6,Product_68
+Product_301,Meat,9.66,Buy 1 Get 1,Soy,None,In Stock,Aisle 1,Bin 36,3.4,Product_833
+Product_302,Seafood,15.0,Buy 1 Get 1,Wheat,None,In Stock,Aisle 9,Bin 6,4.3,Product_158
+Product_303,Pantry,3.41,$2 off,None,"Low Sugar, Vegan",Low Stock,Aisle 11,Bin 33,4.5,Product_130
+Product_304,Bakery,14.37,None,None,None,In Stock,Aisle 5,Bin 18,2.8,Product_610
+Product_305,Frozen Foods,5.95,None,"None, Wheat",None,Low Stock,Aisle 16,Bin 25,4.7,Product_547
+Product_306,Beverages,5.55,10% off,None,None,In Stock,Aisle 10,Bin 10,3.1,Product_539
+Product_307,Produce,20.05,None,Eggs,None,In Stock,Aisle 3,Bin 14,4.8,Product_919
+Product_308,Seafood,17.5,10% off,None,None,In Stock,Aisle 19,Bin 48,4.1,Product_99
+Product_309,Pantry,19.59,$2 off,"Eggs, Nuts","None, Keto",In Stock,Aisle 16,Bin 22,3.6,Product_342
+Product_310,Seafood,18.18,10% off,"Nuts, Wheat",None,In Stock,Aisle 2,Bin 3,4.5,Product_813
+Product_311,Personal Care,7.38,None,None,None,In Stock,Aisle 14,Bin 21,4.9,Product_296
+Product_312,Pantry,7.63,Buy 1 Get 1,None,"Vegan, Low Sugar",In Stock,Aisle 11,Bin 42,4.8,Product_370
+Product_313,Bakery,21.47,Clearance,None,None,In Stock,Aisle 5,Bin 2,3.5,Product_53
+Product_314,Personal Care,5.78,Buy 1 Get 1,None,None,In Stock,Aisle 10,Bin 37,3.3,Product_624
+Product_315,Frozen Foods,23.62,Buy 1 Get 1,None,None,In Stock,Aisle 7,Bin 34,3.3,Product_295
+Product_316,Beverages,23.9,$2 off,None,"Keto, Vegan",In Stock,Aisle 9,Bin 6,2.8,Product_683
+Product_317,Seafood,21.56,$2 off,None,None,In Stock,Aisle 15,Bin 16,4.9,Product_942
+Product_318,Produce,5.49,10% off,"Milk, Eggs",None,In Stock,Aisle 8,Bin 39,3.3,Product_523
+Product_319,Produce,9.78,Clearance,"Milk, Wheat",None,Low Stock,Aisle 15,Bin 5,3.8,Product_64
+Product_320,Dairy,3.5,Buy 1 Get 1,None,None,Low Stock,Aisle 1,Bin 47,4.9,Product_657
+Product_321,Dairy,2.49,Clearance,None,Gluten-Free,Out of Stock,Aisle 19,Bin 42,3.1,Product_146
+Product_322,Bakery,6.02,Buy 1 Get 1,None,Low Sugar,In Stock,Aisle 13,Bin 34,2.7,Product_181
+Product_323,Snacks,7.95,Clearance,None,None,In Stock,Aisle 6,Bin 6,4.2,Product_49
+Product_324,Beverages,2.87,Clearance,None,Low Sugar,In Stock,Aisle 5,Bin 37,2.7,Product_652
+Product_325,Snacks,18.55,Buy 1 Get 1,None,"Keto, Vegan",In Stock,Aisle 17,Bin 3,2.8,Product_443
+Product_326,Produce,14.3,10% off,None,None,In Stock,Aisle 13,Bin 19,3.9,Product_733
+Product_327,Produce,21.9,None,Milk,None,Low Stock,Aisle 14,Bin 2,2.7,Product_502
+Product_328,Frozen Foods,13.4,10% off,None,None,In Stock,Aisle 6,Bin 26,3.5,Product_673
+Product_329,Dairy,7.9,Clearance,"Eggs, Wheat",None,Low Stock,Aisle 16,Bin 6,2.5,Product_897
+Product_330,Pantry,9.13,10% off,None,None,In Stock,Aisle 15,Bin 31,2.8,Product_295
+Product_331,Snacks,20.62,$2 off,None,None,In Stock,Aisle 14,Bin 47,4.0,Product_101
+Product_332,Pantry,18.93,$2 off,None,None,Low Stock,Aisle 6,Bin 2,4.3,Product_564
+Product_333,Produce,14.37,Clearance,Milk,None,In Stock,Aisle 17,Bin 42,4.8,Product_769
+Product_334,Snacks,23.57,None,None,None,Low Stock,Aisle 19,Bin 29,2.9,Product_860
+Product_335,Produce,6.25,None,"Eggs, Soy",None,Out of Stock,Aisle 18,Bin 5,3.0,Product_606
+Product_336,Personal Care,15.22,$2 off,None,None,In Stock,Aisle 13,Bin 39,4.1,Product_104
+Product_337,Beverages,1.26,None,Nuts,Low Sugar,Low Stock,Aisle 1,Bin 32,4.2,Product_787
+Product_338,Meat,8.97,10% off,None,None,In Stock,Aisle 12,Bin 15,2.5,Product_312
+Product_339,Produce,12.91,10% off,Soy,None,Low Stock,Aisle 7,Bin 49,4.7,Product_651
+Product_340,Seafood,24.05,10% off,None,None,In Stock,Aisle 10,Bin 1,2.9,Product_364
+Product_341,Seafood,11.93,10% off,None,None,Out of Stock,Aisle 16,Bin 44,4.2,Product_469
+Product_342,Snacks,11.2,10% off,Nuts,None,In Stock,Aisle 11,Bin 48,2.8,Product_988
+Product_343,Pantry,15.16,Clearance,None,None,Low Stock,Aisle 17,Bin 42,4.6,Product_624
+Product_344,Bakery,14.05,$2 off,Milk,"Gluten-Free, None",In Stock,Aisle 3,Bin 4,3.4,Product_571
+Product_345,Pantry,21.48,$2 off,None,"Keto, Low Sugar",In Stock,Aisle 3,Bin 40,3.7,Product_263
+Product_346,Dairy,24.98,10% off,"Nuts, Soy","Gluten-Free, Keto",Out of Stock,Aisle 1,Bin 18,3.6,Product_852
+Product_347,Frozen Foods,8.63,$2 off,None,None,Low Stock,Aisle 2,Bin 22,4.4,Product_183
+Product_348,Beverages,22.37,None,None,None,In Stock,Aisle 13,Bin 37,4.7,Product_807
+Product_349,Seafood,6.89,None,None,None,Low Stock,Aisle 2,Bin 3,3.4,Product_518
+Product_350,Bakery,9.84,10% off,None,"None, Vegan",In Stock,Aisle 12,Bin 12,2.9,Product_870
+Product_351,Bakery,2.62,Buy 1 Get 1,None,None,In Stock,Aisle 3,Bin 20,3.5,Product_453
+Product_352,Meat,11.06,$2 off,None,None,In Stock,Aisle 5,Bin 13,3.5,Product_430
+Product_353,Bakery,11.24,10% off,None,None,Low Stock,Aisle 10,Bin 9,4.6,Product_463
+Product_354,Produce,15.16,Buy 1 Get 1,Eggs,None,In Stock,Aisle 7,Bin 34,3.3,Product_513
+Product_355,Personal Care,14.67,10% off,Wheat,None,In Stock,Aisle 13,Bin 49,4.7,Product_165
+Product_356,Pantry,6.77,None,None,None,In Stock,Aisle 10,Bin 19,4.2,Product_810
+Product_357,Snacks,22.16,$2 off,None,None,Out of Stock,Aisle 13,Bin 32,3.3,Product_445
+Product_358,Meat,13.36,$2 off,None,"Keto, Vegan",Low Stock,Aisle 4,Bin 30,4.9,Product_281
+Product_359,Seafood,11.81,10% off,None,None,In Stock,Aisle 6,Bin 33,3.7,Product_688
+Product_360,Pantry,23.98,$2 off,None,None,In Stock,Aisle 16,Bin 1,4.4,Product_545
+Product_361,Seafood,18.39,None,Eggs,None,In Stock,Aisle 12,Bin 46,3.8,Product_444
+Product_362,Personal Care,22.97,$2 off,None,"Low Sugar, None",Low Stock,Aisle 18,Bin 9,4.5,Product_294
+Product_363,Frozen Foods,24.77,$2 off,None,"Gluten-Free, Low Sugar",In Stock,Aisle 18,Bin 29,2.6,Product_841
+Product_364,Pantry,20.48,10% off,"Milk, Wheat",None,In Stock,Aisle 12,Bin 22,4.9,Product_135
+Product_365,Frozen Foods,8.23,10% off,None,Keto,In Stock,Aisle 19,Bin 10,4.4,Product_847
+Product_366,Beverages,20.51,Clearance,None,None,In Stock,Aisle 11,Bin 8,4.1,Product_286
+Product_367,Produce,16.12,Clearance,None,None,In Stock,Aisle 7,Bin 30,4.7,Product_127
+Product_368,Snacks,18.18,Clearance,None,None,In Stock,Aisle 14,Bin 48,4.4,Product_876
+Product_369,Bakery,21.88,10% off,None,Keto,In Stock,Aisle 3,Bin 3,4.6,Product_320
+Product_370,Produce,16.56,10% off,None,None,Low Stock,Aisle 4,Bin 23,4.5,Product_427
+Product_371,Seafood,12.21,None,None,None,In Stock,Aisle 16,Bin 14,3.4,Product_573
+Product_372,Beverages,23.0,Buy 1 Get 1,None,None,Low Stock,Aisle 18,Bin 30,3.2,Product_18
+Product_373,Snacks,8.91,10% off,None,None,In Stock,Aisle 7,Bin 32,4.9,Product_61
+Product_374,Beverages,13.7,$2 off,"Soy, Nuts",None,In Stock,Aisle 12,Bin 16,2.5,Product_202
+Product_375,Produce,4.73,Clearance,None,None,Low Stock,Aisle 17,Bin 41,4.0,Product_444
+Product_376,Pantry,8.23,None,None,None,In Stock,Aisle 10,Bin 44,4.7,Product_914
+Product_377,Seafood,19.19,Buy 1 Get 1,Wheat,None,In Stock,Aisle 5,Bin 37,4.9,Product_18
+Product_378,Meat,3.05,Clearance,"Nuts, Eggs",None,In Stock,Aisle 15,Bin 27,3.9,Product_382
+Product_379,Seafood,10.84,Buy 1 Get 1,None,None,In Stock,Aisle 14,Bin 23,3.3,Product_709
+Product_380,Dairy,14.53,None,"Wheat, None",Low Sugar,Low Stock,Aisle 13,Bin 32,4.9,Product_386
+Product_381,Frozen Foods,21.58,$2 off,None,None,Low Stock,Aisle 12,Bin 36,3.3,Product_719
+Product_382,Pantry,23.15,10% off,"Milk, Soy",None,In Stock,Aisle 7,Bin 32,4.1,Product_21
+Product_383,Snacks,9.88,None,None,None,Low Stock,Aisle 3,Bin 19,4.4,Product_247
+Product_384,Pantry,12.02,Clearance,"Soy, Wheat","Keto, Low Sugar",Low Stock,Aisle 9,Bin 29,4.7,Product_52
+Product_385,Dairy,3.09,10% off,None,None,Out of Stock,Aisle 6,Bin 6,4.3,Product_10
+Product_386,Bakery,23.51,Clearance,None,None,In Stock,Aisle 9,Bin 27,3.4,Product_210
+Product_387,Bakery,6.97,Buy 1 Get 1,None,Gluten-Free,Low Stock,Aisle 10,Bin 2,2.7,Product_857
+Product_388,Snacks,8.22,None,None,None,In Stock,Aisle 19,Bin 43,4.3,Product_57
+Product_389,Bakery,23.07,$2 off,None,None,In Stock,Aisle 11,Bin 11,4.8,Product_499
+Product_390,Pantry,6.65,$2 off,None,"Low Sugar, Keto",Out of Stock,Aisle 2,Bin 23,4.9,Product_598
+Product_391,Frozen Foods,8.57,$2 off,None,"Low Sugar, Keto",In Stock,Aisle 11,Bin 4,3.5,Product_7
+Product_392,Meat,7.2,Clearance,None,None,In Stock,Aisle 5,Bin 38,3.8,Product_359
+Product_393,Dairy,11.68,$2 off,None,None,Out of Stock,Aisle 9,Bin 45,4.0,Product_605
+Product_394,Pantry,9.37,$2 off,None,None,In Stock,Aisle 13,Bin 26,5.0,Product_84
+Product_395,Bakery,8.9,$2 off,None,None,Out of Stock,Aisle 12,Bin 35,3.5,Product_597
+Product_396,Personal Care,20.89,Clearance,Wheat,Low Sugar,In Stock,Aisle 8,Bin 42,4.7,Product_38
+Product_397,Personal Care,15.65,10% off,None,"Keto, Low Sugar",In Stock,Aisle 18,Bin 10,3.1,Product_869
+Product_398,Frozen Foods,23.26,Buy 1 Get 1,Wheat,None,In Stock,Aisle 20,Bin 47,3.1,Product_279
+Product_399,Meat,14.94,None,"None, Nuts",None,Low Stock,Aisle 8,Bin 31,3.6,Product_557
+Product_400,Pantry,18.08,None,None,None,In Stock,Aisle 5,Bin 37,3.5,Product_688
+Product_401,Bakery,21.22,$2 off,Soy,None,In Stock,Aisle 7,Bin 24,3.4,Product_927
+Product_402,Personal Care,20.27,None,None,None,In Stock,Aisle 4,Bin 28,4.1,Product_220
+Product_403,Produce,3.66,None,None,None,In Stock,Aisle 18,Bin 34,4.4,Product_755
+Product_404,Beverages,3.1,10% off,Nuts,None,In Stock,Aisle 14,Bin 28,3.7,Product_150
+Product_405,Dairy,22.87,$2 off,None,None,In Stock,Aisle 20,Bin 14,2.7,Product_60
+Product_406,Beverages,7.39,None,"None, Wheat",None,Low Stock,Aisle 9,Bin 21,3.1,Product_868
+Product_407,Snacks,12.43,Clearance,None,"Vegan, Gluten-Free",In Stock,Aisle 1,Bin 20,4.9,Product_357
+Product_408,Snacks,13.26,None,None,None,Low Stock,Aisle 3,Bin 46,3.5,Product_400
+Product_409,Snacks,4.23,$2 off,None,None,Out of Stock,Aisle 18,Bin 31,4.3,Product_995
+Product_410,Personal Care,6.68,10% off,"None, Soy","Low Sugar, Keto",Low Stock,Aisle 16,Bin 42,3.8,Product_508
+Product_411,Produce,22.36,Buy 1 Get 1,Milk,"Vegan, None",In Stock,Aisle 12,Bin 15,2.5,Product_237
+Product_412,Frozen Foods,4.0,Clearance,Wheat,None,In Stock,Aisle 1,Bin 7,3.3,Product_182
+Product_413,Personal Care,7.41,None,None,None,In Stock,Aisle 4,Bin 25,2.5,Product_84
+Product_414,Seafood,8.12,None,Milk,"None, Vegan",In Stock,Aisle 13,Bin 21,4.4,Product_9
+Product_415,Frozen Foods,18.8,Buy 1 Get 1,None,None,In Stock,Aisle 13,Bin 41,2.7,Product_731
+Product_416,Beverages,23.66,Buy 1 Get 1,Wheat,None,Low Stock,Aisle 9,Bin 1,3.7,Product_317
+Product_417,Meat,10.77,None,None,None,Low Stock,Aisle 8,Bin 37,3.0,Product_239
+Product_418,Meat,21.03,Buy 1 Get 1,None,None,In Stock,Aisle 11,Bin 41,4.6,Product_761
+Product_419,Pantry,13.68,10% off,None,Keto,In Stock,Aisle 10,Bin 14,2.7,Product_9
+Product_420,Dairy,14.65,None,None,None,In Stock,Aisle 7,Bin 29,3.4,Product_845
+Product_421,Pantry,22.49,Clearance,None,None,Low Stock,Aisle 6,Bin 2,3.3,Product_235
+Product_422,Beverages,17.57,Clearance,Eggs,None,In Stock,Aisle 6,Bin 4,3.9,Product_32
+Product_423,Bakery,20.02,None,"Milk, Nuts",None,In Stock,Aisle 5,Bin 46,2.8,Product_196
+Product_424,Snacks,19.37,Clearance,"Eggs, Soy",None,In Stock,Aisle 16,Bin 39,3.0,Product_623
+Product_425,Dairy,2.48,$2 off,None,None,In Stock,Aisle 19,Bin 29,4.8,Product_592
+Product_426,Produce,9.44,Clearance,None,Vegan,Low Stock,Aisle 17,Bin 1,3.8,Product_89
+Product_427,Bakery,21.48,10% off,None,Vegan,In Stock,Aisle 15,Bin 20,2.6,Product_505
+Product_428,Frozen Foods,14.72,10% off,Nuts,None,In Stock,Aisle 1,Bin 11,4.0,Product_596
+Product_429,Beverages,22.55,10% off,None,Vegan,In Stock,Aisle 16,Bin 22,4.7,Product_872
+Product_430,Beverages,3.0,Buy 1 Get 1,None,None,Low Stock,Aisle 13,Bin 16,3.2,Product_316
+Product_431,Frozen Foods,6.32,10% off,None,None,In Stock,Aisle 7,Bin 43,3.2,Product_332
+Product_432,Snacks,5.33,Clearance,Wheat,None,Low Stock,Aisle 13,Bin 15,2.7,Product_151
+Product_433,Dairy,3.47,Clearance,None,None,In Stock,Aisle 6,Bin 31,4.9,Product_844
+Product_434,Bakery,18.4,10% off,None,None,Low Stock,Aisle 1,Bin 40,4.5,Product_368
+Product_435,Bakery,18.7,Buy 1 Get 1,None,"Vegan, Keto",Low Stock,Aisle 1,Bin 48,2.6,Product_279
+Product_436,Dairy,9.45,$2 off,Eggs,None,Low Stock,Aisle 1,Bin 4,2.8,Product_38
+Product_437,Snacks,14.5,Buy 1 Get 1,"Eggs, None",None,In Stock,Aisle 19,Bin 4,4.0,Product_962
+Product_438,Meat,3.11,$2 off,None,None,In Stock,Aisle 4,Bin 20,4.5,Product_305
+Product_439,Dairy,24.59,10% off,Eggs,None,In Stock,Aisle 10,Bin 50,3.6,Product_51
+Product_440,Personal Care,10.05,Clearance,None,"Keto, Low Sugar",In Stock,Aisle 1,Bin 7,2.6,Product_495
+Product_441,Beverages,1.64,10% off,"Nuts, Eggs",None,In Stock,Aisle 15,Bin 21,3.6,Product_644
+Product_442,Frozen Foods,21.08,Buy 1 Get 1,"None, Wheat","Gluten-Free, Keto",In Stock,Aisle 16,Bin 23,4.3,Product_276
+Product_443,Meat,23.7,None,None,None,Low Stock,Aisle 12,Bin 44,3.9,Product_192
+Product_444,Meat,20.08,Buy 1 Get 1,"Eggs, Wheat",None,Low Stock,Aisle 13,Bin 37,3.7,Product_362
+Product_445,Frozen Foods,11.5,10% off,"Nuts, Wheat",None,In Stock,Aisle 16,Bin 16,4.9,Product_995
+Product_446,Seafood,20.09,$2 off,None,None,In Stock,Aisle 15,Bin 37,3.6,Product_783
+Product_447,Snacks,14.76,$2 off,None,None,In Stock,Aisle 2,Bin 26,2.9,Product_909
+Product_448,Seafood,17.18,Buy 1 Get 1,None,None,Low Stock,Aisle 3,Bin 18,4.3,Product_802
+Product_449,Bakery,9.72,10% off,Soy,None,Out of Stock,Aisle 13,Bin 36,3.1,Product_292
+Product_450,Meat,22.87,None,Wheat,"Low Sugar, Keto",Low Stock,Aisle 6,Bin 15,3.4,Product_459
+Product_451,Frozen Foods,3.87,$2 off,None,None,In Stock,Aisle 11,Bin 34,2.8,Product_75
+Product_452,Pantry,1.89,10% off,None,"None, Vegan",In Stock,Aisle 17,Bin 15,4.8,Product_123
+Product_453,Snacks,13.22,Clearance,Soy,"Keto, Low Sugar",In Stock,Aisle 2,Bin 14,4.9,Product_254
+Product_454,Snacks,7.0,Clearance,None,None,In Stock,Aisle 18,Bin 32,4.9,Product_367
+Product_455,Frozen Foods,11.54,$2 off,Milk,None,In Stock,Aisle 16,Bin 46,3.6,Product_399
+Product_456,Beverages,21.74,10% off,None,Low Sugar,In Stock,Aisle 8,Bin 30,4.7,Product_646
+Product_457,Pantry,17.17,Clearance,None,None,In Stock,Aisle 2,Bin 22,4.3,Product_169
+Product_458,Bakery,24.45,10% off,"None, Nuts",None,In Stock,Aisle 11,Bin 35,3.6,Product_880
+Product_459,Dairy,12.84,Clearance,None,None,Out of Stock,Aisle 2,Bin 24,3.4,Product_38
+Product_460,Beverages,13.79,10% off,None,None,In Stock,Aisle 14,Bin 6,4.6,Product_363
+Product_461,Seafood,11.88,Buy 1 Get 1,None,None,Out of Stock,Aisle 11,Bin 34,3.4,Product_404
+Product_462,Beverages,24.76,None,None,None,In Stock,Aisle 3,Bin 24,5.0,Product_998
+Product_463,Snacks,15.17,Clearance,Wheat,None,In Stock,Aisle 10,Bin 27,4.5,Product_855
+Product_464,Snacks,16.11,None,None,None,In Stock,Aisle 10,Bin 41,4.2,Product_890
+Product_465,Snacks,19.87,10% off,None,None,In Stock,Aisle 6,Bin 19,3.9,Product_322
+Product_466,Personal Care,3.28,None,None,None,In Stock,Aisle 6,Bin 5,3.3,Product_581
+Product_467,Produce,14.43,10% off,None,None,In Stock,Aisle 7,Bin 45,4.9,Product_415
+Product_468,Seafood,3.7,10% off,"Soy, Wheat",None,Out of Stock,Aisle 4,Bin 48,2.8,Product_654
+Product_469,Seafood,21.39,None,None,None,In Stock,Aisle 14,Bin 7,3.6,Product_783
+Product_470,Pantry,4.85,$2 off,Wheat,None,In Stock,Aisle 8,Bin 48,4.5,Product_221
+Product_471,Seafood,7.95,$2 off,"Soy, Eggs",None,In Stock,Aisle 3,Bin 41,3.8,Product_783
+Product_472,Frozen Foods,16.31,$2 off,None,None,Low Stock,Aisle 15,Bin 31,3.4,Product_530
+Product_473,Bakery,10.17,Buy 1 Get 1,None,None,Out of Stock,Aisle 2,Bin 27,3.0,Product_527
+Product_474,Frozen Foods,7.47,10% off,None,None,In Stock,Aisle 3,Bin 35,4.6,Product_624
+Product_475,Pantry,20.66,10% off,None,None,In Stock,Aisle 13,Bin 27,4.3,Product_188
+Product_476,Produce,3.33,Buy 1 Get 1,"Wheat, Soy",None,In Stock,Aisle 10,Bin 14,2.7,Product_948
+Product_477,Frozen Foods,2.57,None,"Nuts, Milk",Low Sugar,In Stock,Aisle 9,Bin 18,2.5,Product_991
+Product_478,Pantry,21.29,Clearance,None,"Vegan, None",Low Stock,Aisle 16,Bin 42,4.1,Product_248
+Product_479,Bakery,3.18,None,None,Keto,Out of Stock,Aisle 12,Bin 8,4.9,Product_686
+Product_480,Meat,23.06,Clearance,None,None,In Stock,Aisle 17,Bin 25,3.7,Product_572
+Product_481,Beverages,22.98,$2 off,Soy,"Keto, Gluten-Free",In Stock,Aisle 2,Bin 31,2.7,Product_165
+Product_482,Seafood,1.03,Buy 1 Get 1,None,"Gluten-Free, None",In Stock,Aisle 18,Bin 38,4.4,Product_913
+Product_483,Beverages,23.69,10% off,"None, Wheat",None,In Stock,Aisle 2,Bin 1,3.4,Product_32
+Product_484,Frozen Foods,24.9,Buy 1 Get 1,None,None,In Stock,Aisle 14,Bin 43,4.7,Product_689
+Product_485,Produce,21.02,10% off,Soy,None,In Stock,Aisle 19,Bin 41,4.3,Product_118
+Product_486,Meat,5.91,$2 off,None,None,In Stock,Aisle 17,Bin 49,3.7,Product_926
+Product_487,Dairy,10.4,Clearance,None,None,In Stock,Aisle 10,Bin 30,2.5,Product_992
+Product_488,Produce,20.82,$2 off,None,Vegan,In Stock,Aisle 18,Bin 22,3.8,Product_223
+Product_489,Beverages,2.71,Buy 1 Get 1,"Soy, None",None,In Stock,Aisle 8,Bin 47,4.6,Product_796
+Product_490,Pantry,7.51,Clearance,Wheat,None,Low Stock,Aisle 18,Bin 44,4.2,Product_962
+Product_491,Bakery,12.35,$2 off,None,None,In Stock,Aisle 10,Bin 24,3.3,Product_84
+Product_492,Snacks,11.47,$2 off,"Milk, Eggs","Gluten-Free, Low Sugar",Low Stock,Aisle 14,Bin 45,2.6,Product_350
+Product_493,Pantry,8.46,Clearance,None,None,Out of Stock,Aisle 12,Bin 19,4.1,Product_170
+Product_494,Meat,7.39,Buy 1 Get 1,None,None,In Stock,Aisle 19,Bin 13,4.8,Product_28
+Product_495,Dairy,2.86,Clearance,"None, Soy",None,In Stock,Aisle 12,Bin 41,2.9,Product_981
+Product_496,Meat,14.74,Clearance,None,None,In Stock,Aisle 10,Bin 6,3.7,Product_903
+Product_497,Beverages,23.13,$2 off,None,None,In Stock,Aisle 20,Bin 5,3.9,Product_42
+Product_498,Seafood,12.87,Buy 1 Get 1,None,None,In Stock,Aisle 7,Bin 27,2.7,Product_627
+Product_499,Personal Care,5.56,$2 off,None,"Keto, Low Sugar",Out of Stock,Aisle 2,Bin 21,2.6,Product_652
+Product_500,Beverages,11.02,Buy 1 Get 1,Nuts,None,Out of Stock,Aisle 14,Bin 22,3.3,Product_56
+Product_501,Pantry,10.38,Clearance,None,None,In Stock,Aisle 4,Bin 37,4.7,Product_817
+Product_502,Personal Care,23.44,10% off,None,None,Out of Stock,Aisle 10,Bin 24,5.0,Product_650
+Product_503,Frozen Foods,4.97,Clearance,Nuts,"Vegan, Keto",In Stock,Aisle 13,Bin 31,4.7,Product_858
+Product_504,Dairy,6.28,Buy 1 Get 1,None,None,Low Stock,Aisle 12,Bin 42,3.8,Product_307
+Product_505,Personal Care,6.98,$2 off,"Milk, Soy",None,In Stock,Aisle 7,Bin 34,4.1,Product_597
+Product_506,Meat,18.28,Buy 1 Get 1,None,"Vegan, Gluten-Free",In Stock,Aisle 18,Bin 50,2.6,Product_593
+Product_507,Beverages,9.81,10% off,"Nuts, Milk",None,In Stock,Aisle 3,Bin 50,3.0,Product_512
+Product_508,Beverages,23.21,Buy 1 Get 1,None,None,In Stock,Aisle 8,Bin 35,4.7,Product_977
+Product_509,Seafood,20.76,$2 off,Eggs,None,Low Stock,Aisle 10,Bin 11,3.7,Product_266
+Product_510,Personal Care,19.26,None,"Wheat, Eggs",None,In Stock,Aisle 8,Bin 15,2.6,Product_676
+Product_511,Snacks,3.32,$2 off,Milk,Low Sugar,Out of Stock,Aisle 14,Bin 39,5.0,Product_153
+Product_512,Personal Care,7.52,None,None,None,In Stock,Aisle 18,Bin 42,2.8,Product_86
+Product_513,Dairy,19.02,None,"Wheat, Milk",None,In Stock,Aisle 7,Bin 47,2.6,Product_594
+Product_514,Bakery,13.85,10% off,None,None,In Stock,Aisle 12,Bin 8,4.9,Product_7
+Product_515,Personal Care,6.33,$2 off,None,None,In Stock,Aisle 20,Bin 42,3.6,Product_589
+Product_516,Seafood,18.13,None,None,None,Low Stock,Aisle 16,Bin 8,4.5,Product_318
+Product_517,Personal Care,12.47,Buy 1 Get 1,Nuts,Keto,In Stock,Aisle 16,Bin 17,2.8,Product_790
+Product_518,Snacks,20.76,None,"Eggs, Milk","Keto, None",In Stock,Aisle 18,Bin 25,3.8,Product_564
+Product_519,Personal Care,21.76,None,None,None,In Stock,Aisle 8,Bin 27,4.5,Product_141
+Product_520,Bakery,6.19,$2 off,None,Keto,In Stock,Aisle 20,Bin 38,2.9,Product_212
+Product_521,Frozen Foods,11.86,$2 off,None,None,In Stock,Aisle 6,Bin 41,3.7,Product_197
+Product_522,Pantry,21.46,$2 off,Nuts,"Low Sugar, None",In Stock,Aisle 2,Bin 34,4.9,Product_818
+Product_523,Bakery,8.5,$2 off,None,"Vegan, Keto",In Stock,Aisle 6,Bin 4,4.0,Product_971
+Product_524,Frozen Foods,18.52,10% off,None,None,Out of Stock,Aisle 11,Bin 19,2.6,Product_793
+Product_525,Beverages,3.81,None,None,"Keto, Vegan",In Stock,Aisle 13,Bin 2,2.6,Product_134
+Product_526,Beverages,14.42,Clearance,None,None,In Stock,Aisle 18,Bin 50,4.1,Product_165
+Product_527,Snacks,24.65,None,None,None,Low Stock,Aisle 6,Bin 14,4.2,Product_594
+Product_528,Snacks,5.47,None,None,None,In Stock,Aisle 14,Bin 40,3.5,Product_964
+Product_529,Bakery,17.4,$2 off,"Wheat, Nuts",None,Low Stock,Aisle 10,Bin 50,4.0,Product_840
+Product_530,Meat,13.66,$2 off,None,None,In Stock,Aisle 11,Bin 49,3.0,Product_189
+Product_531,Snacks,19.6,$2 off,None,None,In Stock,Aisle 7,Bin 34,3.7,Product_803
+Product_532,Beverages,7.58,None,Wheat,None,In Stock,Aisle 11,Bin 3,3.5,Product_439
+Product_533,Snacks,22.59,None,"None, Nuts","Gluten-Free, Low Sugar",In Stock,Aisle 20,Bin 31,2.9,Product_297
+Product_534,Personal Care,7.42,$2 off,"None, Soy",None,In Stock,Aisle 9,Bin 20,3.9,Product_198
+Product_535,Meat,20.2,Clearance,None,"Keto, Vegan",In Stock,Aisle 3,Bin 35,2.7,Product_929
+Product_536,Snacks,1.08,None,None,None,In Stock,Aisle 1,Bin 32,2.5,Product_123
+Product_537,Snacks,23.77,Clearance,None,None,In Stock,Aisle 18,Bin 44,2.6,Product_180
+Product_538,Beverages,19.42,10% off,None,None,In Stock,Aisle 18,Bin 50,3.1,Product_680
+Product_539,Snacks,9.68,Buy 1 Get 1,Eggs,None,In Stock,Aisle 17,Bin 34,4.2,Product_860
+Product_540,Bakery,2.06,10% off,Eggs,None,In Stock,Aisle 17,Bin 44,3.3,Product_548
+Product_541,Pantry,21.89,Clearance,None,"None, Gluten-Free",In Stock,Aisle 14,Bin 1,3.0,Product_256
+Product_542,Seafood,17.78,Buy 1 Get 1,None,None,Out of Stock,Aisle 3,Bin 19,4.5,Product_340
+Product_543,Seafood,18.96,Clearance,None,None,Out of Stock,Aisle 12,Bin 35,4.6,Product_463
+Product_544,Beverages,23.21,Buy 1 Get 1,"Eggs, Nuts",None,In Stock,Aisle 4,Bin 6,3.1,Product_31
+Product_545,Beverages,22.71,None,None,None,In Stock,Aisle 4,Bin 26,3.6,Product_127
+Product_546,Frozen Foods,13.76,$2 off,"Eggs, Nuts",None,In Stock,Aisle 10,Bin 14,3.0,Product_669
+Product_547,Snacks,3.83,None,"Eggs, Soy",None,In Stock,Aisle 1,Bin 4,3.5,Product_497
+Product_548,Frozen Foods,20.56,$2 off,None,Gluten-Free,In Stock,Aisle 4,Bin 36,2.6,Product_925
+Product_549,Produce,20.17,Clearance,None,None,Low Stock,Aisle 18,Bin 12,3.1,Product_506
+Product_550,Beverages,8.88,10% off,None,None,Low Stock,Aisle 20,Bin 48,4.9,Product_68
+Product_551,Meat,23.23,Buy 1 Get 1,Wheat,None,In Stock,Aisle 17,Bin 11,2.8,Product_627
+Product_552,Seafood,12.68,None,None,None,Low Stock,Aisle 17,Bin 19,4.3,Product_778
+Product_553,Pantry,14.49,Clearance,None,None,In Stock,Aisle 11,Bin 7,3.8,Product_778
+Product_554,Meat,9.77,Buy 1 Get 1,None,None,In Stock,Aisle 13,Bin 8,4.5,Product_221
+Product_555,Personal Care,7.71,Clearance,None,None,Low Stock,Aisle 2,Bin 25,2.6,Product_500
+Product_556,Produce,9.3,10% off,"None, Wheat",None,In Stock,Aisle 10,Bin 1,3.6,Product_561
+Product_557,Bakery,21.31,$2 off,"None, Soy",Low Sugar,In Stock,Aisle 5,Bin 33,4.1,Product_692
+Product_558,Dairy,2.14,Clearance,Wheat,None,In Stock,Aisle 13,Bin 17,3.7,Product_966
+Product_559,Seafood,15.0,Clearance,None,"None, Gluten-Free",In Stock,Aisle 11,Bin 7,2.6,Product_765
+Product_560,Snacks,17.89,Clearance,None,None,In Stock,Aisle 17,Bin 26,2.9,Product_328
+Product_561,Seafood,11.08,Buy 1 Get 1,None,None,Low Stock,Aisle 11,Bin 39,3.7,Product_97
+Product_562,Dairy,3.39,None,None,Gluten-Free,In Stock,Aisle 9,Bin 38,3.8,Product_282
+Product_563,Produce,24.31,Clearance,None,None,In Stock,Aisle 8,Bin 24,4.2,Product_32
+Product_564,Frozen Foods,19.64,Clearance,"Soy, Wheat",None,Low Stock,Aisle 1,Bin 39,3.6,Product_253
+Product_565,Meat,13.91,Clearance,None,None,In Stock,Aisle 5,Bin 42,2.9,Product_195
+Product_566,Personal Care,19.32,$2 off,None,None,In Stock,Aisle 10,Bin 48,4.7,Product_847
+Product_567,Dairy,12.54,10% off,None,None,In Stock,Aisle 17,Bin 27,4.5,Product_801
+Product_568,Meat,4.41,10% off,None,None,In Stock,Aisle 4,Bin 13,4.0,Product_48
+Product_569,Seafood,21.6,10% off,None,None,In Stock,Aisle 19,Bin 20,3.4,Product_591
+Product_570,Personal Care,3.92,Buy 1 Get 1,None,None,In Stock,Aisle 1,Bin 31,4.6,Product_315
+Product_571,Snacks,2.45,Buy 1 Get 1,None,None,In Stock,Aisle 20,Bin 25,2.6,Product_534
+Product_572,Beverages,9.23,None,Nuts,"Gluten-Free, Low Sugar",In Stock,Aisle 12,Bin 47,4.0,Product_32
+Product_573,Pantry,13.93,Buy 1 Get 1,None,None,In Stock,Aisle 3,Bin 10,3.4,Product_368
+Product_574,Dairy,11.52,Buy 1 Get 1,Wheat,None,In Stock,Aisle 2,Bin 1,4.8,Product_785
+Product_575,Pantry,19.04,$2 off,None,None,In Stock,Aisle 7,Bin 50,4.6,Product_536
+Product_576,Frozen Foods,16.67,Clearance,None,"Gluten-Free, Low Sugar",In Stock,Aisle 12,Bin 48,4.8,Product_496
+Product_577,Frozen Foods,14.29,10% off,Nuts,"Low Sugar, None",Low Stock,Aisle 20,Bin 19,2.5,Product_456
+Product_578,Pantry,6.82,10% off,None,None,In Stock,Aisle 7,Bin 25,2.7,Product_283
+Product_579,Snacks,13.79,Buy 1 Get 1,None,Gluten-Free,Low Stock,Aisle 8,Bin 33,3.4,Product_525
+Product_580,Seafood,8.05,None,None,None,In Stock,Aisle 20,Bin 34,4.1,Product_101
+Product_581,Dairy,22.18,Clearance,None,None,Out of Stock,Aisle 12,Bin 46,4.2,Product_485
+Product_582,Dairy,2.11,None,None,None,In Stock,Aisle 2,Bin 38,3.8,Product_184
+Product_583,Snacks,15.67,None,None,None,In Stock,Aisle 3,Bin 36,3.6,Product_887
+Product_584,Bakery,22.38,Buy 1 Get 1,None,None,In Stock,Aisle 18,Bin 17,4.7,Product_278
+Product_585,Meat,6.39,$2 off,None,"None, Vegan",In Stock,Aisle 17,Bin 26,4.6,Product_582
+Product_586,Frozen Foods,3.69,None,None,"Low Sugar, None",In Stock,Aisle 8,Bin 39,4.7,Product_106
+Product_587,Meat,9.25,10% off,"Milk, Soy",None,In Stock,Aisle 1,Bin 41,4.4,Product_74
+Product_588,Produce,2.11,None,None,None,Low Stock,Aisle 1,Bin 23,3.2,Product_164
+Product_589,Snacks,4.16,10% off,None,None,In Stock,Aisle 1,Bin 29,3.5,Product_158
+Product_590,Beverages,3.97,Buy 1 Get 1,Soy,None,Low Stock,Aisle 15,Bin 9,4.2,Product_513
+Product_591,Bakery,10.22,10% off,None,None,Low Stock,Aisle 16,Bin 5,4.3,Product_211
+Product_592,Frozen Foods,17.29,None,Eggs,None,In Stock,Aisle 12,Bin 41,2.9,Product_843
+Product_593,Pantry,22.82,$2 off,Wheat,None,Low Stock,Aisle 12,Bin 37,5.0,Product_24
+Product_594,Pantry,11.77,10% off,None,None,In Stock,Aisle 8,Bin 7,4.3,Product_730
+Product_595,Seafood,10.48,Buy 1 Get 1,"Soy, None",None,In Stock,Aisle 16,Bin 9,3.0,Product_475
+Product_596,Pantry,19.56,Buy 1 Get 1,None,None,In Stock,Aisle 7,Bin 39,3.8,Product_782
+Product_597,Bakery,6.15,Clearance,None,None,In Stock,Aisle 4,Bin 2,4.1,Product_841
+Product_598,Pantry,11.2,$2 off,None,Vegan,In Stock,Aisle 5,Bin 48,2.9,Product_41
+Product_599,Dairy,18.04,10% off,None,Vegan,In Stock,Aisle 14,Bin 33,4.6,Product_305
+Product_600,Meat,11.41,$2 off,None,None,In Stock,Aisle 20,Bin 49,2.6,Product_772
+Product_601,Produce,24.55,10% off,Milk,None,Out of Stock,Aisle 6,Bin 45,2.9,Product_546
+Product_602,Beverages,15.97,$2 off,None,None,Low Stock,Aisle 7,Bin 28,2.9,Product_91
+Product_603,Beverages,17.84,10% off,None,None,In Stock,Aisle 10,Bin 26,4.3,Product_950
+Product_604,Beverages,9.11,10% off,"Wheat, Milk",None,In Stock,Aisle 12,Bin 31,4.9,Product_403
+Product_605,Personal Care,7.31,Clearance,None,None,In Stock,Aisle 18,Bin 21,4.1,Product_433
+Product_606,Seafood,13.03,Clearance,Nuts,Gluten-Free,In Stock,Aisle 13,Bin 34,4.8,Product_46
+Product_607,Pantry,21.41,None,"Eggs, Wheat",None,Low Stock,Aisle 1,Bin 30,2.9,Product_388
+Product_608,Pantry,11.53,10% off,"Eggs, Nuts",None,Out of Stock,Aisle 6,Bin 21,2.5,Product_240
+Product_609,Seafood,17.75,None,None,None,Low Stock,Aisle 17,Bin 24,4.5,Product_660
+Product_610,Beverages,9.55,$2 off,Eggs,None,In Stock,Aisle 13,Bin 46,3.8,Product_463
+Product_611,Bakery,5.96,10% off,None,"Vegan, Gluten-Free",Low Stock,Aisle 12,Bin 50,4.5,Product_979
+Product_612,Produce,15.22,Buy 1 Get 1,None,Keto,In Stock,Aisle 14,Bin 21,4.8,Product_858
+Product_613,Seafood,4.6,Buy 1 Get 1,Wheat,None,In Stock,Aisle 5,Bin 38,4.3,Product_516
+Product_614,Pantry,12.3,10% off,None,None,In Stock,Aisle 14,Bin 23,4.0,Product_941
+Product_615,Frozen Foods,7.3,10% off,None,None,In Stock,Aisle 20,Bin 34,4.6,Product_17
+Product_616,Personal Care,23.36,Buy 1 Get 1,None,None,Low Stock,Aisle 15,Bin 37,2.7,Product_499
+Product_617,Seafood,9.59,Buy 1 Get 1,None,None,In Stock,Aisle 6,Bin 40,4.4,Product_754
+Product_618,Frozen Foods,20.17,$2 off,Eggs,None,Low Stock,Aisle 15,Bin 13,2.6,Product_556
+Product_619,Bakery,7.15,10% off,None,Keto,Out of Stock,Aisle 10,Bin 4,4.0,Product_307
+Product_620,Produce,10.78,None,None,None,In Stock,Aisle 11,Bin 45,4.9,Product_38
+Product_621,Produce,21.64,None,"Wheat, Nuts",None,In Stock,Aisle 1,Bin 23,4.8,Product_763
+Product_622,Bakery,23.3,$2 off,None,Gluten-Free,In Stock,Aisle 16,Bin 34,3.9,Product_131
+Product_623,Bakery,1.28,$2 off,"Nuts, Eggs",None,Low Stock,Aisle 18,Bin 34,4.1,Product_563
+Product_624,Snacks,17.29,$2 off,None,Low Sugar,In Stock,Aisle 4,Bin 6,4.4,Product_415
+Product_625,Pantry,8.34,10% off,None,None,In Stock,Aisle 10,Bin 36,3.6,Product_997
+Product_626,Bakery,14.84,Clearance,None,None,In Stock,Aisle 8,Bin 41,2.9,Product_97
+Product_627,Dairy,10.95,None,None,Vegan,In Stock,Aisle 12,Bin 36,4.4,Product_19
+Product_628,Beverages,1.18,None,None,None,In Stock,Aisle 5,Bin 31,3.6,Product_433
+Product_629,Meat,20.35,10% off,None,None,In Stock,Aisle 12,Bin 7,3.2,Product_357
+Product_630,Produce,6.06,Clearance,"Wheat, Eggs",None,Out of Stock,Aisle 16,Bin 41,3.5,Product_148
+Product_631,Seafood,4.87,10% off,None,None,Low Stock,Aisle 8,Bin 36,3.7,Product_645
+Product_632,Bakery,10.4,Buy 1 Get 1,None,None,In Stock,Aisle 4,Bin 17,2.9,Product_131
+Product_633,Dairy,11.1,10% off,Eggs,None,In Stock,Aisle 4,Bin 26,3.1,Product_814
+Product_634,Personal Care,17.01,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 44,3.6,Product_511
+Product_635,Dairy,9.3,None,None,None,In Stock,Aisle 7,Bin 10,3.4,Product_207
+Product_636,Produce,16.49,Clearance,None,"Vegan, Gluten-Free",In Stock,Aisle 3,Bin 49,3.8,Product_485
+Product_637,Personal Care,23.35,None,None,None,In Stock,Aisle 1,Bin 32,3.1,Product_287
+Product_638,Beverages,10.37,None,None,"Vegan, None",In Stock,Aisle 9,Bin 44,3.6,Product_990
+Product_639,Beverages,7.01,Clearance,None,None,Low Stock,Aisle 17,Bin 38,4.0,Product_35
+Product_640,Personal Care,8.7,None,None,"Vegan, Keto",In Stock,Aisle 14,Bin 4,4.7,Product_105
+Product_641,Seafood,16.92,None,None,None,Low Stock,Aisle 17,Bin 45,2.7,Product_320
+Product_642,Bakery,9.59,Buy 1 Get 1,None,None,In Stock,Aisle 9,Bin 7,4.3,Product_178
+Product_643,Beverages,7.1,Buy 1 Get 1,None,None,In Stock,Aisle 14,Bin 16,3.2,Product_338
+Product_644,Snacks,3.42,None,None,None,In Stock,Aisle 11,Bin 38,2.9,Product_832
+Product_645,Snacks,1.25,10% off,None,None,In Stock,Aisle 9,Bin 2,4.6,Product_217
+Product_646,Snacks,13.46,None,None,Keto,In Stock,Aisle 6,Bin 46,3.8,Product_588
+Product_647,Frozen Foods,23.02,10% off,None,None,In Stock,Aisle 1,Bin 1,4.7,Product_680
+Product_648,Produce,6.32,Buy 1 Get 1,"Soy, Eggs",None,In Stock,Aisle 3,Bin 28,3.8,Product_566
+Product_649,Personal Care,13.34,None,None,None,In Stock,Aisle 3,Bin 38,4.9,Product_993
+Product_650,Frozen Foods,18.56,Buy 1 Get 1,None,None,Out of Stock,Aisle 5,Bin 9,2.8,Product_685
+Product_651,Frozen Foods,21.79,None,None,None,In Stock,Aisle 18,Bin 38,3.8,Product_392
+Product_652,Seafood,8.7,$2 off,None,"Gluten-Free, Low Sugar",In Stock,Aisle 6,Bin 30,3.6,Product_250
+Product_653,Personal Care,18.02,10% off,None,"Gluten-Free, Vegan",In Stock,Aisle 5,Bin 24,3.8,Product_798
+Product_654,Beverages,15.12,Buy 1 Get 1,None,"Vegan, Low Sugar",In Stock,Aisle 1,Bin 27,4.6,Product_222
+Product_655,Snacks,15.36,None,None,None,In Stock,Aisle 9,Bin 31,5.0,Product_955
+Product_656,Frozen Foods,24.6,Clearance,None,None,In Stock,Aisle 2,Bin 20,4.9,Product_269
+Product_657,Meat,20.13,$2 off,None,None,In Stock,Aisle 18,Bin 32,4.4,Product_672
+Product_658,Frozen Foods,19.3,10% off,None,None,In Stock,Aisle 20,Bin 19,4.9,Product_517
+Product_659,Pantry,21.76,10% off,"Eggs, Soy",None,Out of Stock,Aisle 10,Bin 21,2.6,Product_691
+Product_660,Meat,15.08,Buy 1 Get 1,Soy,"Gluten-Free, Keto",Out of Stock,Aisle 16,Bin 24,3.6,Product_459
+Product_661,Personal Care,10.82,10% off,None,None,In Stock,Aisle 1,Bin 46,4.2,Product_745
+Product_662,Produce,4.55,$2 off,None,"Vegan, Low Sugar",In Stock,Aisle 17,Bin 27,2.8,Product_454
+Product_663,Meat,5.86,None,"Wheat, Nuts",None,Low Stock,Aisle 19,Bin 25,3.0,Product_41
+Product_664,Seafood,1.65,Clearance,None,Keto,Low Stock,Aisle 2,Bin 35,2.6,Product_354
+Product_665,Dairy,9.44,Buy 1 Get 1,Milk,None,In Stock,Aisle 11,Bin 9,4.6,Product_732
+Product_666,Bakery,14.53,Clearance,None,None,In Stock,Aisle 9,Bin 21,5.0,Product_4
+Product_667,Dairy,19.83,None,None,None,In Stock,Aisle 11,Bin 14,3.5,Product_623
+Product_668,Seafood,19.73,$2 off,None,None,In Stock,Aisle 1,Bin 49,4.2,Product_969
+Product_669,Beverages,3.09,$2 off,"Nuts, Eggs",None,In Stock,Aisle 3,Bin 17,3.0,Product_681
+Product_670,Meat,21.76,10% off,None,None,In Stock,Aisle 10,Bin 45,4.7,Product_192
+Product_671,Beverages,11.71,Clearance,None,None,In Stock,Aisle 11,Bin 17,4.6,Product_32
+Product_672,Beverages,15.6,$2 off,None,None,Out of Stock,Aisle 20,Bin 14,3.9,Product_935
+Product_673,Seafood,21.8,10% off,None,"Low Sugar, None",In Stock,Aisle 6,Bin 31,3.7,Product_838
+Product_674,Frozen Foods,11.46,Clearance,None,None,In Stock,Aisle 1,Bin 31,3.5,Product_761
+Product_675,Bakery,21.3,Clearance,None,None,In Stock,Aisle 3,Bin 10,4.5,Product_17
+Product_676,Pantry,18.47,Clearance,None,"None, Gluten-Free",In Stock,Aisle 5,Bin 4,5.0,Product_199
+Product_677,Pantry,4.62,None,"None, Nuts",None,In Stock,Aisle 2,Bin 39,2.6,Product_447
+Product_678,Frozen Foods,17.76,None,None,None,In Stock,Aisle 2,Bin 37,3.4,Product_770
+Product_679,Pantry,14.97,Clearance,None,None,In Stock,Aisle 3,Bin 35,3.1,Product_711
+Product_680,Produce,19.06,Clearance,None,None,Low Stock,Aisle 11,Bin 21,2.7,Product_799
+Product_681,Beverages,3.57,None,None,None,In Stock,Aisle 1,Bin 42,2.8,Product_885
+Product_682,Pantry,19.02,None,None,None,Out of Stock,Aisle 6,Bin 5,2.5,Product_676
+Product_683,Produce,7.81,$2 off,"Eggs, Nuts",None,In Stock,Aisle 9,Bin 7,4.5,Product_996
+Product_684,Produce,14.64,None,None,"Vegan, Low Sugar",Out of Stock,Aisle 17,Bin 5,3.8,Product_796
+Product_685,Personal Care,16.74,10% off,None,None,Low Stock,Aisle 8,Bin 49,5.0,Product_805
+Product_686,Dairy,6.41,10% off,"Wheat, Soy",Low Sugar,Low Stock,Aisle 19,Bin 42,3.5,Product_714
+Product_687,Pantry,21.94,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 8,4.8,Product_509
+Product_688,Frozen Foods,13.08,Buy 1 Get 1,None,None,Out of Stock,Aisle 16,Bin 24,5.0,Product_596
+Product_689,Personal Care,14.61,10% off,"None, Soy",None,In Stock,Aisle 2,Bin 1,2.9,Product_234
+Product_690,Beverages,24.38,10% off,"Milk, None",None,In Stock,Aisle 16,Bin 38,3.9,Product_377
+Product_691,Personal Care,12.89,Clearance,None,Keto,In Stock,Aisle 4,Bin 26,4.4,Product_748
+Product_692,Frozen Foods,6.12,$2 off,None,Gluten-Free,Low Stock,Aisle 1,Bin 16,3.8,Product_594
+Product_693,Beverages,1.99,None,None,None,In Stock,Aisle 9,Bin 5,5.0,Product_497
+Product_694,Meat,17.31,Buy 1 Get 1,"Soy, Wheat","Keto, Vegan",In Stock,Aisle 15,Bin 9,4.2,Product_672
+Product_695,Beverages,7.38,10% off,"Milk, Eggs",None,In Stock,Aisle 7,Bin 41,3.9,Product_182
+Product_696,Seafood,19.66,None,None,None,Out of Stock,Aisle 15,Bin 49,4.5,Product_541
+Product_697,Snacks,21.55,None,None,None,Low Stock,Aisle 9,Bin 50,3.4,Product_35
+Product_698,Pantry,15.91,Clearance,None,None,In Stock,Aisle 17,Bin 10,4.4,Product_454
+Product_699,Pantry,12.17,$2 off,"None, Soy",Low Sugar,In Stock,Aisle 13,Bin 9,2.9,Product_991
+Product_700,Dairy,16.42,Clearance,Milk,None,Low Stock,Aisle 11,Bin 26,3.3,Product_921
+Product_701,Frozen Foods,21.78,Buy 1 Get 1,None,None,Low Stock,Aisle 5,Bin 9,3.1,Product_116
+Product_702,Bakery,3.45,None,None,Low Sugar,Low Stock,Aisle 7,Bin 30,3.6,Product_552
+Product_703,Seafood,15.27,10% off,None,None,In Stock,Aisle 20,Bin 49,4.5,Product_414
+Product_704,Dairy,20.97,None,None,None,Low Stock,Aisle 20,Bin 25,2.6,Product_607
+Product_705,Dairy,11.25,Buy 1 Get 1,None,Low Sugar,In Stock,Aisle 1,Bin 1,4.8,Product_689
+Product_706,Seafood,14.85,10% off,None,Gluten-Free,Low Stock,Aisle 17,Bin 5,4.6,Product_755
+Product_707,Dairy,10.05,None,None,Keto,In Stock,Aisle 8,Bin 39,3.4,Product_29
+Product_708,Meat,10.71,$2 off,Eggs,None,In Stock,Aisle 17,Bin 34,4.7,Product_679
+Product_709,Dairy,23.24,Clearance,None,None,In Stock,Aisle 6,Bin 9,2.9,Product_15
+Product_710,Snacks,7.42,Clearance,None,None,In Stock,Aisle 4,Bin 23,4.4,Product_427
+Product_711,Bakery,17.7,10% off,Eggs,Gluten-Free,In Stock,Aisle 12,Bin 20,4.0,Product_250
+Product_712,Dairy,11.95,Clearance,None,"Keto, Low Sugar",Low Stock,Aisle 11,Bin 37,2.7,Product_454
+Product_713,Pantry,18.6,Buy 1 Get 1,None,None,Low Stock,Aisle 12,Bin 50,3.7,Product_257
+Product_714,Meat,15.72,None,None,Gluten-Free,Out of Stock,Aisle 10,Bin 25,2.8,Product_169
+Product_715,Dairy,16.09,Clearance,"None, Nuts",None,Low Stock,Aisle 19,Bin 19,4.8,Product_120
+Product_716,Seafood,3.79,$2 off,None,None,In Stock,Aisle 17,Bin 32,4.1,Product_131
+Product_717,Bakery,11.58,10% off,None,None,In Stock,Aisle 19,Bin 37,4.6,Product_156
+Product_718,Produce,7.83,None,None,None,Low Stock,Aisle 4,Bin 32,3.3,Product_637
+Product_719,Bakery,17.01,Buy 1 Get 1,"Soy, Eggs",None,In Stock,Aisle 15,Bin 1,3.6,Product_921
+Product_720,Seafood,23.6,None,"Soy, Eggs","Gluten-Free, Low Sugar",In Stock,Aisle 4,Bin 26,2.9,Product_52
+Product_721,Meat,6.16,Buy 1 Get 1,"Milk, Soy","Keto, Vegan",Low Stock,Aisle 15,Bin 49,4.9,Product_973
+Product_722,Produce,7.03,$2 off,None,None,In Stock,Aisle 11,Bin 25,3.5,Product_82
+Product_723,Snacks,20.45,Clearance,None,"None, Keto",In Stock,Aisle 14,Bin 41,3.6,Product_842
+Product_724,Meat,17.12,$2 off,Soy,None,In Stock,Aisle 9,Bin 39,4.0,Product_397
+Product_725,Meat,21.24,Clearance,None,None,Low Stock,Aisle 3,Bin 22,2.7,Product_127
+Product_726,Seafood,11.8,Buy 1 Get 1,None,None,In Stock,Aisle 15,Bin 32,3.4,Product_877
+Product_727,Pantry,17.54,10% off,None,None,In Stock,Aisle 14,Bin 17,5.0,Product_565
+Product_728,Personal Care,18.86,$2 off,Milk,None,Out of Stock,Aisle 9,Bin 21,3.1,Product_105
+Product_729,Seafood,11.78,None,None,Vegan,In Stock,Aisle 7,Bin 2,3.1,Product_729
+Product_730,Snacks,22.02,$2 off,"Milk, Wheat",Gluten-Free,In Stock,Aisle 17,Bin 47,2.6,Product_873
+Product_731,Beverages,7.1,$2 off,None,None,In Stock,Aisle 11,Bin 4,3.0,Product_367
+Product_732,Meat,10.14,$2 off,None,"Keto, Gluten-Free",In Stock,Aisle 6,Bin 3,3.7,Product_755
+Product_733,Seafood,13.61,Buy 1 Get 1,Soy,None,In Stock,Aisle 5,Bin 39,4.3,Product_289
+Product_734,Pantry,18.57,Buy 1 Get 1,None,None,In Stock,Aisle 8,Bin 39,3.4,Product_869
+Product_735,Frozen Foods,9.35,None,"Eggs, Soy",None,In Stock,Aisle 19,Bin 28,2.6,Product_459
+Product_736,Meat,2.23,None,Nuts,None,In Stock,Aisle 19,Bin 11,2.7,Product_44
+Product_737,Meat,10.2,$2 off,None,None,In Stock,Aisle 3,Bin 47,3.1,Product_928
+Product_738,Beverages,20.79,Buy 1 Get 1,None,None,In Stock,Aisle 6,Bin 39,4.9,Product_80
+Product_739,Produce,2.43,None,None,None,Out of Stock,Aisle 17,Bin 6,2.7,Product_107
+Product_740,Beverages,21.09,$2 off,None,None,Out of Stock,Aisle 18,Bin 23,3.3,Product_606
+Product_741,Pantry,1.51,Buy 1 Get 1,"Wheat, Eggs","Low Sugar, Vegan",In Stock,Aisle 8,Bin 49,3.7,Product_704
+Product_742,Dairy,11.48,$2 off,None,None,Out of Stock,Aisle 1,Bin 3,3.3,Product_73
+Product_743,Meat,9.03,$2 off,Wheat,"Keto, Low Sugar",In Stock,Aisle 6,Bin 47,3.6,Product_602
+Product_744,Pantry,8.63,Clearance,Eggs,"Gluten-Free, Keto",In Stock,Aisle 10,Bin 15,3.5,Product_366
+Product_745,Pantry,9.13,None,Wheat,None,Out of Stock,Aisle 15,Bin 27,4.9,Product_622
+Product_746,Bakery,18.41,$2 off,None,None,In Stock,Aisle 15,Bin 48,2.9,Product_148
+Product_747,Pantry,17.6,Buy 1 Get 1,None,None,In Stock,Aisle 17,Bin 7,3.5,Product_512
+Product_748,Frozen Foods,21.13,10% off,None,None,Low Stock,Aisle 15,Bin 39,4.1,Product_556
+Product_749,Produce,7.86,None,Eggs,Vegan,Low Stock,Aisle 3,Bin 28,3.3,Product_665
+Product_750,Personal Care,7.41,Buy 1 Get 1,None,None,Out of Stock,Aisle 20,Bin 27,4.5,Product_841
+Product_751,Snacks,7.28,Buy 1 Get 1,"Soy, Milk","Keto, Vegan",In Stock,Aisle 8,Bin 39,2.7,Product_793
+Product_752,Bakery,17.61,Clearance,None,None,In Stock,Aisle 14,Bin 38,3.7,Product_557
+Product_753,Dairy,23.73,None,"Eggs, Nuts",None,In Stock,Aisle 15,Bin 31,4.4,Product_402
+Product_754,Frozen Foods,18.18,None,None,None,Low Stock,Aisle 18,Bin 28,3.8,Product_974
+Product_755,Produce,5.54,None,None,None,In Stock,Aisle 12,Bin 46,4.7,Product_493
+Product_756,Frozen Foods,4.68,Buy 1 Get 1,None,None,Low Stock,Aisle 4,Bin 33,3.4,Product_359
+Product_757,Seafood,3.88,Buy 1 Get 1,Soy,None,In Stock,Aisle 12,Bin 50,4.0,Product_634
+Product_758,Pantry,21.17,None,Wheat,"Low Sugar, Keto",In Stock,Aisle 19,Bin 7,4.6,Product_431
+Product_759,Dairy,14.48,Buy 1 Get 1,None,None,In Stock,Aisle 4,Bin 33,4.8,Product_154
+Product_760,Beverages,2.16,Clearance,Wheat,None,Low Stock,Aisle 20,Bin 37,4.1,Product_125
+Product_761,Seafood,13.44,Buy 1 Get 1,"Milk, Eggs",None,In Stock,Aisle 6,Bin 15,4.8,Product_132
+Product_762,Seafood,8.68,10% off,None,None,In Stock,Aisle 3,Bin 33,4.7,Product_374
+Product_763,Produce,9.31,Buy 1 Get 1,None,"Gluten-Free, Vegan",In Stock,Aisle 19,Bin 27,3.7,Product_944
+Product_764,Pantry,11.5,Clearance,None,None,In Stock,Aisle 15,Bin 23,2.7,Product_119
+Product_765,Frozen Foods,4.61,None,None,None,In Stock,Aisle 15,Bin 15,3.7,Product_35
+Product_766,Pantry,18.58,Clearance,None,None,In Stock,Aisle 13,Bin 12,5.0,Product_456
+Product_767,Personal Care,24.49,10% off,None,"Low Sugar, None",In Stock,Aisle 14,Bin 29,3.0,Product_259
+Product_768,Meat,12.92,Buy 1 Get 1,None,None,In Stock,Aisle 4,Bin 23,4.7,Product_854
+Product_769,Meat,22.63,Buy 1 Get 1,None,None,In Stock,Aisle 5,Bin 26,3.1,Product_252
+Product_770,Pantry,14.41,None,None,"Keto, None",In Stock,Aisle 5,Bin 15,4.5,Product_129
+Product_771,Frozen Foods,14.69,Clearance,"None, Soy",None,Low Stock,Aisle 15,Bin 47,2.9,Product_454
+Product_772,Snacks,12.17,Buy 1 Get 1,None,Vegan,In Stock,Aisle 3,Bin 28,4.0,Product_183
+Product_773,Frozen Foods,5.19,None,"None, Nuts",None,Out of Stock,Aisle 20,Bin 16,2.7,Product_331
+Product_774,Personal Care,20.01,None,None,None,In Stock,Aisle 10,Bin 1,2.7,Product_159
+Product_775,Seafood,17.19,Buy 1 Get 1,"Eggs, None",None,In Stock,Aisle 1,Bin 25,4.8,Product_565
+Product_776,Produce,8.2,Buy 1 Get 1,None,"Keto, Gluten-Free",In Stock,Aisle 5,Bin 22,4.3,Product_580
+Product_777,Beverages,17.7,10% off,"None, Wheat",None,Low Stock,Aisle 3,Bin 16,4.3,Product_751
+Product_778,Personal Care,19.97,$2 off,None,None,In Stock,Aisle 5,Bin 47,3.0,Product_458
+Product_779,Pantry,12.87,10% off,Milk,None,Out of Stock,Aisle 15,Bin 17,4.6,Product_743
+Product_780,Personal Care,1.82,$2 off,Eggs,"Gluten-Free, Vegan",In Stock,Aisle 14,Bin 43,3.8,Product_739
+Product_781,Seafood,5.7,Clearance,None,None,In Stock,Aisle 13,Bin 5,3.3,Product_556
+Product_782,Seafood,16.62,$2 off,Eggs,None,In Stock,Aisle 1,Bin 30,3.0,Product_96
+Product_783,Beverages,7.55,Buy 1 Get 1,Wheat,None,In Stock,Aisle 10,Bin 11,3.4,Product_187
+Product_784,Personal Care,14.32,Clearance,"None, Wheat",None,In Stock,Aisle 3,Bin 48,4.9,Product_775
+Product_785,Meat,22.49,10% off,None,None,Low Stock,Aisle 5,Bin 2,3.7,Product_835
+Product_786,Dairy,23.8,Buy 1 Get 1,"Soy, Milk",None,In Stock,Aisle 20,Bin 18,4.4,Product_984
+Product_787,Produce,1.05,None,Milk,None,Low Stock,Aisle 17,Bin 27,3.6,Product_81
+Product_788,Produce,18.35,Clearance,Nuts,"None, Gluten-Free",In Stock,Aisle 4,Bin 39,3.4,Product_432
+Product_789,Meat,9.4,None,None,None,Low Stock,Aisle 17,Bin 26,2.9,Product_762
+Product_790,Bakery,9.57,None,None,None,Low Stock,Aisle 14,Bin 15,3.3,Product_92
+Product_791,Personal Care,1.5,Clearance,None,None,In Stock,Aisle 17,Bin 11,2.6,Product_615
+Product_792,Bakery,8.17,10% off,None,None,Out of Stock,Aisle 9,Bin 12,4.6,Product_701
+Product_793,Produce,7.46,10% off,None,None,In Stock,Aisle 13,Bin 27,2.8,Product_968
+Product_794,Produce,7.18,Clearance,None,None,In Stock,Aisle 4,Bin 27,4.5,Product_240
+Product_795,Seafood,11.36,None,None,"None, Keto",In Stock,Aisle 3,Bin 17,3.0,Product_313
+Product_796,Meat,18.26,$2 off,Soy,None,In Stock,Aisle 16,Bin 30,3.0,Product_65
+Product_797,Snacks,14.95,$2 off,None,None,In Stock,Aisle 15,Bin 45,3.6,Product_847
+Product_798,Dairy,8.31,Buy 1 Get 1,Milk,"Keto, Gluten-Free",Low Stock,Aisle 1,Bin 47,3.3,Product_491
+Product_799,Personal Care,24.16,Clearance,None,Low Sugar,Low Stock,Aisle 17,Bin 21,3.1,Product_967
+Product_800,Personal Care,7.42,10% off,Milk,None,In Stock,Aisle 18,Bin 32,4.4,Product_724
+Product_801,Bakery,17.44,$2 off,"Wheat, Milk",Vegan,Low Stock,Aisle 18,Bin 2,4.6,Product_736
+Product_802,Pantry,15.79,$2 off,Milk,None,In Stock,Aisle 14,Bin 29,4.2,Product_825
+Product_803,Produce,23.16,10% off,None,"None, Gluten-Free",Low Stock,Aisle 6,Bin 7,2.9,Product_409
+Product_804,Frozen Foods,4.37,None,"Wheat, Eggs",None,In Stock,Aisle 13,Bin 28,4.1,Product_320
+Product_805,Bakery,5.81,Clearance,"Nuts, Eggs",None,In Stock,Aisle 5,Bin 22,4.4,Product_882
+Product_806,Snacks,23.41,Clearance,None,"Keto, Vegan",In Stock,Aisle 4,Bin 5,4.0,Product_700
+Product_807,Meat,15.1,$2 off,None,None,Low Stock,Aisle 8,Bin 13,4.9,Product_682
+Product_808,Beverages,3.16,Clearance,Soy,None,Low Stock,Aisle 5,Bin 3,3.5,Product_176
+Product_809,Pantry,12.39,Buy 1 Get 1,None,None,In Stock,Aisle 19,Bin 3,4.6,Product_525
+Product_810,Seafood,14.98,Clearance,None,"Gluten-Free, Keto",In Stock,Aisle 10,Bin 21,3.2,Product_548
+Product_811,Seafood,18.77,None,Milk,None,In Stock,Aisle 10,Bin 8,4.9,Product_93
+Product_812,Seafood,5.91,Buy 1 Get 1,None,"Gluten-Free, None",In Stock,Aisle 4,Bin 49,3.7,Product_713
+Product_813,Frozen Foods,11.8,None,None,None,In Stock,Aisle 18,Bin 18,4.2,Product_171
+Product_814,Pantry,20.57,Clearance,None,None,In Stock,Aisle 5,Bin 49,4.0,Product_554
+Product_815,Produce,8.98,$2 off,None,None,In Stock,Aisle 12,Bin 41,4.6,Product_617
+Product_816,Meat,1.25,$2 off,None,Gluten-Free,In Stock,Aisle 2,Bin 31,2.7,Product_143
+Product_817,Beverages,21.82,None,None,None,In Stock,Aisle 4,Bin 12,4.0,Product_858
+Product_818,Beverages,2.02,Clearance,None,None,In Stock,Aisle 5,Bin 11,3.5,Product_781
+Product_819,Personal Care,6.84,10% off,None,None,Low Stock,Aisle 11,Bin 27,3.9,Product_825
+Product_820,Bakery,19.3,Buy 1 Get 1,Wheat,None,In Stock,Aisle 20,Bin 26,2.5,Product_354
+Product_821,Personal Care,17.52,10% off,"Milk, Soy",None,Low Stock,Aisle 19,Bin 36,4.3,Product_124
+Product_822,Bakery,5.54,$2 off,None,None,In Stock,Aisle 13,Bin 37,4.2,Product_361
+Product_823,Meat,22.51,$2 off,None,None,In Stock,Aisle 8,Bin 7,4.3,Product_171
+Product_824,Produce,3.03,$2 off,"Eggs, Milk",None,In Stock,Aisle 12,Bin 37,4.3,Product_138
+Product_825,Seafood,21.41,$2 off,None,None,In Stock,Aisle 1,Bin 15,3.3,Product_691
+Product_826,Snacks,15.63,Clearance,None,None,In Stock,Aisle 1,Bin 5,4.8,Product_622
+Product_827,Bakery,8.53,Buy 1 Get 1,"Wheat, Soy",None,In Stock,Aisle 9,Bin 26,3.1,Product_144
+Product_828,Dairy,16.72,$2 off,None,None,In Stock,Aisle 3,Bin 5,3.0,Product_66
+Product_829,Dairy,24.42,$2 off,None,None,In Stock,Aisle 18,Bin 18,4.4,Product_841
+Product_830,Bakery,11.13,10% off,None,None,Low Stock,Aisle 5,Bin 45,4.6,Product_92
+Product_831,Produce,8.63,Buy 1 Get 1,None,None,In Stock,Aisle 6,Bin 41,4.3,Product_408
+Product_832,Beverages,3.14,$2 off,None,None,In Stock,Aisle 8,Bin 14,4.2,Product_581
+Product_833,Seafood,14.62,None,"Soy, None","Keto, Gluten-Free",Low Stock,Aisle 10,Bin 44,2.6,Product_398
+Product_834,Frozen Foods,18.12,$2 off,None,None,In Stock,Aisle 19,Bin 28,4.1,Product_419
+Product_835,Meat,19.35,Clearance,"Eggs, Wheat","Gluten-Free, None",In Stock,Aisle 3,Bin 12,4.1,Product_761
+Product_836,Meat,24.66,$2 off,None,Gluten-Free,Low Stock,Aisle 13,Bin 4,4.6,Product_983
+Product_837,Frozen Foods,18.76,$2 off,None,"Low Sugar, Keto",Out of Stock,Aisle 17,Bin 36,4.8,Product_767
+Product_838,Snacks,8.79,$2 off,Nuts,None,In Stock,Aisle 9,Bin 9,3.1,Product_121
+Product_839,Bakery,15.07,None,"Wheat, Eggs",None,In Stock,Aisle 9,Bin 14,4.9,Product_278
+Product_840,Seafood,1.42,Clearance,None,None,In Stock,Aisle 4,Bin 43,3.9,Product_427
+Product_841,Bakery,20.08,10% off,Soy,None,In Stock,Aisle 13,Bin 39,2.5,Product_686
+Product_842,Dairy,2.63,None,Soy,None,In Stock,Aisle 18,Bin 50,4.4,Product_893
+Product_843,Seafood,24.73,Buy 1 Get 1,"None, Nuts",None,In Stock,Aisle 16,Bin 15,2.7,Product_801
+Product_844,Snacks,20.17,$2 off,None,None,In Stock,Aisle 16,Bin 29,3.6,Product_995
+Product_845,Frozen Foods,12.51,Buy 1 Get 1,"Eggs, Milk",None,In Stock,Aisle 12,Bin 9,3.0,Product_545
+Product_846,Dairy,2.43,Buy 1 Get 1,None,None,Low Stock,Aisle 20,Bin 37,4.4,Product_50
+Product_847,Beverages,7.73,Buy 1 Get 1,Soy,Low Sugar,In Stock,Aisle 4,Bin 10,4.9,Product_525
+Product_848,Snacks,3.87,Clearance,None,None,In Stock,Aisle 18,Bin 33,3.7,Product_193
+Product_849,Seafood,14.05,10% off,None,None,Out of Stock,Aisle 18,Bin 31,4.0,Product_40
+Product_850,Dairy,2.58,Buy 1 Get 1,None,None,In Stock,Aisle 16,Bin 44,4.8,Product_668
+Product_851,Meat,14.14,Clearance,None,None,Low Stock,Aisle 20,Bin 33,5.0,Product_649
+Product_852,Meat,3.91,$2 off,None,Low Sugar,In Stock,Aisle 8,Bin 20,4.4,Product_200
+Product_853,Meat,17.06,$2 off,None,None,Low Stock,Aisle 11,Bin 5,3.6,Product_367
+Product_854,Produce,15.63,Buy 1 Get 1,None,None,Low Stock,Aisle 11,Bin 29,2.7,Product_798
+Product_855,Personal Care,9.33,None,"Soy, Eggs",None,Low Stock,Aisle 4,Bin 50,3.9,Product_999
+Product_856,Produce,24.23,None,None,"Vegan, Low Sugar",In Stock,Aisle 12,Bin 32,4.6,Product_586
+Product_857,Meat,1.84,Buy 1 Get 1,None,None,In Stock,Aisle 12,Bin 14,4.6,Product_232
+Product_858,Seafood,13.94,None,"None, Wheat",None,In Stock,Aisle 6,Bin 46,4.4,Product_638
+Product_859,Produce,20.8,10% off,None,None,In Stock,Aisle 3,Bin 11,4.8,Product_969
+Product_860,Snacks,6.0,Clearance,None,Low Sugar,In Stock,Aisle 18,Bin 1,3.9,Product_545
+Product_861,Meat,15.64,$2 off,"Soy, Nuts","Vegan, Keto",In Stock,Aisle 12,Bin 8,4.3,Product_778
+Product_862,Snacks,5.13,10% off,None,"None, Vegan",Low Stock,Aisle 16,Bin 35,4.7,Product_223
+Product_863,Dairy,6.13,10% off,None,Keto,In Stock,Aisle 13,Bin 26,3.4,Product_662
+Product_864,Snacks,4.03,10% off,None,None,Out of Stock,Aisle 18,Bin 46,3.1,Product_294
+Product_865,Pantry,14.32,Buy 1 Get 1,None,None,Out of Stock,Aisle 18,Bin 40,3.7,Product_548
+Product_866,Personal Care,13.77,Buy 1 Get 1,"Wheat, None","Vegan, Low Sugar",Low Stock,Aisle 11,Bin 30,4.1,Product_253
+Product_867,Bakery,2.66,Clearance,"None, Nuts",None,In Stock,Aisle 8,Bin 29,4.8,Product_719
+Product_868,Dairy,15.74,Buy 1 Get 1,None,None,Out of Stock,Aisle 20,Bin 9,4.4,Product_593
+Product_869,Personal Care,15.74,Clearance,None,None,Low Stock,Aisle 9,Bin 43,4.0,Product_398
+Product_870,Seafood,19.69,None,None,None,In Stock,Aisle 11,Bin 22,3.4,Product_108
+Product_871,Dairy,17.74,$2 off,None,None,Low Stock,Aisle 11,Bin 21,3.7,Product_569
+Product_872,Dairy,5.32,None,None,None,In Stock,Aisle 2,Bin 48,4.1,Product_858
+Product_873,Bakery,1.07,None,None,None,In Stock,Aisle 7,Bin 40,4.5,Product_535
+Product_874,Beverages,15.29,$2 off,None,None,In Stock,Aisle 2,Bin 43,3.1,Product_270
+Product_875,Seafood,8.78,Buy 1 Get 1,None,"Vegan, Gluten-Free",In Stock,Aisle 3,Bin 4,4.4,Product_886
+Product_876,Meat,11.21,None,None,None,In Stock,Aisle 5,Bin 35,3.9,Product_528
+Product_877,Personal Care,6.2,$2 off,None,"Keto, Gluten-Free",In Stock,Aisle 4,Bin 19,4.3,Product_497
+Product_878,Frozen Foods,22.24,10% off,None,"Low Sugar, None",Low Stock,Aisle 8,Bin 48,3.1,Product_436
+Product_879,Dairy,4.75,$2 off,None,Gluten-Free,In Stock,Aisle 9,Bin 32,2.8,Product_556
+Product_880,Produce,16.99,Clearance,"None, Eggs",None,In Stock,Aisle 4,Bin 6,2.7,Product_658
+Product_881,Meat,21.03,Buy 1 Get 1,Soy,Low Sugar,In Stock,Aisle 4,Bin 2,4.8,Product_448
+Product_882,Personal Care,20.9,$2 off,Eggs,None,Low Stock,Aisle 12,Bin 43,3.9,Product_376
+Product_883,Beverages,6.97,Buy 1 Get 1,Soy,Low Sugar,Out of Stock,Aisle 8,Bin 45,2.6,Product_889
+Product_884,Personal Care,24.94,Buy 1 Get 1,"Wheat, Eggs","Vegan, Gluten-Free",Low Stock,Aisle 15,Bin 29,4.8,Product_722
+Product_885,Bakery,6.11,10% off,None,None,In Stock,Aisle 11,Bin 24,3.8,Product_180
+Product_886,Personal Care,20.69,Clearance,None,None,In Stock,Aisle 8,Bin 5,3.6,Product_705
+Product_887,Snacks,18.29,$2 off,Milk,"Vegan, None",In Stock,Aisle 2,Bin 12,3.7,Product_334
+Product_888,Beverages,8.71,Clearance,None,None,In Stock,Aisle 9,Bin 34,4.0,Product_190
+Product_889,Frozen Foods,22.98,10% off,None,None,In Stock,Aisle 4,Bin 8,3.3,Product_782
+Product_890,Meat,2.94,10% off,None,None,Low Stock,Aisle 14,Bin 17,4.0,Product_578
+Product_891,Frozen Foods,19.71,Clearance,None,None,In Stock,Aisle 20,Bin 7,4.8,Product_943
+Product_892,Personal Care,19.38,10% off,None,Keto,Low Stock,Aisle 20,Bin 32,3.8,Product_769
+Product_893,Snacks,7.9,10% off,None,None,Low Stock,Aisle 3,Bin 31,2.8,Product_232
+Product_894,Seafood,24.25,$2 off,None,Keto,In Stock,Aisle 4,Bin 20,4.4,Product_677
+Product_895,Frozen Foods,4.48,None,None,None,Low Stock,Aisle 12,Bin 33,4.9,Product_498
+Product_896,Personal Care,14.36,Clearance,"Soy, Milk",None,In Stock,Aisle 18,Bin 6,2.7,Product_837
+Product_897,Meat,9.07,10% off,None,None,Low Stock,Aisle 3,Bin 25,4.2,Product_531
+Product_898,Dairy,21.84,Clearance,None,Gluten-Free,In Stock,Aisle 9,Bin 24,4.3,Product_108
+Product_899,Snacks,12.37,10% off,None,Keto,Low Stock,Aisle 19,Bin 45,3.2,Product_323
+Product_900,Frozen Foods,1.09,Buy 1 Get 1,None,"Keto, None",In Stock,Aisle 15,Bin 6,3.1,Product_89
+Product_901,Frozen Foods,3.99,10% off,None,None,In Stock,Aisle 12,Bin 8,3.6,Product_353
+Product_902,Beverages,20.31,Clearance,None,None,In Stock,Aisle 20,Bin 36,3.1,Product_484
+Product_903,Seafood,20.55,10% off,None,None,Low Stock,Aisle 9,Bin 49,4.8,Product_672
+Product_904,Dairy,22.3,10% off,Wheat,None,In Stock,Aisle 15,Bin 16,3.5,Product_895
+Product_905,Dairy,24.86,None,"Milk, Wheat",None,In Stock,Aisle 15,Bin 40,4.6,Product_652
+Product_906,Snacks,4.02,Buy 1 Get 1,Milk,None,In Stock,Aisle 7,Bin 5,3.8,Product_810
+Product_907,Pantry,23.91,Clearance,None,None,Out of Stock,Aisle 13,Bin 11,2.9,Product_533
+Product_908,Bakery,21.68,10% off,Eggs,None,In Stock,Aisle 18,Bin 7,3.2,Product_927
+Product_909,Seafood,18.68,10% off,None,None,Low Stock,Aisle 10,Bin 34,4.3,Product_633
+Product_910,Seafood,6.57,Clearance,None,None,In Stock,Aisle 12,Bin 21,4.2,Product_698
+Product_911,Dairy,17.64,10% off,None,"None, Keto",Low Stock,Aisle 1,Bin 9,3.9,Product_286
+Product_912,Snacks,17.33,10% off,Milk,"None, Vegan",Low Stock,Aisle 6,Bin 46,3.6,Product_269
+Product_913,Seafood,16.94,Clearance,None,Keto,In Stock,Aisle 20,Bin 4,2.6,Product_511
+Product_914,Snacks,20.08,None,None,Low Sugar,Low Stock,Aisle 7,Bin 38,3.3,Product_888
+Product_915,Produce,9.57,$2 off,None,None,Out of Stock,Aisle 13,Bin 30,2.6,Product_637
+Product_916,Snacks,9.41,None,None,None,Low Stock,Aisle 9,Bin 32,4.7,Product_694
+Product_917,Bakery,8.07,Buy 1 Get 1,"Soy, Milk",None,In Stock,Aisle 10,Bin 4,3.7,Product_531
+Product_918,Seafood,13.71,Buy 1 Get 1,None,"None, Keto",In Stock,Aisle 18,Bin 16,2.8,Product_937
+Product_919,Bakery,20.33,10% off,None,"Low Sugar, None",In Stock,Aisle 10,Bin 38,2.9,Product_622
+Product_920,Snacks,1.87,10% off,None,"Vegan, Low Sugar",Out of Stock,Aisle 2,Bin 12,2.9,Product_166
+Product_921,Meat,18.95,$2 off,None,None,In Stock,Aisle 19,Bin 19,2.9,Product_375
+Product_922,Beverages,2.06,Clearance,None,None,In Stock,Aisle 12,Bin 22,3.1,Product_787
+Product_923,Snacks,20.28,Buy 1 Get 1,None,"Gluten-Free, Low Sugar",Out of Stock,Aisle 15,Bin 44,2.6,Product_700
+Product_924,Frozen Foods,6.59,10% off,"None, Soy",None,Out of Stock,Aisle 16,Bin 44,4.1,Product_500
+Product_925,Beverages,7.25,None,"Eggs, Soy",None,In Stock,Aisle 13,Bin 2,4.5,Product_138
+Product_926,Produce,9.16,$2 off,None,Vegan,In Stock,Aisle 14,Bin 26,2.7,Product_536
+Product_927,Frozen Foods,3.72,Clearance,Eggs,"None, Keto",In Stock,Aisle 3,Bin 8,3.6,Product_238
+Product_928,Bakery,5.86,Buy 1 Get 1,None,Keto,In Stock,Aisle 18,Bin 20,3.6,Product_682
+Product_929,Snacks,4.99,Clearance,None,"Vegan, Gluten-Free",In Stock,Aisle 10,Bin 32,2.9,Product_334
+Product_930,Snacks,10.56,10% off,None,None,In Stock,Aisle 9,Bin 15,4.6,Product_797
+Product_931,Dairy,10.7,None,None,None,In Stock,Aisle 20,Bin 27,2.5,Product_348
+Product_932,Meat,16.2,Buy 1 Get 1,None,None,In Stock,Aisle 8,Bin 13,3.7,Product_390
+Product_933,Produce,17.56,$2 off,None,None,In Stock,Aisle 10,Bin 11,4.8,Product_32
+Product_934,Dairy,4.45,10% off,None,"Gluten-Free, Low Sugar",In Stock,Aisle 20,Bin 26,4.9,Product_667
+Product_935,Pantry,21.42,None,None,None,In Stock,Aisle 10,Bin 2,4.0,Product_742
+Product_936,Frozen Foods,24.12,None,None,None,In Stock,Aisle 16,Bin 32,3.3,Product_309
+Product_937,Pantry,5.78,10% off,None,None,In Stock,Aisle 5,Bin 10,3.2,Product_581
+Product_938,Meat,6.89,None,"Milk, Wheat",Vegan,In Stock,Aisle 10,Bin 36,2.5,Product_267
+Product_939,Seafood,14.64,Clearance,None,None,Out of Stock,Aisle 20,Bin 11,4.7,Product_311
+Product_940,Personal Care,8.9,$2 off,"Nuts, Wheat",None,In Stock,Aisle 11,Bin 8,3.7,Product_202
+Product_941,Produce,12.79,None,None,None,In Stock,Aisle 20,Bin 20,4.7,Product_263
+Product_942,Frozen Foods,15.77,Buy 1 Get 1,None,None,In Stock,Aisle 10,Bin 41,3.9,Product_779
+Product_943,Snacks,7.13,Buy 1 Get 1,"Wheat, Nuts",Keto,In Stock,Aisle 14,Bin 12,4.1,Product_678
+Product_944,Pantry,9.11,Clearance,None,Gluten-Free,Low Stock,Aisle 13,Bin 2,3.5,Product_443
+Product_945,Beverages,6.68,Buy 1 Get 1,Eggs,None,In Stock,Aisle 10,Bin 21,3.2,Product_857
+Product_946,Dairy,1.96,Clearance,"None, Nuts",None,Out of Stock,Aisle 2,Bin 3,3.2,Product_59
+Product_947,Beverages,23.25,Buy 1 Get 1,Soy,None,In Stock,Aisle 15,Bin 28,4.4,Product_171
+Product_948,Meat,9.03,10% off,None,None,Low Stock,Aisle 9,Bin 27,3.9,Product_648
+Product_949,Frozen Foods,5.81,Buy 1 Get 1,Eggs,None,In Stock,Aisle 18,Bin 14,3.0,Product_208
+Product_950,Seafood,21.29,Buy 1 Get 1,None,Keto,In Stock,Aisle 9,Bin 5,3.9,Product_832
+Product_951,Frozen Foods,24.23,Buy 1 Get 1,None,None,In Stock,Aisle 14,Bin 19,2.6,Product_121
+Product_952,Meat,2.58,Clearance,None,Keto,In Stock,Aisle 5,Bin 17,3.7,Product_573
+Product_953,Beverages,11.96,$2 off,None,None,In Stock,Aisle 15,Bin 9,4.1,Product_271
+Product_954,Bakery,17.05,Buy 1 Get 1,"Eggs, None",None,In Stock,Aisle 10,Bin 24,3.1,Product_960
+Product_955,Produce,5.02,None,None,None,In Stock,Aisle 16,Bin 43,3.7,Product_202
+Product_956,Meat,18.56,10% off,"Eggs, Wheat",None,Low Stock,Aisle 14,Bin 11,4.8,Product_591
+Product_957,Produce,22.25,Clearance,None,None,In Stock,Aisle 8,Bin 5,3.7,Product_207
+Product_958,Frozen Foods,12.3,None,"None, Soy","Gluten-Free, Keto",Out of Stock,Aisle 15,Bin 40,2.5,Product_986
+Product_959,Beverages,19.99,$2 off,"Soy, Milk",None,Out of Stock,Aisle 1,Bin 33,3.7,Product_548
+Product_960,Beverages,9.16,Clearance,Nuts,None,In Stock,Aisle 19,Bin 40,3.9,Product_189
+Product_961,Beverages,14.41,None,None,Keto,In Stock,Aisle 17,Bin 20,4.3,Product_682
+Product_962,Snacks,1.8,Buy 1 Get 1,None,None,In Stock,Aisle 6,Bin 20,4.8,Product_178
+Product_963,Frozen Foods,4.24,10% off,None,Low Sugar,Low Stock,Aisle 6,Bin 49,2.7,Product_640
+Product_964,Frozen Foods,3.4,$2 off,None,None,Out of Stock,Aisle 15,Bin 18,2.8,Product_655
+Product_965,Personal Care,14.65,10% off,None,None,In Stock,Aisle 3,Bin 32,4.5,Product_584
+Product_966,Beverages,21.46,$2 off,None,None,In Stock,Aisle 7,Bin 35,4.0,Product_351
+Product_967,Meat,3.97,Buy 1 Get 1,"Soy, Eggs",None,In Stock,Aisle 12,Bin 49,4.8,Product_665
+Product_968,Personal Care,22.34,None,None,None,In Stock,Aisle 3,Bin 10,4.2,Product_901
+Product_969,Produce,16.59,10% off,Eggs,"Keto, Vegan",In Stock,Aisle 15,Bin 3,3.8,Product_623
+Product_970,Bakery,12.9,$2 off,"Eggs, Wheat",None,In Stock,Aisle 7,Bin 35,3.5,Product_224
+Product_971,Dairy,8.02,Clearance,None,None,In Stock,Aisle 9,Bin 39,4.6,Product_478
+Product_972,Seafood,3.63,Buy 1 Get 1,None,"Gluten-Free, None",In Stock,Aisle 7,Bin 44,4.5,Product_983
+Product_973,Personal Care,14.77,None,None,None,Out of Stock,Aisle 13,Bin 35,3.4,Product_75
+Product_974,Beverages,20.15,$2 off,"Eggs, Soy",Gluten-Free,In Stock,Aisle 20,Bin 5,3.3,Product_729
+Product_975,Produce,8.06,10% off,Soy,None,Low Stock,Aisle 1,Bin 29,3.9,Product_960
+Product_976,Frozen Foods,19.42,$2 off,"Wheat, Nuts",None,In Stock,Aisle 14,Bin 9,2.9,Product_980
+Product_977,Bakery,20.99,Buy 1 Get 1,None,"Keto, None",Low Stock,Aisle 5,Bin 5,4.9,Product_186
+Product_978,Dairy,13.36,$2 off,None,Gluten-Free,In Stock,Aisle 11,Bin 19,4.2,Product_77
+Product_979,Beverages,15.54,Buy 1 Get 1,None,None,In Stock,Aisle 16,Bin 46,3.2,Product_961
+Product_980,Dairy,3.34,Clearance,None,"None, Keto",In Stock,Aisle 14,Bin 30,3.0,Product_928
+Product_981,Personal Care,22.43,Buy 1 Get 1,None,Vegan,In Stock,Aisle 11,Bin 43,3.5,Product_854
+Product_982,Pantry,4.46,$2 off,Soy,None,In Stock,Aisle 19,Bin 24,4.9,Product_709
+Product_983,Beverages,8.46,None,None,None,In Stock,Aisle 8,Bin 7,3.7,Product_792
+Product_984,Dairy,19.47,Clearance,None,None,Low Stock,Aisle 19,Bin 2,3.9,Product_600
+Product_985,Dairy,11.01,Clearance,None,None,In Stock,Aisle 12,Bin 47,4.7,Product_683
+Product_986,Bakery,18.59,Buy 1 Get 1,None,Keto,In Stock,Aisle 14,Bin 22,3.8,Product_776
+Product_987,Produce,13.6,$2 off,None,"None, Gluten-Free",Out of Stock,Aisle 7,Bin 47,4.2,Product_747
+Product_988,Pantry,5.16,10% off,Wheat,None,In Stock,Aisle 19,Bin 22,4.2,Product_837
+Product_989,Meat,2.79,10% off,None,None,In Stock,Aisle 1,Bin 15,2.9,Product_486
+Product_990,Dairy,16.22,None,"Milk, Wheat",None,Low Stock,Aisle 15,Bin 3,4.1,Product_585
+Product_991,Frozen Foods,16.52,Buy 1 Get 1,None,None,In Stock,Aisle 19,Bin 7,4.6,Product_735
+Product_992,Bakery,8.56,Clearance,Wheat,None,In Stock,Aisle 6,Bin 1,3.0,Product_462
+Product_993,Beverages,7.6,None,None,None,In Stock,Aisle 15,Bin 33,3.4,Product_297
+Product_994,Bakery,11.89,Buy 1 Get 1,Wheat,"Gluten-Free, Vegan",Low Stock,Aisle 11,Bin 43,2.9,Product_878
+Product_995,Snacks,14.18,Buy 1 Get 1,None,None,In Stock,Aisle 20,Bin 7,2.8,Product_405
+Product_996,Produce,5.24,Buy 1 Get 1,None,None,Low Stock,Aisle 8,Bin 45,4.4,Product_598
+Product_997,Dairy,2.46,10% off,None,None,In Stock,Aisle 16,Bin 28,2.8,Product_712
+Product_998,Dairy,9.27,$2 off,"Eggs, Nuts",None,In Stock,Aisle 7,Bin 47,3.9,Product_425
+Product_999,Snacks,16.63,$2 off,None,None,In Stock,Aisle 9,Bin 29,4.8,Product_714

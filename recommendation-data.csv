@@ -1,0 +1,1001 @@
+product_name,category,price,offer,allergens,diet_labels,stock_status,customer_rating,Keto,Gluten-Free,Low Sugar,Vegan,None,Eggs,Milk,Nuts,Wheat,Soy,No-Allergens,rating_category,category_encoded,offer_encoded,stock_status_encoded,rating_encoded
+Product_0,Seafood,20.88,10% off,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,0,2
+Product_1,Dairy,3.37,Clearance,Eggs,"Gluten-Free, Vegan",In Stock,3.3,0,1,0,1,0,1,0,0,0,0,0,Average,2,3,0,0
+Product_2,Meat,22.92,$2 off,"Eggs, None",None,Out of Stock,2.7,0,0,0,0,1,1,0,0,0,0,0,Poor,4,0,2,3
+Product_3,Frozen Foods,14.15,No-Offer,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,0,2
+Product_4,Beverages,13.66,10% off,"None, Milk","Vegan, Keto",In Stock,3.1,1,0,0,1,0,0,1,0,0,0,0,Average,1,1,0,0
+Product_5,Meat,14.68,10% off,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,4,1,0,0
+Product_6,Dairy,10.19,$2 off,No-Allergens,Gluten-Free,In Stock,4.1,0,1,0,0,0,0,0,0,0,0,1,Good,2,0,0,2
+Product_7,Meat,9.27,$2 off,No-Allergens,None,Low Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,4,0,1,3
+Product_8,Dairy,4.91,$2 off,"Milk, Eggs",None,In Stock,4.3,0,0,0,0,1,1,1,0,0,0,0,Very Good,2,0,0,4
+Product_9,Bakery,13.29,$2 off,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,0,1,4
+Product_10,Produce,10.46,No-Offer,Nuts,Gluten-Free,Low Stock,2.9,0,1,0,0,0,0,0,1,0,0,0,Poor,7,4,1,3
+Product_11,Snacks,10.1,10% off,No-Allergens,Vegan,Out of Stock,4.3,0,0,0,1,0,0,0,0,0,0,1,Very Good,9,1,2,4
+Product_12,Dairy,3.74,10% off,Wheat,None,In Stock,2.9,0,0,0,0,1,0,0,0,1,0,0,Poor,2,1,0,3
+Product_13,Bakery,13.66,$2 off,No-Allergens,"None, Gluten-Free",In Stock,3.9,0,1,0,0,1,0,0,0,0,0,1,Good,0,0,0,2
+Product_14,Seafood,22.04,10% off,"Milk, Wheat",None,In Stock,2.9,0,0,0,0,1,0,1,0,1,0,0,Poor,8,1,0,3
+Product_15,Pantry,5.37,No-Offer,No-Allergens,"Gluten-Free, Keto",In Stock,2.5,1,1,0,0,0,0,0,0,0,0,1,Poor,5,4,0,3
+Product_16,Beverages,1.86,10% off,Nuts,None,In Stock,4.3,0,0,0,0,1,0,0,1,0,0,0,Very Good,1,1,0,4
+Product_17,Meat,18.28,Buy 1 Get 1,"Wheat, Eggs",None,In Stock,4.6,0,0,0,0,1,1,0,0,1,0,0,Very Good,4,2,0,4
+Product_18,Beverages,9.36,Buy 1 Get 1,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,1,2,0,3
+Product_19,Personal Care,5.71,$2 off,No-Allergens,Vegan,In Stock,2.8,0,0,0,1,0,0,0,0,0,0,1,Poor,6,0,0,3
+Product_20,Bakery,13.16,Buy 1 Get 1,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,0,2,1,0
+Product_21,Bakery,23.24,Clearance,No-Allergens,Keto,Low Stock,3.0,1,0,0,0,0,0,0,0,0,0,1,Poor,0,3,1,3
+Product_22,Frozen Foods,14.9,$2 off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,3,0,0,3
+Product_23,Bakery,24.41,Clearance,No-Allergens,Keto,In Stock,4.2,1,0,0,0,0,0,0,0,0,0,1,Good,0,3,0,2
+Product_24,Beverages,4.52,$2 off,No-Allergens,Keto,In Stock,4.1,1,0,0,0,0,0,0,0,0,0,1,Good,1,0,0,2
+Product_25,Pantry,16.2,$2 off,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,5,0,0,2
+Product_26,Snacks,3.91,10% off,"Soy, Nuts",None,In Stock,3.6,0,0,0,0,1,0,0,1,0,1,0,Average,9,1,0,0
+Product_27,Dairy,19.85,10% off,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,1,0,1
+Product_28,Meat,12.15,No-Offer,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,4,1,4
+Product_29,Produce,10.31,$2 off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,7,0,0,2
+Product_30,Personal Care,18.5,10% off,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,6,1,1,0
+Product_31,Beverages,1.4,$2 off,"Soy, Milk","Vegan, Keto",In Stock,4.8,1,0,0,1,0,0,1,0,0,1,0,Excellent,1,0,0,1
+Product_32,Produce,3.26,Buy 1 Get 1,"Milk, Wheat",None,Out of Stock,3.4,0,0,0,0,1,0,1,0,1,0,0,Average,7,2,2,0
+Product_33,Produce,9.58,10% off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,7,1,0,3
+Product_34,Pantry,18.26,10% off,"Eggs, None",None,Low Stock,2.8,0,0,0,0,1,1,0,0,0,0,0,Poor,5,1,1,3
+Product_35,Seafood,17.01,Buy 1 Get 1,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,8,2,0,0
+Product_36,Dairy,21.47,10% off,Soy,Low Sugar,In Stock,2.6,0,0,1,0,0,0,0,0,0,1,0,Poor,2,1,0,3
+Product_37,Snacks,11.69,10% off,No-Allergens,Keto,Low Stock,4.8,1,0,0,0,0,0,0,0,0,0,1,Excellent,9,1,1,1
+Product_38,Seafood,1.8,$2 off,"Nuts, None",None,Low Stock,3.5,0,0,0,0,1,0,0,1,0,0,0,Average,8,0,1,0
+Product_39,Pantry,16.17,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,5,4,0,0
+Product_40,Produce,10.21,10% off,No-Allergens,"Low Sugar, None",In Stock,4.8,0,0,1,0,1,0,0,0,0,0,1,Excellent,7,1,0,1
+Product_41,Beverages,20.17,Clearance,No-Allergens,"None, Vegan",In Stock,4.5,0,0,0,1,1,0,0,0,0,0,1,Very Good,1,3,0,4
+Product_42,Frozen Foods,23.82,Clearance,"Wheat, Eggs",None,In Stock,4.8,0,0,0,0,1,1,0,0,1,0,0,Excellent,3,3,0,1
+Product_43,Personal Care,16.96,Buy 1 Get 1,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,6,2,1,3
+Product_44,Dairy,23.75,Buy 1 Get 1,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,2,2,0,2
+Product_45,Bakery,14.12,Clearance,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,0,3,0,0
+Product_46,Frozen Foods,22.67,$2 off,Soy,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,1,0,Very Good,3,0,0,4
+Product_47,Snacks,20.77,Buy 1 Get 1,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,9,2,0,0
+Product_48,Bakery,22.53,No-Offer,"Nuts, Milk",None,In Stock,4.3,0,0,0,0,1,0,1,1,0,0,0,Very Good,0,4,0,4
+Product_49,Snacks,16.24,$2 off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,9,0,0,0
+Product_50,Frozen Foods,21.9,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,3,0,0,2
+Product_51,Beverages,5.65,Buy 1 Get 1,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,1,2,0,3
+Product_52,Dairy,8.67,10% off,"Wheat, Soy",None,In Stock,4.0,0,0,0,0,1,0,0,0,1,1,0,Good,2,1,0,2
+Product_53,Personal Care,17.47,Buy 1 Get 1,No-Allergens,None,Out of Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,6,2,2,2
+Product_54,Produce,12.15,Buy 1 Get 1,No-Allergens,None,Out of Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,2,2,4
+Product_55,Pantry,2.0,Clearance,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,5,3,1,2
+Product_56,Personal Care,19.51,10% off,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,1,0,1
+Product_57,Pantry,21.07,Clearance,No-Allergens,Vegan,In Stock,2.6,0,0,0,1,0,0,0,0,0,0,1,Poor,5,3,0,3
+Product_58,Frozen Foods,7.34,10% off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,3,1,0,0
+Product_59,Bakery,22.01,10% off,"Milk, None",None,In Stock,4.5,0,0,0,0,1,0,1,0,0,0,0,Very Good,0,1,0,4
+Product_60,Produce,15.32,$2 off,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,7,0,0,3
+Product_61,Pantry,13.87,10% off,Eggs,None,In Stock,3.6,0,0,0,0,1,1,0,0,0,0,0,Average,5,1,0,0
+Product_62,Seafood,22.11,Buy 1 Get 1,"Eggs, None",None,Low Stock,2.9,0,0,0,0,1,1,0,0,0,0,0,Poor,8,2,1,3
+Product_63,Bakery,20.83,Buy 1 Get 1,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,0,2,0,3
+Product_64,Produce,13.72,Clearance,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,3,0,4
+Product_65,Dairy,20.81,No-Offer,"None, Nuts","Keto, Gluten-Free",In Stock,2.6,1,1,0,0,0,0,0,1,0,0,0,Poor,2,4,0,3
+Product_66,Pantry,17.04,No-Offer,"Eggs, Milk",None,In Stock,4.6,0,0,0,0,1,1,1,0,0,0,0,Very Good,5,4,0,4
+Product_67,Produce,24.17,Buy 1 Get 1,No-Allergens,None,Low Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,2,1,1
+Product_68,Pantry,9.25,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,0,0,1
+Product_69,Beverages,13.0,No-Offer,No-Allergens,None,Low Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,4,1,4
+Product_70,Seafood,23.89,No-Offer,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,1,4
+Product_71,Dairy,18.97,10% off,Nuts,"None, Low Sugar",Low Stock,4.8,0,0,1,0,1,0,0,1,0,0,0,Excellent,2,1,1,1
+Product_72,Seafood,23.75,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,8,4,0,0
+Product_73,Snacks,11.55,No-Offer,Milk,None,Low Stock,2.8,0,0,0,0,1,0,1,0,0,0,0,Poor,9,4,1,3
+Product_74,Meat,18.64,$2 off,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,4,0,1,0
+Product_75,Pantry,2.19,Buy 1 Get 1,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,5,2,1,2
+Product_76,Meat,10.09,$2 off,"Nuts, None",None,In Stock,3.6,0,0,0,0,1,0,0,1,0,0,0,Average,4,0,0,0
+Product_77,Meat,8.48,No-Offer,"Nuts, None",Keto,In Stock,4.2,1,0,0,0,0,0,0,1,0,0,0,Good,4,4,0,2
+Product_78,Personal Care,17.68,10% off,"Nuts, None",Gluten-Free,Out of Stock,2.6,0,1,0,0,0,0,0,1,0,0,0,Poor,6,1,2,3
+Product_79,Personal Care,19.47,Clearance,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,6,3,0,2
+Product_80,Bakery,12.4,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,2,0,4
+Product_81,Pantry,17.77,Clearance,No-Allergens,Keto,Low Stock,4.9,1,0,0,0,0,0,0,0,0,0,1,Excellent,5,3,1,1
+Product_82,Seafood,13.48,$2 off,Soy,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,1,0,Average,8,0,0,0
+Product_83,Meat,22.04,Buy 1 Get 1,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,4,2,0,2
+Product_84,Pantry,24.94,$2 off,"Milk, Wheat",None,In Stock,4.1,0,0,0,0,1,0,1,0,1,0,0,Good,5,0,0,2
+Product_85,Dairy,20.18,No-Offer,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,4,0,1
+Product_86,Seafood,1.49,$2 off,"Nuts, Wheat",None,Low Stock,4.3,0,0,0,0,1,0,0,1,1,0,0,Very Good,8,0,1,4
+Product_87,Dairy,3.56,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,2,0,0,2
+Product_88,Beverages,16.36,10% off,Soy,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,1,0,Average,1,1,0,0
+Product_89,Frozen Foods,6.5,$2 off,Eggs,Gluten-Free,Out of Stock,3.5,0,1,0,0,0,1,0,0,0,0,0,Average,3,0,2,0
+Product_90,Meat,22.85,10% off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,0,2
+Product_91,Bakery,21.75,No-Offer,No-Allergens,Keto,In Stock,2.7,1,0,0,0,0,0,0,0,0,0,1,Poor,0,4,0,3
+Product_92,Bakery,13.48,10% off,"Wheat, None",Low Sugar,In Stock,3.3,0,0,1,0,0,0,0,0,1,0,0,Average,0,1,0,0
+Product_93,Beverages,23.35,10% off,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,1,1,0,2
+Product_94,Produce,5.7,Clearance,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,7,3,0,2
+Product_95,Personal Care,8.45,No-Offer,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,4,0,4
+Product_96,Seafood,8.45,10% off,No-Allergens,"Keto, Vegan",In Stock,4.6,1,0,0,1,0,0,0,0,0,0,1,Very Good,8,1,0,4
+Product_97,Produce,23.8,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,7,3,0,2
+Product_98,Meat,4.82,10% off,"Wheat, Milk",None,In Stock,4.3,0,0,0,0,1,0,1,0,1,0,0,Very Good,4,1,0,4
+Product_99,Snacks,11.29,No-Offer,No-Allergens,Vegan,Out of Stock,3.3,0,0,0,1,0,0,0,0,0,0,1,Average,9,4,2,0
+Product_100,Beverages,6.21,Buy 1 Get 1,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,1,2,0,2
+Product_101,Personal Care,7.61,No-Offer,No-Allergens,None,Out of Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,6,4,2,2
+Product_102,Bakery,8.24,No-Offer,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,0,4,0,1
+Product_103,Personal Care,3.29,10% off,No-Allergens,None,Out of Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,1,2,4
+Product_104,Beverages,19.19,Clearance,No-Allergens,Keto,In Stock,5.0,1,0,0,0,0,0,0,0,0,0,1,Excellent,1,3,0,1
+Product_105,Snacks,2.76,Clearance,"Soy, None",None,In Stock,4.0,0,0,0,0,1,0,0,0,0,1,0,Good,9,3,0,2
+Product_106,Seafood,3.55,No-Offer,No-Allergens,Low Sugar,Low Stock,3.4,0,0,1,0,0,0,0,0,0,0,1,Average,8,4,1,0
+Product_107,Beverages,8.97,$2 off,No-Allergens,"Keto, None",In Stock,3.5,1,0,0,0,1,0,0,0,0,0,1,Average,1,0,0,0
+Product_108,Personal Care,3.31,No-Offer,No-Allergens,Keto,In Stock,2.9,1,0,0,0,0,0,0,0,0,0,1,Poor,6,4,0,3
+Product_109,Produce,16.46,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,7,0,0,0
+Product_110,Meat,4.36,Clearance,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,4,3,0,0
+Product_111,Dairy,1.17,Clearance,Milk,None,In Stock,4.4,0,0,0,0,1,0,1,0,0,0,0,Very Good,2,3,0,4
+Product_112,Meat,24.42,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,4,0,0,0
+Product_113,Personal Care,17.02,Buy 1 Get 1,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,2,0,4
+Product_114,Dairy,10.49,Buy 1 Get 1,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,2,0,4
+Product_115,Bakery,12.57,$2 off,Eggs,None,In Stock,4.2,0,0,0,0,1,1,0,0,0,0,0,Good,0,0,0,2
+Product_116,Personal Care,10.97,Buy 1 Get 1,No-Allergens,"Vegan, Gluten-Free",In Stock,3.5,0,1,0,1,0,0,0,0,0,0,1,Average,6,2,0,0
+Product_117,Dairy,21.15,Clearance,"Soy, Milk",None,In Stock,3.2,0,0,0,0,1,0,1,0,0,1,0,Average,2,3,0,0
+Product_118,Frozen Foods,23.45,Clearance,"Nuts, Milk",None,In Stock,3.9,0,0,0,0,1,0,1,1,0,0,0,Good,3,3,0,2
+Product_119,Produce,11.62,Buy 1 Get 1,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,7,2,0,2
+Product_120,Beverages,5.33,Buy 1 Get 1,Milk,None,Low Stock,2.9,0,0,0,0,1,0,1,0,0,0,0,Poor,1,2,1,3
+Product_121,Snacks,1.28,$2 off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,0,0,4
+Product_122,Meat,12.19,$2 off,No-Allergens,None,Low Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,4,0,1,3
+Product_123,Snacks,9.81,Buy 1 Get 1,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,2,1,4
+Product_124,Personal Care,16.61,No-Offer,"None, Eggs","Keto, Vegan",Low Stock,4.3,1,0,0,1,0,1,0,0,0,0,0,Very Good,6,4,1,4
+Product_125,Meat,24.2,10% off,Milk,"Keto, Vegan",Out of Stock,3.4,1,0,0,1,0,0,1,0,0,0,0,Average,4,1,2,0
+Product_126,Personal Care,12.41,10% off,Wheat,None,In Stock,4.5,0,0,0,0,1,0,0,0,1,0,0,Very Good,6,1,0,4
+Product_127,Pantry,19.71,Buy 1 Get 1,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,5,2,0,3
+Product_128,Bakery,4.27,Buy 1 Get 1,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,0,2,0,2
+Product_129,Beverages,10.9,No-Offer,No-Allergens,Gluten-Free,In Stock,3.6,0,1,0,0,0,0,0,0,0,0,1,Average,1,4,0,0
+Product_130,Pantry,5.28,$2 off,No-Allergens,"Vegan, Keto",Low Stock,4.2,1,0,0,1,0,0,0,0,0,0,1,Good,5,0,1,2
+Product_131,Meat,10.66,No-Offer,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,4,4,0,3
+Product_132,Produce,12.13,Buy 1 Get 1,"Soy, Wheat",None,In Stock,3.4,0,0,0,0,1,0,0,0,1,1,0,Average,7,2,0,0
+Product_133,Snacks,10.33,No-Offer,No-Allergens,None,Low Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,4,1,3
+Product_134,Bakery,24.55,Clearance,No-Allergens,Vegan,In Stock,2.9,0,0,0,1,0,0,0,0,0,0,1,Poor,0,3,0,3
+Product_135,Pantry,16.43,$2 off,Wheat,None,In Stock,4.0,0,0,0,0,1,0,0,0,1,0,0,Good,5,0,0,2
+Product_136,Beverages,23.27,Buy 1 Get 1,No-Allergens,None,Low Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,1,2,1,0
+Product_137,Bakery,10.53,Buy 1 Get 1,"Soy, Nuts",Gluten-Free,In Stock,2.8,0,1,0,0,0,0,0,1,0,1,0,Poor,0,2,0,3
+Product_138,Personal Care,19.31,Clearance,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,3,0,4
+Product_139,Personal Care,4.55,$2 off,Wheat,None,In Stock,4.2,0,0,0,0,1,0,0,0,1,0,0,Good,6,0,0,2
+Product_140,Snacks,9.87,10% off,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,1,0,1
+Product_141,Seafood,7.08,No-Offer,No-Allergens,Gluten-Free,Low Stock,3.4,0,1,0,0,0,0,0,0,0,0,1,Average,8,4,1,0
+Product_142,Snacks,22.12,No-Offer,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,4,0,4
+Product_143,Snacks,8.27,Clearance,"Milk, Nuts",None,In Stock,3.1,0,0,0,0,1,0,1,1,0,0,0,Average,9,3,0,0
+Product_144,Meat,12.2,10% off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,4,1,0,0
+Product_145,Bakery,20.21,$2 off,Nuts,None,In Stock,4.0,0,0,0,0,1,0,0,1,0,0,0,Good,0,0,0,2
+Product_146,Pantry,19.46,Clearance,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,3,0,4
+Product_147,Snacks,5.21,Clearance,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,9,3,0,2
+Product_148,Dairy,6.15,10% off,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,2,1,0,3
+Product_149,Frozen Foods,7.76,$2 off,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,3,0,1,0
+Product_150,Beverages,22.41,Clearance,Eggs,None,In Stock,4.7,0,0,0,0,1,1,0,0,0,0,0,Excellent,1,3,0,1
+Product_151,Meat,8.75,Buy 1 Get 1,No-Allergens,"Low Sugar, Gluten-Free",Low Stock,3.8,0,1,1,0,0,0,0,0,0,0,1,Good,4,2,1,2
+Product_152,Frozen Foods,14.33,No-Offer,Nuts,None,In Stock,4.4,0,0,0,0,1,0,0,1,0,0,0,Very Good,3,4,0,4
+Product_153,Dairy,5.68,Buy 1 Get 1,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,2,2,0,2
+Product_154,Seafood,1.07,Clearance,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,8,3,0,3
+Product_155,Beverages,11.03,No-Offer,Soy,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,1,0,Good,1,4,0,2
+Product_156,Meat,8.37,10% off,No-Allergens,"Gluten-Free, Keto",In Stock,4.7,1,1,0,0,0,0,0,0,0,0,1,Excellent,4,1,0,1
+Product_157,Snacks,12.51,$2 off,"Eggs, Nuts",Vegan,Low Stock,3.2,0,0,0,1,0,1,0,1,0,0,0,Average,9,0,1,0
+Product_158,Pantry,17.81,Clearance,"Wheat, Eggs",None,Low Stock,4.1,0,0,0,0,1,1,0,0,1,0,0,Good,5,3,1,2
+Product_159,Snacks,14.21,Clearance,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,9,3,1,2
+Product_160,Frozen Foods,21.9,10% off,"Nuts, Wheat",None,In Stock,2.9,0,0,0,0,1,0,0,1,1,0,0,Poor,3,1,0,3
+Product_161,Seafood,8.73,10% off,No-Allergens,None,Low Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,1,1,4
+Product_162,Produce,24.64,$2 off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,0,0,4
+Product_163,Personal Care,16.44,$2 off,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,6,0,0,0
+Product_164,Pantry,12.04,Clearance,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,3,0,1
+Product_165,Pantry,1.77,No-Offer,No-Allergens,None,Out of Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,4,2,1
+Product_166,Pantry,9.52,No-Offer,No-Allergens,"Vegan, None",In Stock,4.1,0,0,0,1,1,0,0,0,0,0,1,Good,5,4,0,2
+Product_167,Beverages,17.91,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_168,Meat,18.94,Buy 1 Get 1,No-Allergens,None,Low Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,4,2,1,0
+Product_169,Pantry,20.3,No-Offer,Milk,"Low Sugar, Vegan",In Stock,2.8,0,0,1,1,0,0,1,0,0,0,0,Poor,5,4,0,3
+Product_170,Pantry,3.93,$2 off,"Soy, Wheat","None, Low Sugar",In Stock,4.5,0,0,1,0,1,0,0,0,1,1,0,Very Good,5,0,0,4
+Product_171,Snacks,5.02,Clearance,No-Allergens,"Vegan, None",In Stock,2.8,0,0,0,1,1,0,0,0,0,0,1,Poor,9,3,0,3
+Product_172,Meat,13.25,$2 off,Milk,None,Low Stock,2.7,0,0,0,0,1,0,1,0,0,0,0,Poor,4,0,1,3
+Product_173,Snacks,6.45,No-Offer,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,4,0,3
+Product_174,Produce,17.35,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,0,0,1
+Product_175,Dairy,22.47,Buy 1 Get 1,Soy,"None, Vegan",Low Stock,3.9,0,0,0,1,1,0,0,0,0,1,0,Good,2,2,1,2
+Product_176,Frozen Foods,12.87,Clearance,Nuts,Keto,In Stock,4.4,1,0,0,0,0,0,0,1,0,0,0,Very Good,3,3,0,4
+Product_177,Frozen Foods,8.1,$2 off,"Soy, Nuts","None, Gluten-Free",In Stock,2.9,0,1,0,0,1,0,0,1,0,1,0,Poor,3,0,0,3
+Product_178,Meat,22.58,10% off,"Eggs, None",None,In Stock,4.2,0,0,0,0,1,1,0,0,0,0,0,Good,4,1,0,2
+Product_179,Beverages,17.75,$2 off,No-Allergens,None,Low Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,0,1,0
+Product_180,Produce,23.36,No-Offer,"Wheat, Milk",None,Low Stock,4.3,0,0,0,0,1,0,1,0,1,0,0,Very Good,7,4,1,4
+Product_181,Seafood,13.17,No-Offer,No-Allergens,None,Out of Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,8,4,2,2
+Product_182,Meat,23.42,Buy 1 Get 1,"None, Wheat",None,Low Stock,2.6,0,0,0,0,1,0,0,0,1,0,0,Poor,4,2,1,3
+Product_183,Frozen Foods,18.49,$2 off,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,3,0,1,2
+Product_184,Seafood,2.3,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,8,0,0,2
+Product_185,Dairy,3.77,Buy 1 Get 1,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,2,2,0,2
+Product_186,Dairy,14.97,$2 off,"Nuts, Soy",Gluten-Free,In Stock,2.8,0,1,0,0,0,0,0,1,0,1,0,Poor,2,0,0,3
+Product_187,Frozen Foods,7.47,Clearance,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,3,0,4
+Product_188,Produce,6.39,Clearance,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,3,0,1
+Product_189,Pantry,16.22,$2 off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,0,0,4
+Product_190,Personal Care,11.7,$2 off,"Eggs, Nuts",None,In Stock,3.9,0,0,0,0,1,1,0,1,0,0,0,Good,6,0,0,2
+Product_191,Personal Care,16.71,10% off,"Wheat, None",None,Low Stock,3.9,0,0,0,0,1,0,0,0,1,0,0,Good,6,1,1,2
+Product_192,Dairy,11.48,Clearance,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,3,0,1
+Product_193,Dairy,12.87,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,2,0,0,0
+Product_194,Produce,4.69,10% off,No-Allergens,None,Low Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,7,1,1,3
+Product_195,Personal Care,12.01,$2 off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,6,0,0,0
+Product_196,Dairy,7.2,Clearance,"None, Soy",None,In Stock,4.7,0,0,0,0,1,0,0,0,0,1,0,Excellent,2,3,0,1
+Product_197,Beverages,17.94,No-Offer,"Nuts, Milk",None,Low Stock,2.6,0,0,0,0,1,0,1,1,0,0,0,Poor,1,4,1,3
+Product_198,Produce,17.56,No-Offer,No-Allergens,Gluten-Free,Out of Stock,4.1,0,1,0,0,0,0,0,0,0,0,1,Good,7,4,2,2
+Product_199,Dairy,13.46,$2 off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,2,0,0,2
+Product_200,Bakery,8.02,$2 off,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,0,0,0,3
+Product_201,Snacks,12.51,10% off,Wheat,None,In Stock,3.9,0,0,0,0,1,0,0,0,1,0,0,Good,9,1,0,2
+Product_202,Meat,13.92,$2 off,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,0,1,4
+Product_203,Frozen Foods,16.77,No-Offer,Eggs,None,In Stock,3.8,0,0,0,0,1,1,0,0,0,0,0,Good,3,4,0,2
+Product_204,Meat,14.6,$2 off,No-Allergens,"Keto, Vegan",In Stock,4.2,1,0,0,1,0,0,0,0,0,0,1,Good,4,0,0,2
+Product_205,Frozen Foods,15.0,$2 off,"Nuts, None",None,In Stock,2.5,0,0,0,0,1,0,0,1,0,0,0,Poor,3,0,0,3
+Product_206,Produce,7.88,Clearance,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,3,0,1
+Product_207,Meat,19.28,$2 off,Nuts,None,In Stock,3.8,0,0,0,0,1,0,0,1,0,0,0,Good,4,0,0,2
+Product_208,Dairy,5.08,$2 off,"None, Milk",Vegan,In Stock,4.7,0,0,0,1,0,0,1,0,0,0,0,Excellent,2,0,0,1
+Product_209,Bakery,6.85,$2 off,No-Allergens,None,Low Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,0,0,1,2
+Product_210,Snacks,12.43,Clearance,"Milk, Eggs","Vegan, Low Sugar",Low Stock,4.0,0,0,1,1,0,1,1,0,0,0,0,Good,9,3,1,2
+Product_211,Beverages,12.38,Clearance,No-Allergens,None,Low Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,1,3,1,0
+Product_212,Frozen Foods,17.0,Clearance,No-Allergens,None,Low Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,3,3,1,2
+Product_213,Snacks,12.3,No-Offer,"None, Milk",None,In Stock,4.4,0,0,0,0,1,0,1,0,0,0,0,Very Good,9,4,0,4
+Product_214,Bakery,7.85,Buy 1 Get 1,"Wheat, Milk",None,In Stock,2.7,0,0,0,0,1,0,1,0,1,0,0,Poor,0,2,0,3
+Product_215,Dairy,14.74,Buy 1 Get 1,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,2,2,0,0
+Product_216,Seafood,21.18,10% off,Milk,None,In Stock,2.8,0,0,0,0,1,0,1,0,0,0,0,Poor,8,1,0,3
+Product_217,Beverages,15.0,Buy 1 Get 1,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,1,2,0,3
+Product_218,Meat,16.59,Buy 1 Get 1,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,4,2,0,2
+Product_219,Pantry,19.03,$2 off,No-Allergens,Low Sugar,Out of Stock,3.2,0,0,1,0,0,0,0,0,0,0,1,Average,5,0,2,0
+Product_220,Snacks,4.93,Buy 1 Get 1,"Milk, Nuts",None,In Stock,5.0,0,0,0,0,1,0,1,1,0,0,0,Excellent,9,2,0,1
+Product_221,Frozen Foods,16.07,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,2,0,4
+Product_222,Dairy,20.27,10% off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,2,1,0,3
+Product_223,Pantry,7.32,No-Offer,No-Allergens,"None, Keto",In Stock,4.5,1,0,0,0,1,0,0,0,0,0,1,Very Good,5,4,0,4
+Product_224,Produce,15.52,$2 off,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,7,0,0,0
+Product_225,Seafood,18.01,Buy 1 Get 1,"None, Wheat",None,In Stock,2.8,0,0,0,0,1,0,0,0,1,0,0,Poor,8,2,0,3
+Product_226,Frozen Foods,9.65,$2 off,"Milk, Eggs",None,In Stock,4.5,0,0,0,0,1,1,1,0,0,0,0,Very Good,3,0,0,4
+Product_227,Frozen Foods,2.72,No-Offer,No-Allergens,Gluten-Free,In Stock,2.7,0,1,0,0,0,0,0,0,0,0,1,Poor,3,4,0,3
+Product_228,Dairy,19.38,Buy 1 Get 1,No-Allergens,"Vegan, Keto",In Stock,4.2,1,0,0,1,0,0,0,0,0,0,1,Good,2,2,0,2
+Product_229,Bakery,14.44,$2 off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,0,0,0,2
+Product_230,Produce,15.13,$2 off,Wheat,None,Low Stock,3.5,0,0,0,0,1,0,0,0,1,0,0,Average,7,0,1,0
+Product_231,Bakery,16.2,Buy 1 Get 1,"None, Soy",Low Sugar,Out of Stock,2.9,0,0,1,0,0,0,0,0,0,1,0,Poor,0,2,2,3
+Product_232,Beverages,7.49,$2 off,No-Allergens,None,Low Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,1,0,1,0
+Product_233,Dairy,5.52,Clearance,Wheat,None,Out of Stock,3.3,0,0,0,0,1,0,0,0,1,0,0,Average,2,3,2,0
+Product_234,Bakery,22.33,Clearance,Wheat,None,In Stock,2.7,0,0,0,0,1,0,0,0,1,0,0,Poor,0,3,0,3
+Product_235,Beverages,18.38,Buy 1 Get 1,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,1,2,0,2
+Product_236,Meat,4.14,Clearance,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,4,3,1,2
+Product_237,Beverages,9.9,$2 off,Eggs,None,In Stock,3.0,0,0,0,0,1,1,0,0,0,0,0,Poor,1,0,0,3
+Product_238,Produce,14.09,Buy 1 Get 1,Milk,None,In Stock,4.7,0,0,0,0,1,0,1,0,0,0,0,Excellent,7,2,0,1
+Product_239,Dairy,10.91,Clearance,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,2,3,1,0
+Product_240,Seafood,7.49,No-Offer,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,0,4
+Product_241,Pantry,18.85,$2 off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,5,0,0,0
+Product_242,Bakery,5.53,$2 off,Nuts,None,In Stock,4.1,0,0,0,0,1,0,0,1,0,0,0,Good,0,0,0,2
+Product_243,Frozen Foods,15.65,$2 off,No-Allergens,"Keto, Low Sugar",In Stock,2.7,1,0,1,0,0,0,0,0,0,0,1,Poor,3,0,0,3
+Product_244,Seafood,18.23,Buy 1 Get 1,Wheat,None,In Stock,3.4,0,0,0,0,1,0,0,0,1,0,0,Average,8,2,0,0
+Product_245,Bakery,21.99,$2 off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,0,0,0,0
+Product_246,Frozen Foods,13.08,Buy 1 Get 1,"Eggs, Soy",None,Low Stock,5.0,0,0,0,0,1,1,0,0,0,1,0,Excellent,3,2,1,1
+Product_247,Beverages,24.42,Buy 1 Get 1,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,2,0,4
+Product_248,Pantry,7.49,10% off,"None, Soy",Gluten-Free,Out of Stock,3.4,0,1,0,0,0,0,0,0,0,1,0,Average,5,1,2,0
+Product_249,Beverages,1.16,$2 off,Nuts,None,In Stock,2.9,0,0,0,0,1,0,0,1,0,0,0,Poor,1,0,0,3
+Product_250,Produce,19.64,10% off,No-Allergens,Vegan,In Stock,2.6,0,0,0,1,0,0,0,0,0,0,1,Poor,7,1,0,3
+Product_251,Seafood,9.16,Clearance,"Soy, None","Low Sugar, Gluten-Free",In Stock,3.8,0,1,1,0,0,0,0,0,0,1,0,Good,8,3,0,2
+Product_252,Beverages,10.33,No-Offer,Milk,None,In Stock,3.1,0,0,0,0,1,0,1,0,0,0,0,Average,1,4,0,0
+Product_253,Produce,2.52,No-Offer,No-Allergens,"Gluten-Free, Vegan",Low Stock,5.0,0,1,0,1,0,0,0,0,0,0,1,Excellent,7,4,1,1
+Product_254,Dairy,1.91,No-Offer,No-Allergens,"None, Low Sugar",In Stock,3.3,0,0,1,0,1,0,0,0,0,0,1,Average,2,4,0,0
+Product_255,Snacks,1.21,$2 off,"None, Soy",None,In Stock,4.1,0,0,0,0,1,0,0,0,0,1,0,Good,9,0,0,2
+Product_256,Pantry,2.77,10% off,Nuts,None,In Stock,3.5,0,0,0,0,1,0,0,1,0,0,0,Average,5,1,0,0
+Product_257,Beverages,4.64,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,0,2
+Product_258,Pantry,15.08,No-Offer,No-Allergens,"Low Sugar, Vegan",In Stock,3.1,0,0,1,1,0,0,0,0,0,0,1,Average,5,4,0,0
+Product_259,Beverages,19.89,Clearance,Eggs,None,In Stock,3.1,0,0,0,0,1,1,0,0,0,0,0,Average,1,3,0,0
+Product_260,Snacks,22.51,Buy 1 Get 1,No-Allergens,"None, Gluten-Free",In Stock,2.9,0,1,0,0,1,0,0,0,0,0,1,Poor,9,2,0,3
+Product_261,Frozen Foods,10.88,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,2,0,4
+Product_262,Pantry,11.36,No-Offer,No-Allergens,Keto,In Stock,4.6,1,0,0,0,0,0,0,0,0,0,1,Very Good,5,4,0,4
+Product_263,Pantry,4.94,$2 off,No-Allergens,"Gluten-Free, Low Sugar",In Stock,3.1,0,1,1,0,0,0,0,0,0,0,1,Average,5,0,0,0
+Product_264,Snacks,20.19,Clearance,Nuts,None,Low Stock,2.8,0,0,0,0,1,0,0,1,0,0,0,Poor,9,3,1,3
+Product_265,Beverages,22.74,Buy 1 Get 1,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,1,2,0,2
+Product_266,Beverages,9.24,No-Offer,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_267,Meat,7.86,$2 off,No-Allergens,"Low Sugar, Vegan",Out of Stock,4.6,0,0,1,1,0,0,0,0,0,0,1,Very Good,4,0,2,4
+Product_268,Snacks,20.99,$2 off,"None, Eggs",None,In Stock,2.8,0,0,0,0,1,1,0,0,0,0,0,Poor,9,0,0,3
+Product_269,Seafood,16.28,Buy 1 Get 1,No-Allergens,None,Low Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,8,2,1,2
+Product_270,Personal Care,4.49,Buy 1 Get 1,"None, Wheat",None,In Stock,4.0,0,0,0,0,1,0,0,0,1,0,0,Good,6,2,0,2
+Product_271,Beverages,20.63,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,1,0,4
+Product_272,Personal Care,24.31,10% off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,1,0,4
+Product_273,Bakery,14.24,10% off,Nuts,None,In Stock,2.8,0,0,0,0,1,0,0,1,0,0,0,Poor,0,1,0,3
+Product_274,Beverages,12.81,$2 off,No-Allergens,"Keto, Vegan",In Stock,5.0,1,0,0,1,0,0,0,0,0,0,1,Excellent,1,0,0,1
+Product_275,Snacks,11.04,Clearance,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,9,3,0,0
+Product_276,Beverages,8.74,Clearance,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,1,3,1,0
+Product_277,Bakery,20.07,Clearance,"Soy, Nuts",None,Low Stock,2.7,0,0,0,0,1,0,0,1,0,1,0,Poor,0,3,1,3
+Product_278,Personal Care,15.44,Clearance,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,6,3,0,2
+Product_279,Meat,16.86,$2 off,Milk,None,In Stock,2.5,0,0,0,0,1,0,1,0,0,0,0,Poor,4,0,0,3
+Product_280,Produce,21.76,10% off,Eggs,None,Out of Stock,3.9,0,0,0,0,1,1,0,0,0,0,0,Good,7,1,2,2
+Product_281,Beverages,22.53,$2 off,No-Allergens,"None, Vegan",Low Stock,4.6,0,0,0,1,1,0,0,0,0,0,1,Very Good,1,0,1,4
+Product_282,Meat,10.35,Clearance,No-Allergens,"Low Sugar, Keto",In Stock,3.3,1,0,1,0,0,0,0,0,0,0,1,Average,4,3,0,0
+Product_283,Personal Care,11.37,10% off,No-Allergens,Low Sugar,In Stock,2.6,0,0,1,0,0,0,0,0,0,0,1,Poor,6,1,0,3
+Product_284,Snacks,2.92,Buy 1 Get 1,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,9,2,0,3
+Product_285,Produce,17.17,10% off,Nuts,None,In Stock,2.9,0,0,0,0,1,0,0,1,0,0,0,Poor,7,1,0,3
+Product_286,Bakery,1.85,10% off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,0,4
+Product_287,Meat,11.45,Buy 1 Get 1,No-Allergens,Low Sugar,In Stock,4.4,0,0,1,0,0,0,0,0,0,0,1,Very Good,4,2,0,4
+Product_288,Seafood,22.25,10% off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,0,2
+Product_289,Snacks,23.51,Clearance,No-Allergens,"None, Vegan",In Stock,3.5,0,0,0,1,1,0,0,0,0,0,1,Average,9,3,0,0
+Product_290,Personal Care,1.88,No-Offer,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,6,4,0,0
+Product_291,Beverages,16.04,$2 off,"Soy, Nuts",None,In Stock,3.1,0,0,0,0,1,0,0,1,0,1,0,Average,1,0,0,0
+Product_292,Dairy,18.34,No-Offer,No-Allergens,None,Out of Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,4,2,4
+Product_293,Personal Care,23.1,Buy 1 Get 1,"Nuts, None",None,In Stock,4.8,0,0,0,0,1,0,0,1,0,0,0,Excellent,6,2,0,1
+Product_294,Personal Care,4.64,Clearance,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,3,0,1
+Product_295,Snacks,6.19,Buy 1 Get 1,Milk,None,In Stock,3.7,0,0,0,0,1,0,1,0,0,0,0,Good,9,2,0,2
+Product_296,Frozen Foods,14.34,No-Offer,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,0,2
+Product_297,Pantry,12.97,Buy 1 Get 1,"None, Milk",None,In Stock,3.1,0,0,0,0,1,0,1,0,0,0,0,Average,5,2,0,0
+Product_298,Beverages,1.09,Clearance,No-Allergens,"Gluten-Free, Keto",Out of Stock,4.5,1,1,0,0,0,0,0,0,0,0,1,Very Good,1,3,2,4
+Product_299,Meat,12.9,Clearance,No-Allergens,None,Out of Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,3,2,4
+Product_300,Frozen Foods,15.35,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,3,0,0,0
+Product_301,Meat,9.66,Buy 1 Get 1,Soy,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,1,0,Average,4,2,0,0
+Product_302,Seafood,15.0,Buy 1 Get 1,Wheat,None,In Stock,4.3,0,0,0,0,1,0,0,0,1,0,0,Very Good,8,2,0,4
+Product_303,Pantry,3.41,$2 off,No-Allergens,"Low Sugar, Vegan",Low Stock,4.5,0,0,1,1,0,0,0,0,0,0,1,Very Good,5,0,1,4
+Product_304,Bakery,14.37,No-Offer,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,0,4,0,3
+Product_305,Frozen Foods,5.95,No-Offer,"None, Wheat",None,Low Stock,4.7,0,0,0,0,1,0,0,0,1,0,0,Excellent,3,4,1,1
+Product_306,Beverages,5.55,10% off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,1,0,0
+Product_307,Produce,20.05,No-Offer,Eggs,None,In Stock,4.8,0,0,0,0,1,1,0,0,0,0,0,Excellent,7,4,0,1
+Product_308,Seafood,17.5,10% off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,0,2
+Product_309,Pantry,19.59,$2 off,"Eggs, Nuts","None, Keto",In Stock,3.6,1,0,0,0,1,1,0,1,0,0,0,Average,5,0,0,0
+Product_310,Seafood,18.18,10% off,"Nuts, Wheat",None,In Stock,4.5,0,0,0,0,1,0,0,1,1,0,0,Very Good,8,1,0,4
+Product_311,Personal Care,7.38,No-Offer,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,4,0,1
+Product_312,Pantry,7.63,Buy 1 Get 1,No-Allergens,"Vegan, Low Sugar",In Stock,4.8,0,0,1,1,0,0,0,0,0,0,1,Excellent,5,2,0,1
+Product_313,Bakery,21.47,Clearance,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,0,3,0,0
+Product_314,Personal Care,5.78,Buy 1 Get 1,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,6,2,0,0
+Product_315,Frozen Foods,23.62,Buy 1 Get 1,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,3,2,0,0
+Product_316,Beverages,23.9,$2 off,No-Allergens,"Keto, Vegan",In Stock,2.8,1,0,0,1,0,0,0,0,0,0,1,Poor,1,0,0,3
+Product_317,Seafood,21.56,$2 off,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,8,0,0,1
+Product_318,Produce,5.49,10% off,"Milk, Eggs",None,In Stock,3.3,0,0,0,0,1,1,1,0,0,0,0,Average,7,1,0,0
+Product_319,Produce,9.78,Clearance,"Milk, Wheat",None,Low Stock,3.8,0,0,0,0,1,0,1,0,1,0,0,Good,7,3,1,2
+Product_320,Dairy,3.5,Buy 1 Get 1,No-Allergens,None,Low Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,2,1,1
+Product_321,Dairy,2.49,Clearance,No-Allergens,Gluten-Free,Out of Stock,3.1,0,1,0,0,0,0,0,0,0,0,1,Average,2,3,2,0
+Product_322,Bakery,6.02,Buy 1 Get 1,No-Allergens,Low Sugar,In Stock,2.7,0,0,1,0,0,0,0,0,0,0,1,Poor,0,2,0,3
+Product_323,Snacks,7.95,Clearance,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,9,3,0,2
+Product_324,Beverages,2.87,Clearance,No-Allergens,Low Sugar,In Stock,2.7,0,0,1,0,0,0,0,0,0,0,1,Poor,1,3,0,3
+Product_325,Snacks,18.55,Buy 1 Get 1,No-Allergens,"Keto, Vegan",In Stock,2.8,1,0,0,1,0,0,0,0,0,0,1,Poor,9,2,0,3
+Product_326,Produce,14.3,10% off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,7,1,0,2
+Product_327,Produce,21.9,No-Offer,Milk,None,Low Stock,2.7,0,0,0,0,1,0,1,0,0,0,0,Poor,7,4,1,3
+Product_328,Frozen Foods,13.4,10% off,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,3,1,0,0
+Product_329,Dairy,7.9,Clearance,"Eggs, Wheat",None,Low Stock,2.5,0,0,0,0,1,1,0,0,1,0,0,Poor,2,3,1,3
+Product_330,Pantry,9.13,10% off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,5,1,0,3
+Product_331,Snacks,20.62,$2 off,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,9,0,0,2
+Product_332,Pantry,18.93,$2 off,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,0,1,4
+Product_333,Produce,14.37,Clearance,Milk,None,In Stock,4.8,0,0,0,0,1,0,1,0,0,0,0,Excellent,7,3,0,1
+Product_334,Snacks,23.57,No-Offer,No-Allergens,None,Low Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,4,1,3
+Product_335,Produce,6.25,No-Offer,"Eggs, Soy",None,Out of Stock,3.0,0,0,0,0,1,1,0,0,0,1,0,Poor,7,4,2,3
+Product_336,Personal Care,15.22,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,6,0,0,2
+Product_337,Beverages,1.26,No-Offer,Nuts,Low Sugar,Low Stock,4.2,0,0,1,0,0,0,0,1,0,0,0,Good,1,4,1,2
+Product_338,Meat,8.97,10% off,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,4,1,0,3
+Product_339,Produce,12.91,10% off,Soy,None,Low Stock,4.7,0,0,0,0,1,0,0,0,0,1,0,Excellent,7,1,1,1
+Product_340,Seafood,24.05,10% off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,8,1,0,3
+Product_341,Seafood,11.93,10% off,No-Allergens,None,Out of Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,2,2
+Product_342,Snacks,11.2,10% off,Nuts,None,In Stock,2.8,0,0,0,0,1,0,0,1,0,0,0,Poor,9,1,0,3
+Product_343,Pantry,15.16,Clearance,No-Allergens,None,Low Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,3,1,4
+Product_344,Bakery,14.05,$2 off,Milk,"Gluten-Free, None",In Stock,3.4,0,1,0,0,1,0,1,0,0,0,0,Average,0,0,0,0
+Product_345,Pantry,21.48,$2 off,No-Allergens,"Keto, Low Sugar",In Stock,3.7,1,0,1,0,0,0,0,0,0,0,1,Good,5,0,0,2
+Product_346,Dairy,24.98,10% off,"Nuts, Soy","Gluten-Free, Keto",Out of Stock,3.6,1,1,0,0,0,0,0,1,0,1,0,Average,2,1,2,0
+Product_347,Frozen Foods,8.63,$2 off,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,0,1,4
+Product_348,Beverages,22.37,No-Offer,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,4,0,1
+Product_349,Seafood,6.89,No-Offer,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,4,1,0
+Product_350,Bakery,9.84,10% off,No-Allergens,"None, Vegan",In Stock,2.9,0,0,0,1,1,0,0,0,0,0,1,Poor,0,1,0,3
+Product_351,Bakery,2.62,Buy 1 Get 1,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,0,2,0,0
+Product_352,Meat,11.06,$2 off,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,4,0,0,0
+Product_353,Bakery,11.24,10% off,No-Allergens,None,Low Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,1,4
+Product_354,Produce,15.16,Buy 1 Get 1,Eggs,None,In Stock,3.3,0,0,0,0,1,1,0,0,0,0,0,Average,7,2,0,0
+Product_355,Personal Care,14.67,10% off,Wheat,None,In Stock,4.7,0,0,0,0,1,0,0,0,1,0,0,Excellent,6,1,0,1
+Product_356,Pantry,6.77,No-Offer,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,5,4,0,2
+Product_357,Snacks,22.16,$2 off,No-Allergens,None,Out of Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,9,0,2,0
+Product_358,Meat,13.36,$2 off,No-Allergens,"Keto, Vegan",Low Stock,4.9,1,0,0,1,0,0,0,0,0,0,1,Excellent,4,0,1,1
+Product_359,Seafood,11.81,10% off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,0,2
+Product_360,Pantry,23.98,$2 off,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,0,0,4
+Product_361,Seafood,18.39,No-Offer,Eggs,None,In Stock,3.8,0,0,0,0,1,1,0,0,0,0,0,Good,8,4,0,2
+Product_362,Personal Care,22.97,$2 off,No-Allergens,"Low Sugar, None",Low Stock,4.5,0,0,1,0,1,0,0,0,0,0,1,Very Good,6,0,1,4
+Product_363,Frozen Foods,24.77,$2 off,No-Allergens,"Gluten-Free, Low Sugar",In Stock,2.6,0,1,1,0,0,0,0,0,0,0,1,Poor,3,0,0,3
+Product_364,Pantry,20.48,10% off,"Milk, Wheat",None,In Stock,4.9,0,0,0,0,1,0,1,0,1,0,0,Excellent,5,1,0,1
+Product_365,Frozen Foods,8.23,10% off,No-Allergens,Keto,In Stock,4.4,1,0,0,0,0,0,0,0,0,0,1,Very Good,3,1,0,4
+Product_366,Beverages,20.51,Clearance,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,1,3,0,2
+Product_367,Produce,16.12,Clearance,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,3,0,1
+Product_368,Snacks,18.18,Clearance,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,3,0,4
+Product_369,Bakery,21.88,10% off,No-Allergens,Keto,In Stock,4.6,1,0,0,0,0,0,0,0,0,0,1,Very Good,0,1,0,4
+Product_370,Produce,16.56,10% off,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,1,1,4
+Product_371,Seafood,12.21,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,4,0,0
+Product_372,Beverages,23.0,Buy 1 Get 1,No-Allergens,None,Low Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,1,2,1,0
+Product_373,Snacks,8.91,10% off,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,1,0,1
+Product_374,Beverages,13.7,$2 off,"Soy, Nuts",None,In Stock,2.5,0,0,0,0,1,0,0,1,0,1,0,Poor,1,0,0,3
+Product_375,Produce,4.73,Clearance,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,7,3,1,2
+Product_376,Pantry,8.23,No-Offer,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,4,0,1
+Product_377,Seafood,19.19,Buy 1 Get 1,Wheat,None,In Stock,4.9,0,0,0,0,1,0,0,0,1,0,0,Excellent,8,2,0,1
+Product_378,Meat,3.05,Clearance,"Nuts, Eggs",None,In Stock,3.9,0,0,0,0,1,1,0,1,0,0,0,Good,4,3,0,2
+Product_379,Seafood,10.84,Buy 1 Get 1,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,8,2,0,0
+Product_380,Dairy,14.53,No-Offer,"Wheat, None",Low Sugar,Low Stock,4.9,0,0,1,0,0,0,0,0,1,0,0,Excellent,2,4,1,1
+Product_381,Frozen Foods,21.58,$2 off,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,3,0,1,0
+Product_382,Pantry,23.15,10% off,"Milk, Soy",None,In Stock,4.1,0,0,0,0,1,0,1,0,0,1,0,Good,5,1,0,2
+Product_383,Snacks,9.88,No-Offer,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,4,1,4
+Product_384,Pantry,12.02,Clearance,"Soy, Wheat","Keto, Low Sugar",Low Stock,4.7,1,0,1,0,0,0,0,0,1,1,0,Excellent,5,3,1,1
+Product_385,Dairy,3.09,10% off,No-Allergens,None,Out of Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,1,2,4
+Product_386,Bakery,23.51,Clearance,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,0,3,0,0
+Product_387,Bakery,6.97,Buy 1 Get 1,No-Allergens,Gluten-Free,Low Stock,2.7,0,1,0,0,0,0,0,0,0,0,1,Poor,0,2,1,3
+Product_388,Snacks,8.22,No-Offer,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,4,0,4
+Product_389,Bakery,23.07,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,0,0,0,1
+Product_390,Pantry,6.65,$2 off,No-Allergens,"Low Sugar, Keto",Out of Stock,4.9,1,0,1,0,0,0,0,0,0,0,1,Excellent,5,0,2,1
+Product_391,Frozen Foods,8.57,$2 off,No-Allergens,"Low Sugar, Keto",In Stock,3.5,1,0,1,0,0,0,0,0,0,0,1,Average,3,0,0,0
+Product_392,Meat,7.2,Clearance,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,4,3,0,2
+Product_393,Dairy,11.68,$2 off,No-Allergens,None,Out of Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,2,0,2,2
+Product_394,Pantry,9.37,$2 off,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,0,0,1
+Product_395,Bakery,8.9,$2 off,No-Allergens,None,Out of Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,0,0,2,0
+Product_396,Personal Care,20.89,Clearance,Wheat,Low Sugar,In Stock,4.7,0,0,1,0,0,0,0,0,1,0,0,Excellent,6,3,0,1
+Product_397,Personal Care,15.65,10% off,No-Allergens,"Keto, Low Sugar",In Stock,3.1,1,0,1,0,0,0,0,0,0,0,1,Average,6,1,0,0
+Product_398,Frozen Foods,23.26,Buy 1 Get 1,Wheat,None,In Stock,3.1,0,0,0,0,1,0,0,0,1,0,0,Average,3,2,0,0
+Product_399,Meat,14.94,No-Offer,"None, Nuts",None,Low Stock,3.6,0,0,0,0,1,0,0,1,0,0,0,Average,4,4,1,0
+Product_400,Pantry,18.08,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,5,4,0,0
+Product_401,Bakery,21.22,$2 off,Soy,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,1,0,Average,0,0,0,0
+Product_402,Personal Care,20.27,No-Offer,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,6,4,0,2
+Product_403,Produce,3.66,No-Offer,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,4,0,4
+Product_404,Beverages,3.1,10% off,Nuts,None,In Stock,3.7,0,0,0,0,1,0,0,1,0,0,0,Good,1,1,0,2
+Product_405,Dairy,22.87,$2 off,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,2,0,0,3
+Product_406,Beverages,7.39,No-Offer,"None, Wheat",None,Low Stock,3.1,0,0,0,0,1,0,0,0,1,0,0,Average,1,4,1,0
+Product_407,Snacks,12.43,Clearance,No-Allergens,"Vegan, Gluten-Free",In Stock,4.9,0,1,0,1,0,0,0,0,0,0,1,Excellent,9,3,0,1
+Product_408,Snacks,13.26,No-Offer,No-Allergens,None,Low Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,9,4,1,0
+Product_409,Snacks,4.23,$2 off,No-Allergens,None,Out of Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,0,2,4
+Product_410,Personal Care,6.68,10% off,"None, Soy","Low Sugar, Keto",Low Stock,3.8,1,0,1,0,0,0,0,0,0,1,0,Good,6,1,1,2
+Product_411,Produce,22.36,Buy 1 Get 1,Milk,"Vegan, None",In Stock,2.5,0,0,0,1,1,0,1,0,0,0,0,Poor,7,2,0,3
+Product_412,Frozen Foods,4.0,Clearance,Wheat,None,In Stock,3.3,0,0,0,0,1,0,0,0,1,0,0,Average,3,3,0,0
+Product_413,Personal Care,7.41,No-Offer,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,6,4,0,3
+Product_414,Seafood,8.12,No-Offer,Milk,"None, Vegan",In Stock,4.4,0,0,0,1,1,0,1,0,0,0,0,Very Good,8,4,0,4
+Product_415,Frozen Foods,18.8,Buy 1 Get 1,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,3,2,0,3
+Product_416,Beverages,23.66,Buy 1 Get 1,Wheat,None,Low Stock,3.7,0,0,0,0,1,0,0,0,1,0,0,Good,1,2,1,2
+Product_417,Meat,10.77,No-Offer,No-Allergens,None,Low Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,4,4,1,3
+Product_418,Meat,21.03,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,2,0,4
+Product_419,Pantry,13.68,10% off,No-Allergens,Keto,In Stock,2.7,1,0,0,0,0,0,0,0,0,0,1,Poor,5,1,0,3
+Product_420,Dairy,14.65,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,2,4,0,0
+Product_421,Pantry,22.49,Clearance,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,5,3,1,0
+Product_422,Beverages,17.57,Clearance,Eggs,None,In Stock,3.9,0,0,0,0,1,1,0,0,0,0,0,Good,1,3,0,2
+Product_423,Bakery,20.02,No-Offer,"Milk, Nuts",None,In Stock,2.8,0,0,0,0,1,0,1,1,0,0,0,Poor,0,4,0,3
+Product_424,Snacks,19.37,Clearance,"Eggs, Soy",None,In Stock,3.0,0,0,0,0,1,1,0,0,0,1,0,Poor,9,3,0,3
+Product_425,Dairy,2.48,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,0,0,1
+Product_426,Produce,9.44,Clearance,No-Allergens,Vegan,Low Stock,3.8,0,0,0,1,0,0,0,0,0,0,1,Good,7,3,1,2
+Product_427,Bakery,21.48,10% off,No-Allergens,Vegan,In Stock,2.6,0,0,0,1,0,0,0,0,0,0,1,Poor,0,1,0,3
+Product_428,Frozen Foods,14.72,10% off,Nuts,None,In Stock,4.0,0,0,0,0,1,0,0,1,0,0,0,Good,3,1,0,2
+Product_429,Beverages,22.55,10% off,No-Allergens,Vegan,In Stock,4.7,0,0,0,1,0,0,0,0,0,0,1,Excellent,1,1,0,1
+Product_430,Beverages,3.0,Buy 1 Get 1,No-Allergens,None,Low Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,1,2,1,0
+Product_431,Frozen Foods,6.32,10% off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,3,1,0,0
+Product_432,Snacks,5.33,Clearance,Wheat,None,Low Stock,2.7,0,0,0,0,1,0,0,0,1,0,0,Poor,9,3,1,3
+Product_433,Dairy,3.47,Clearance,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,3,0,1
+Product_434,Bakery,18.4,10% off,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,1,4
+Product_435,Bakery,18.7,Buy 1 Get 1,No-Allergens,"Vegan, Keto",Low Stock,2.6,1,0,0,1,0,0,0,0,0,0,1,Poor,0,2,1,3
+Product_436,Dairy,9.45,$2 off,Eggs,None,Low Stock,2.8,0,0,0,0,1,1,0,0,0,0,0,Poor,2,0,1,3
+Product_437,Snacks,14.5,Buy 1 Get 1,"Eggs, None",None,In Stock,4.0,0,0,0,0,1,1,0,0,0,0,0,Good,9,2,0,2
+Product_438,Meat,3.11,$2 off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,0,0,4
+Product_439,Dairy,24.59,10% off,Eggs,None,In Stock,3.6,0,0,0,0,1,1,0,0,0,0,0,Average,2,1,0,0
+Product_440,Personal Care,10.05,Clearance,No-Allergens,"Keto, Low Sugar",In Stock,2.6,1,0,1,0,0,0,0,0,0,0,1,Poor,6,3,0,3
+Product_441,Beverages,1.64,10% off,"Nuts, Eggs",None,In Stock,3.6,0,0,0,0,1,1,0,1,0,0,0,Average,1,1,0,0
+Product_442,Frozen Foods,21.08,Buy 1 Get 1,"None, Wheat","Gluten-Free, Keto",In Stock,4.3,1,1,0,0,0,0,0,0,1,0,0,Very Good,3,2,0,4
+Product_443,Meat,23.7,No-Offer,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,4,4,1,2
+Product_444,Meat,20.08,Buy 1 Get 1,"Eggs, Wheat",None,Low Stock,3.7,0,0,0,0,1,1,0,0,1,0,0,Good,4,2,1,2
+Product_445,Frozen Foods,11.5,10% off,"Nuts, Wheat",None,In Stock,4.9,0,0,0,0,1,0,0,1,1,0,0,Excellent,3,1,0,1
+Product_446,Seafood,20.09,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,8,0,0,0
+Product_447,Snacks,14.76,$2 off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,0,0,3
+Product_448,Seafood,17.18,Buy 1 Get 1,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,2,1,4
+Product_449,Bakery,9.72,10% off,Soy,None,Out of Stock,3.1,0,0,0,0,1,0,0,0,0,1,0,Average,0,1,2,0
+Product_450,Meat,22.87,No-Offer,Wheat,"Low Sugar, Keto",Low Stock,3.4,1,0,1,0,0,0,0,0,1,0,0,Average,4,4,1,0
+Product_451,Frozen Foods,3.87,$2 off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,3,0,0,3
+Product_452,Pantry,1.89,10% off,No-Allergens,"None, Vegan",In Stock,4.8,0,0,0,1,1,0,0,0,0,0,1,Excellent,5,1,0,1
+Product_453,Snacks,13.22,Clearance,Soy,"Keto, Low Sugar",In Stock,4.9,1,0,1,0,0,0,0,0,0,1,0,Excellent,9,3,0,1
+Product_454,Snacks,7.0,Clearance,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,3,0,1
+Product_455,Frozen Foods,11.54,$2 off,Milk,None,In Stock,3.6,0,0,0,0,1,0,1,0,0,0,0,Average,3,0,0,0
+Product_456,Beverages,21.74,10% off,No-Allergens,Low Sugar,In Stock,4.7,0,0,1,0,0,0,0,0,0,0,1,Excellent,1,1,0,1
+Product_457,Pantry,17.17,Clearance,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,3,0,4
+Product_458,Bakery,24.45,10% off,"None, Nuts",None,In Stock,3.6,0,0,0,0,1,0,0,1,0,0,0,Average,0,1,0,0
+Product_459,Dairy,12.84,Clearance,No-Allergens,None,Out of Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,2,3,2,0
+Product_460,Beverages,13.79,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,1,0,4
+Product_461,Seafood,11.88,Buy 1 Get 1,No-Allergens,None,Out of Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,2,2,0
+Product_462,Beverages,24.76,No-Offer,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,4,0,1
+Product_463,Snacks,15.17,Clearance,Wheat,None,In Stock,4.5,0,0,0,0,1,0,0,0,1,0,0,Very Good,9,3,0,4
+Product_464,Snacks,16.11,No-Offer,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,9,4,0,2
+Product_465,Snacks,19.87,10% off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,9,1,0,2
+Product_466,Personal Care,3.28,No-Offer,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,6,4,0,0
+Product_467,Produce,14.43,10% off,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,1,0,1
+Product_468,Seafood,3.7,10% off,"Soy, Wheat",None,Out of Stock,2.8,0,0,0,0,1,0,0,0,1,1,0,Poor,8,1,2,3
+Product_469,Seafood,21.39,No-Offer,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,8,4,0,0
+Product_470,Pantry,4.85,$2 off,Wheat,None,In Stock,4.5,0,0,0,0,1,0,0,0,1,0,0,Very Good,5,0,0,4
+Product_471,Seafood,7.95,$2 off,"Soy, Eggs",None,In Stock,3.8,0,0,0,0,1,1,0,0,0,1,0,Good,8,0,0,2
+Product_472,Frozen Foods,16.31,$2 off,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,3,0,1,0
+Product_473,Bakery,10.17,Buy 1 Get 1,No-Allergens,None,Out of Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,0,2,2,3
+Product_474,Frozen Foods,7.47,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,1,0,4
+Product_475,Pantry,20.66,10% off,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,1,0,4
+Product_476,Produce,3.33,Buy 1 Get 1,"Wheat, Soy",None,In Stock,2.7,0,0,0,0,1,0,0,0,1,1,0,Poor,7,2,0,3
+Product_477,Frozen Foods,2.57,No-Offer,"Nuts, Milk",Low Sugar,In Stock,2.5,0,0,1,0,0,0,1,1,0,0,0,Poor,3,4,0,3
+Product_478,Pantry,21.29,Clearance,No-Allergens,"Vegan, None",Low Stock,4.1,0,0,0,1,1,0,0,0,0,0,1,Good,5,3,1,2
+Product_479,Bakery,3.18,No-Offer,No-Allergens,Keto,Out of Stock,4.9,1,0,0,0,0,0,0,0,0,0,1,Excellent,0,4,2,1
+Product_480,Meat,23.06,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,3,0,2
+Product_481,Beverages,22.98,$2 off,Soy,"Keto, Gluten-Free",In Stock,2.7,1,1,0,0,0,0,0,0,0,1,0,Poor,1,0,0,3
+Product_482,Seafood,1.03,Buy 1 Get 1,No-Allergens,"Gluten-Free, None",In Stock,4.4,0,1,0,0,1,0,0,0,0,0,1,Very Good,8,2,0,4
+Product_483,Beverages,23.69,10% off,"None, Wheat",None,In Stock,3.4,0,0,0,0,1,0,0,0,1,0,0,Average,1,1,0,0
+Product_484,Frozen Foods,24.9,Buy 1 Get 1,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,2,0,1
+Product_485,Produce,21.02,10% off,Soy,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,1,0,Very Good,7,1,0,4
+Product_486,Meat,5.91,$2 off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,0,0,2
+Product_487,Dairy,10.4,Clearance,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,2,3,0,3
+Product_488,Produce,20.82,$2 off,No-Allergens,Vegan,In Stock,3.8,0,0,0,1,0,0,0,0,0,0,1,Good,7,0,0,2
+Product_489,Beverages,2.71,Buy 1 Get 1,"Soy, None",None,In Stock,4.6,0,0,0,0,1,0,0,0,0,1,0,Very Good,1,2,0,4
+Product_490,Pantry,7.51,Clearance,Wheat,None,Low Stock,4.2,0,0,0,0,1,0,0,0,1,0,0,Good,5,3,1,2
+Product_491,Bakery,12.35,$2 off,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,0,0,0,0
+Product_492,Snacks,11.47,$2 off,"Milk, Eggs","Gluten-Free, Low Sugar",Low Stock,2.6,0,1,1,0,0,1,1,0,0,0,0,Poor,9,0,1,3
+Product_493,Pantry,8.46,Clearance,No-Allergens,None,Out of Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,5,3,2,2
+Product_494,Meat,7.39,Buy 1 Get 1,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,4,2,0,1
+Product_495,Dairy,2.86,Clearance,"None, Soy",None,In Stock,2.9,0,0,0,0,1,0,0,0,0,1,0,Poor,2,3,0,3
+Product_496,Meat,14.74,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,3,0,2
+Product_497,Beverages,23.13,$2 off,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,0,2
+Product_498,Seafood,12.87,Buy 1 Get 1,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,8,2,0,3
+Product_499,Personal Care,5.56,$2 off,No-Allergens,"Keto, Low Sugar",Out of Stock,2.6,1,0,1,0,0,0,0,0,0,0,1,Poor,6,0,2,3
+Product_500,Beverages,11.02,Buy 1 Get 1,Nuts,None,Out of Stock,3.3,0,0,0,0,1,0,0,1,0,0,0,Average,1,2,2,0
+Product_501,Pantry,10.38,Clearance,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,3,0,1
+Product_502,Personal Care,23.44,10% off,No-Allergens,None,Out of Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,1,2,1
+Product_503,Frozen Foods,4.97,Clearance,Nuts,"Vegan, Keto",In Stock,4.7,1,0,0,1,0,0,0,1,0,0,0,Excellent,3,3,0,1
+Product_504,Dairy,6.28,Buy 1 Get 1,No-Allergens,None,Low Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,2,2,1,2
+Product_505,Personal Care,6.98,$2 off,"Milk, Soy",None,In Stock,4.1,0,0,0,0,1,0,1,0,0,1,0,Good,6,0,0,2
+Product_506,Meat,18.28,Buy 1 Get 1,No-Allergens,"Vegan, Gluten-Free",In Stock,2.6,0,1,0,1,0,0,0,0,0,0,1,Poor,4,2,0,3
+Product_507,Beverages,9.81,10% off,"Nuts, Milk",None,In Stock,3.0,0,0,0,0,1,0,1,1,0,0,0,Poor,1,1,0,3
+Product_508,Beverages,23.21,Buy 1 Get 1,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,2,0,1
+Product_509,Seafood,20.76,$2 off,Eggs,None,Low Stock,3.7,0,0,0,0,1,1,0,0,0,0,0,Good,8,0,1,2
+Product_510,Personal Care,19.26,No-Offer,"Wheat, Eggs",None,In Stock,2.6,0,0,0,0,1,1,0,0,1,0,0,Poor,6,4,0,3
+Product_511,Snacks,3.32,$2 off,Milk,Low Sugar,Out of Stock,5.0,0,0,1,0,0,0,1,0,0,0,0,Excellent,9,0,2,1
+Product_512,Personal Care,7.52,No-Offer,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,6,4,0,3
+Product_513,Dairy,19.02,No-Offer,"Wheat, Milk",None,In Stock,2.6,0,0,0,0,1,0,1,0,1,0,0,Poor,2,4,0,3
+Product_514,Bakery,13.85,10% off,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,0,1,0,1
+Product_515,Personal Care,6.33,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,6,0,0,0
+Product_516,Seafood,18.13,No-Offer,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,1,4
+Product_517,Personal Care,12.47,Buy 1 Get 1,Nuts,Keto,In Stock,2.8,1,0,0,0,0,0,0,1,0,0,0,Poor,6,2,0,3
+Product_518,Snacks,20.76,No-Offer,"Eggs, Milk","Keto, None",In Stock,3.8,1,0,0,0,1,1,1,0,0,0,0,Good,9,4,0,2
+Product_519,Personal Care,21.76,No-Offer,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,4,0,4
+Product_520,Bakery,6.19,$2 off,No-Allergens,Keto,In Stock,2.9,1,0,0,0,0,0,0,0,0,0,1,Poor,0,0,0,3
+Product_521,Frozen Foods,11.86,$2 off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,3,0,0,2
+Product_522,Pantry,21.46,$2 off,Nuts,"Low Sugar, None",In Stock,4.9,0,0,1,0,1,0,0,1,0,0,0,Excellent,5,0,0,1
+Product_523,Bakery,8.5,$2 off,No-Allergens,"Vegan, Keto",In Stock,4.0,1,0,0,1,0,0,0,0,0,0,1,Good,0,0,0,2
+Product_524,Frozen Foods,18.52,10% off,No-Allergens,None,Out of Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,3,1,2,3
+Product_525,Beverages,3.81,No-Offer,No-Allergens,"Keto, Vegan",In Stock,2.6,1,0,0,1,0,0,0,0,0,0,1,Poor,1,4,0,3
+Product_526,Beverages,14.42,Clearance,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,1,3,0,2
+Product_527,Snacks,24.65,No-Offer,No-Allergens,None,Low Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,9,4,1,2
+Product_528,Snacks,5.47,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,9,4,0,0
+Product_529,Bakery,17.4,$2 off,"Wheat, Nuts",None,Low Stock,4.0,0,0,0,0,1,0,0,1,1,0,0,Good,0,0,1,2
+Product_530,Meat,13.66,$2 off,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,4,0,0,3
+Product_531,Snacks,19.6,$2 off,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,9,0,0,2
+Product_532,Beverages,7.58,No-Offer,Wheat,None,In Stock,3.5,0,0,0,0,1,0,0,0,1,0,0,Average,1,4,0,0
+Product_533,Snacks,22.59,No-Offer,"None, Nuts","Gluten-Free, Low Sugar",In Stock,2.9,0,1,1,0,0,0,0,1,0,0,0,Poor,9,4,0,3
+Product_534,Personal Care,7.42,$2 off,"None, Soy",None,In Stock,3.9,0,0,0,0,1,0,0,0,0,1,0,Good,6,0,0,2
+Product_535,Meat,20.2,Clearance,No-Allergens,"Keto, Vegan",In Stock,2.7,1,0,0,1,0,0,0,0,0,0,1,Poor,4,3,0,3
+Product_536,Snacks,1.08,No-Offer,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,9,4,0,3
+Product_537,Snacks,23.77,Clearance,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,9,3,0,3
+Product_538,Beverages,19.42,10% off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,1,0,0
+Product_539,Snacks,9.68,Buy 1 Get 1,Eggs,None,In Stock,4.2,0,0,0,0,1,1,0,0,0,0,0,Good,9,2,0,2
+Product_540,Bakery,2.06,10% off,Eggs,None,In Stock,3.3,0,0,0,0,1,1,0,0,0,0,0,Average,0,1,0,0
+Product_541,Pantry,21.89,Clearance,No-Allergens,"None, Gluten-Free",In Stock,3.0,0,1,0,0,1,0,0,0,0,0,1,Poor,5,3,0,3
+Product_542,Seafood,17.78,Buy 1 Get 1,No-Allergens,None,Out of Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,2,2,4
+Product_543,Seafood,18.96,Clearance,No-Allergens,None,Out of Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,3,2,4
+Product_544,Beverages,23.21,Buy 1 Get 1,"Eggs, Nuts",None,In Stock,3.1,0,0,0,0,1,1,0,1,0,0,0,Average,1,2,0,0
+Product_545,Beverages,22.71,No-Offer,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_546,Frozen Foods,13.76,$2 off,"Eggs, Nuts",None,In Stock,3.0,0,0,0,0,1,1,0,1,0,0,0,Poor,3,0,0,3
+Product_547,Snacks,3.83,No-Offer,"Eggs, Soy",None,In Stock,3.5,0,0,0,0,1,1,0,0,0,1,0,Average,9,4,0,0
+Product_548,Frozen Foods,20.56,$2 off,No-Allergens,Gluten-Free,In Stock,2.6,0,1,0,0,0,0,0,0,0,0,1,Poor,3,0,0,3
+Product_549,Produce,20.17,Clearance,No-Allergens,None,Low Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,7,3,1,0
+Product_550,Beverages,8.88,10% off,No-Allergens,None,Low Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,1,1,1
+Product_551,Meat,23.23,Buy 1 Get 1,Wheat,None,In Stock,2.8,0,0,0,0,1,0,0,0,1,0,0,Poor,4,2,0,3
+Product_552,Seafood,12.68,No-Offer,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,1,4
+Product_553,Pantry,14.49,Clearance,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,5,3,0,2
+Product_554,Meat,9.77,Buy 1 Get 1,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,2,0,4
+Product_555,Personal Care,7.71,Clearance,No-Allergens,None,Low Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,6,3,1,3
+Product_556,Produce,9.3,10% off,"None, Wheat",None,In Stock,3.6,0,0,0,0,1,0,0,0,1,0,0,Average,7,1,0,0
+Product_557,Bakery,21.31,$2 off,"None, Soy",Low Sugar,In Stock,4.1,0,0,1,0,0,0,0,0,0,1,0,Good,0,0,0,2
+Product_558,Dairy,2.14,Clearance,Wheat,None,In Stock,3.7,0,0,0,0,1,0,0,0,1,0,0,Good,2,3,0,2
+Product_559,Seafood,15.0,Clearance,No-Allergens,"None, Gluten-Free",In Stock,2.6,0,1,0,0,1,0,0,0,0,0,1,Poor,8,3,0,3
+Product_560,Snacks,17.89,Clearance,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,3,0,3
+Product_561,Seafood,11.08,Buy 1 Get 1,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,8,2,1,2
+Product_562,Dairy,3.39,No-Offer,No-Allergens,Gluten-Free,In Stock,3.8,0,1,0,0,0,0,0,0,0,0,1,Good,2,4,0,2
+Product_563,Produce,24.31,Clearance,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,7,3,0,2
+Product_564,Frozen Foods,19.64,Clearance,"Soy, Wheat",None,Low Stock,3.6,0,0,0,0,1,0,0,0,1,1,0,Average,3,3,1,0
+Product_565,Meat,13.91,Clearance,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,4,3,0,3
+Product_566,Personal Care,19.32,$2 off,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,0,0,1
+Product_567,Dairy,12.54,10% off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,1,0,4
+Product_568,Meat,4.41,10% off,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,0,2
+Product_569,Seafood,21.6,10% off,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,1,0,0
+Product_570,Personal Care,3.92,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,2,0,4
+Product_571,Snacks,2.45,Buy 1 Get 1,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,9,2,0,3
+Product_572,Beverages,9.23,No-Offer,Nuts,"Gluten-Free, Low Sugar",In Stock,4.0,0,1,1,0,0,0,0,1,0,0,0,Good,1,4,0,2
+Product_573,Pantry,13.93,Buy 1 Get 1,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,5,2,0,0
+Product_574,Dairy,11.52,Buy 1 Get 1,Wheat,None,In Stock,4.8,0,0,0,0,1,0,0,0,1,0,0,Excellent,2,2,0,1
+Product_575,Pantry,19.04,$2 off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,0,0,4
+Product_576,Frozen Foods,16.67,Clearance,No-Allergens,"Gluten-Free, Low Sugar",In Stock,4.8,0,1,1,0,0,0,0,0,0,0,1,Excellent,3,3,0,1
+Product_577,Frozen Foods,14.29,10% off,Nuts,"Low Sugar, None",Low Stock,2.5,0,0,1,0,1,0,0,1,0,0,0,Poor,3,1,1,3
+Product_578,Pantry,6.82,10% off,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,5,1,0,3
+Product_579,Snacks,13.79,Buy 1 Get 1,No-Allergens,Gluten-Free,Low Stock,3.4,0,1,0,0,0,0,0,0,0,0,1,Average,9,2,1,0
+Product_580,Seafood,8.05,No-Offer,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,8,4,0,2
+Product_581,Dairy,22.18,Clearance,No-Allergens,None,Out of Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,2,3,2,2
+Product_582,Dairy,2.11,No-Offer,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,2,4,0,2
+Product_583,Snacks,15.67,No-Offer,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,9,4,0,0
+Product_584,Bakery,22.38,Buy 1 Get 1,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,0,2,0,1
+Product_585,Meat,6.39,$2 off,No-Allergens,"None, Vegan",In Stock,4.6,0,0,0,1,1,0,0,0,0,0,1,Very Good,4,0,0,4
+Product_586,Frozen Foods,3.69,No-Offer,No-Allergens,"Low Sugar, None",In Stock,4.7,0,0,1,0,1,0,0,0,0,0,1,Excellent,3,4,0,1
+Product_587,Meat,9.25,10% off,"Milk, Soy",None,In Stock,4.4,0,0,0,0,1,0,1,0,0,1,0,Very Good,4,1,0,4
+Product_588,Produce,2.11,No-Offer,No-Allergens,None,Low Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,7,4,1,0
+Product_589,Snacks,4.16,10% off,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,9,1,0,0
+Product_590,Beverages,3.97,Buy 1 Get 1,Soy,None,Low Stock,4.2,0,0,0,0,1,0,0,0,0,1,0,Good,1,2,1,2
+Product_591,Bakery,10.22,10% off,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,1,4
+Product_592,Frozen Foods,17.29,No-Offer,Eggs,None,In Stock,2.9,0,0,0,0,1,1,0,0,0,0,0,Poor,3,4,0,3
+Product_593,Pantry,22.82,$2 off,Wheat,None,Low Stock,5.0,0,0,0,0,1,0,0,0,1,0,0,Excellent,5,0,1,1
+Product_594,Pantry,11.77,10% off,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,1,0,4
+Product_595,Seafood,10.48,Buy 1 Get 1,"Soy, None",None,In Stock,3.0,0,0,0,0,1,0,0,0,0,1,0,Poor,8,2,0,3
+Product_596,Pantry,19.56,Buy 1 Get 1,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,5,2,0,2
+Product_597,Bakery,6.15,Clearance,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,0,3,0,2
+Product_598,Pantry,11.2,$2 off,No-Allergens,Vegan,In Stock,2.9,0,0,0,1,0,0,0,0,0,0,1,Poor,5,0,0,3
+Product_599,Dairy,18.04,10% off,No-Allergens,Vegan,In Stock,4.6,0,0,0,1,0,0,0,0,0,0,1,Very Good,2,1,0,4
+Product_600,Meat,11.41,$2 off,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,4,0,0,3
+Product_601,Produce,24.55,10% off,Milk,None,Out of Stock,2.9,0,0,0,0,1,0,1,0,0,0,0,Poor,7,1,2,3
+Product_602,Beverages,15.97,$2 off,No-Allergens,None,Low Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,1,0,1,3
+Product_603,Beverages,17.84,10% off,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,1,0,4
+Product_604,Beverages,9.11,10% off,"Wheat, Milk",None,In Stock,4.9,0,0,0,0,1,0,1,0,1,0,0,Excellent,1,1,0,1
+Product_605,Personal Care,7.31,Clearance,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,6,3,0,2
+Product_606,Seafood,13.03,Clearance,Nuts,Gluten-Free,In Stock,4.8,0,1,0,0,0,0,0,1,0,0,0,Excellent,8,3,0,1
+Product_607,Pantry,21.41,No-Offer,"Eggs, Wheat",None,Low Stock,2.9,0,0,0,0,1,1,0,0,1,0,0,Poor,5,4,1,3
+Product_608,Pantry,11.53,10% off,"Eggs, Nuts",None,Out of Stock,2.5,0,0,0,0,1,1,0,1,0,0,0,Poor,5,1,2,3
+Product_609,Seafood,17.75,No-Offer,No-Allergens,None,Low Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,1,4
+Product_610,Beverages,9.55,$2 off,Eggs,None,In Stock,3.8,0,0,0,0,1,1,0,0,0,0,0,Good,1,0,0,2
+Product_611,Bakery,5.96,10% off,No-Allergens,"Vegan, Gluten-Free",Low Stock,4.5,0,1,0,1,0,0,0,0,0,0,1,Very Good,0,1,1,4
+Product_612,Produce,15.22,Buy 1 Get 1,No-Allergens,Keto,In Stock,4.8,1,0,0,0,0,0,0,0,0,0,1,Excellent,7,2,0,1
+Product_613,Seafood,4.6,Buy 1 Get 1,Wheat,None,In Stock,4.3,0,0,0,0,1,0,0,0,1,0,0,Very Good,8,2,0,4
+Product_614,Pantry,12.3,10% off,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,5,1,0,2
+Product_615,Frozen Foods,7.3,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,1,0,4
+Product_616,Personal Care,23.36,Buy 1 Get 1,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,6,2,1,3
+Product_617,Seafood,9.59,Buy 1 Get 1,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,2,0,4
+Product_618,Frozen Foods,20.17,$2 off,Eggs,None,Low Stock,2.6,0,0,0,0,1,1,0,0,0,0,0,Poor,3,0,1,3
+Product_619,Bakery,7.15,10% off,No-Allergens,Keto,Out of Stock,4.0,1,0,0,0,0,0,0,0,0,0,1,Good,0,1,2,2
+Product_620,Produce,10.78,No-Offer,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,4,0,1
+Product_621,Produce,21.64,No-Offer,"Wheat, Nuts",None,In Stock,4.8,0,0,0,0,1,0,0,1,1,0,0,Excellent,7,4,0,1
+Product_622,Bakery,23.3,$2 off,No-Allergens,Gluten-Free,In Stock,3.9,0,1,0,0,0,0,0,0,0,0,1,Good,0,0,0,2
+Product_623,Bakery,1.28,$2 off,"Nuts, Eggs",None,Low Stock,4.1,0,0,0,0,1,1,0,1,0,0,0,Good,0,0,1,2
+Product_624,Snacks,17.29,$2 off,No-Allergens,Low Sugar,In Stock,4.4,0,0,1,0,0,0,0,0,0,0,1,Very Good,9,0,0,4
+Product_625,Pantry,8.34,10% off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,5,1,0,0
+Product_626,Bakery,14.84,Clearance,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,0,3,0,3
+Product_627,Dairy,10.95,No-Offer,No-Allergens,Vegan,In Stock,4.4,0,0,0,1,0,0,0,0,0,0,1,Very Good,2,4,0,4
+Product_628,Beverages,1.18,No-Offer,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_629,Meat,20.35,10% off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,4,1,0,0
+Product_630,Produce,6.06,Clearance,"Wheat, Eggs",None,Out of Stock,3.5,0,0,0,0,1,1,0,0,1,0,0,Average,7,3,2,0
+Product_631,Seafood,4.87,10% off,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,1,2
+Product_632,Bakery,10.4,Buy 1 Get 1,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,0,2,0,3
+Product_633,Dairy,11.1,10% off,Eggs,None,In Stock,3.1,0,0,0,0,1,1,0,0,0,0,0,Average,2,1,0,0
+Product_634,Personal Care,17.01,Buy 1 Get 1,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,6,2,0,0
+Product_635,Dairy,9.3,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,2,4,0,0
+Product_636,Produce,16.49,Clearance,No-Allergens,"Vegan, Gluten-Free",In Stock,3.8,0,1,0,1,0,0,0,0,0,0,1,Good,7,3,0,2
+Product_637,Personal Care,23.35,No-Offer,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,6,4,0,0
+Product_638,Beverages,10.37,No-Offer,No-Allergens,"Vegan, None",In Stock,3.6,0,0,0,1,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_639,Beverages,7.01,Clearance,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,1,3,1,2
+Product_640,Personal Care,8.7,No-Offer,No-Allergens,"Vegan, Keto",In Stock,4.7,1,0,0,1,0,0,0,0,0,0,1,Excellent,6,4,0,1
+Product_641,Seafood,16.92,No-Offer,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,8,4,1,3
+Product_642,Bakery,9.59,Buy 1 Get 1,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,2,0,4
+Product_643,Beverages,7.1,Buy 1 Get 1,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,1,2,0,0
+Product_644,Snacks,3.42,No-Offer,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,9,4,0,3
+Product_645,Snacks,1.25,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,1,0,4
+Product_646,Snacks,13.46,No-Offer,No-Allergens,Keto,In Stock,3.8,1,0,0,0,0,0,0,0,0,0,1,Good,9,4,0,2
+Product_647,Frozen Foods,23.02,10% off,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,1,0,1
+Product_648,Produce,6.32,Buy 1 Get 1,"Soy, Eggs",None,In Stock,3.8,0,0,0,0,1,1,0,0,0,1,0,Good,7,2,0,2
+Product_649,Personal Care,13.34,No-Offer,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,4,0,1
+Product_650,Frozen Foods,18.56,Buy 1 Get 1,No-Allergens,None,Out of Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,3,2,2,3
+Product_651,Frozen Foods,21.79,No-Offer,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,0,2
+Product_652,Seafood,8.7,$2 off,No-Allergens,"Gluten-Free, Low Sugar",In Stock,3.6,0,1,1,0,0,0,0,0,0,0,1,Average,8,0,0,0
+Product_653,Personal Care,18.02,10% off,No-Allergens,"Gluten-Free, Vegan",In Stock,3.8,0,1,0,1,0,0,0,0,0,0,1,Good,6,1,0,2
+Product_654,Beverages,15.12,Buy 1 Get 1,No-Allergens,"Vegan, Low Sugar",In Stock,4.6,0,0,1,1,0,0,0,0,0,0,1,Very Good,1,2,0,4
+Product_655,Snacks,15.36,No-Offer,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,4,0,1
+Product_656,Frozen Foods,24.6,Clearance,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,3,0,1
+Product_657,Meat,20.13,$2 off,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,0,0,4
+Product_658,Frozen Foods,19.3,10% off,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,1,0,1
+Product_659,Pantry,21.76,10% off,"Eggs, Soy",None,Out of Stock,2.6,0,0,0,0,1,1,0,0,0,1,0,Poor,5,1,2,3
+Product_660,Meat,15.08,Buy 1 Get 1,Soy,"Gluten-Free, Keto",Out of Stock,3.6,1,1,0,0,0,0,0,0,0,1,0,Average,4,2,2,0
+Product_661,Personal Care,10.82,10% off,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,6,1,0,2
+Product_662,Produce,4.55,$2 off,No-Allergens,"Vegan, Low Sugar",In Stock,2.8,0,0,1,1,0,0,0,0,0,0,1,Poor,7,0,0,3
+Product_663,Meat,5.86,No-Offer,"Wheat, Nuts",None,Low Stock,3.0,0,0,0,0,1,0,0,1,1,0,0,Poor,4,4,1,3
+Product_664,Seafood,1.65,Clearance,No-Allergens,Keto,Low Stock,2.6,1,0,0,0,0,0,0,0,0,0,1,Poor,8,3,1,3
+Product_665,Dairy,9.44,Buy 1 Get 1,Milk,None,In Stock,4.6,0,0,0,0,1,0,1,0,0,0,0,Very Good,2,2,0,4
+Product_666,Bakery,14.53,Clearance,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,0,3,0,1
+Product_667,Dairy,19.83,No-Offer,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,2,4,0,0
+Product_668,Seafood,19.73,$2 off,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,8,0,0,2
+Product_669,Beverages,3.09,$2 off,"Nuts, Eggs",None,In Stock,3.0,0,0,0,0,1,1,0,1,0,0,0,Poor,1,0,0,3
+Product_670,Meat,21.76,10% off,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,4,1,0,1
+Product_671,Beverages,11.71,Clearance,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,1,3,0,4
+Product_672,Beverages,15.6,$2 off,No-Allergens,None,Out of Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,2,2
+Product_673,Seafood,21.8,10% off,No-Allergens,"Low Sugar, None",In Stock,3.7,0,0,1,0,1,0,0,0,0,0,1,Good,8,1,0,2
+Product_674,Frozen Foods,11.46,Clearance,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,3,3,0,0
+Product_675,Bakery,21.3,Clearance,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,3,0,4
+Product_676,Pantry,18.47,Clearance,No-Allergens,"None, Gluten-Free",In Stock,5.0,0,1,0,0,1,0,0,0,0,0,1,Excellent,5,3,0,1
+Product_677,Pantry,4.62,No-Offer,"None, Nuts",None,In Stock,2.6,0,0,0,0,1,0,0,1,0,0,0,Poor,5,4,0,3
+Product_678,Frozen Foods,17.76,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,3,4,0,0
+Product_679,Pantry,14.97,Clearance,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,5,3,0,0
+Product_680,Produce,19.06,Clearance,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,7,3,1,3
+Product_681,Beverages,3.57,No-Offer,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,1,4,0,3
+Product_682,Pantry,19.02,No-Offer,No-Allergens,None,Out of Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,5,4,2,3
+Product_683,Produce,7.81,$2 off,"Eggs, Nuts",None,In Stock,4.5,0,0,0,0,1,1,0,1,0,0,0,Very Good,7,0,0,4
+Product_684,Produce,14.64,No-Offer,No-Allergens,"Vegan, Low Sugar",Out of Stock,3.8,0,0,1,1,0,0,0,0,0,0,1,Good,7,4,2,2
+Product_685,Personal Care,16.74,10% off,No-Allergens,None,Low Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,6,1,1,1
+Product_686,Dairy,6.41,10% off,"Wheat, Soy",Low Sugar,Low Stock,3.5,0,0,1,0,0,0,0,0,1,1,0,Average,2,1,1,0
+Product_687,Pantry,21.94,Buy 1 Get 1,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,2,0,1
+Product_688,Frozen Foods,13.08,Buy 1 Get 1,No-Allergens,None,Out of Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,2,2,1
+Product_689,Personal Care,14.61,10% off,"None, Soy",None,In Stock,2.9,0,0,0,0,1,0,0,0,0,1,0,Poor,6,1,0,3
+Product_690,Beverages,24.38,10% off,"Milk, None",None,In Stock,3.9,0,0,0,0,1,0,1,0,0,0,0,Good,1,1,0,2
+Product_691,Personal Care,12.89,Clearance,No-Allergens,Keto,In Stock,4.4,1,0,0,0,0,0,0,0,0,0,1,Very Good,6,3,0,4
+Product_692,Frozen Foods,6.12,$2 off,No-Allergens,Gluten-Free,Low Stock,3.8,0,1,0,0,0,0,0,0,0,0,1,Good,3,0,1,2
+Product_693,Beverages,1.99,No-Offer,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,4,0,1
+Product_694,Meat,17.31,Buy 1 Get 1,"Soy, Wheat","Keto, Vegan",In Stock,4.2,1,0,0,1,0,0,0,0,1,1,0,Good,4,2,0,2
+Product_695,Beverages,7.38,10% off,"Milk, Eggs",None,In Stock,3.9,0,0,0,0,1,1,1,0,0,0,0,Good,1,1,0,2
+Product_696,Seafood,19.66,No-Offer,No-Allergens,None,Out of Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,4,2,4
+Product_697,Snacks,21.55,No-Offer,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,9,4,1,0
+Product_698,Pantry,15.91,Clearance,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,3,0,4
+Product_699,Pantry,12.17,$2 off,"None, Soy",Low Sugar,In Stock,2.9,0,0,1,0,0,0,0,0,0,1,0,Poor,5,0,0,3
+Product_700,Dairy,16.42,Clearance,Milk,None,Low Stock,3.3,0,0,0,0,1,0,1,0,0,0,0,Average,2,3,1,0
+Product_701,Frozen Foods,21.78,Buy 1 Get 1,No-Allergens,None,Low Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,3,2,1,0
+Product_702,Bakery,3.45,No-Offer,No-Allergens,Low Sugar,Low Stock,3.6,0,0,1,0,0,0,0,0,0,0,1,Average,0,4,1,0
+Product_703,Seafood,15.27,10% off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,1,0,4
+Product_704,Dairy,20.97,No-Offer,No-Allergens,None,Low Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,2,4,1,3
+Product_705,Dairy,11.25,Buy 1 Get 1,No-Allergens,Low Sugar,In Stock,4.8,0,0,1,0,0,0,0,0,0,0,1,Excellent,2,2,0,1
+Product_706,Seafood,14.85,10% off,No-Allergens,Gluten-Free,Low Stock,4.6,0,1,0,0,0,0,0,0,0,0,1,Very Good,8,1,1,4
+Product_707,Dairy,10.05,No-Offer,No-Allergens,Keto,In Stock,3.4,1,0,0,0,0,0,0,0,0,0,1,Average,2,4,0,0
+Product_708,Meat,10.71,$2 off,Eggs,None,In Stock,4.7,0,0,0,0,1,1,0,0,0,0,0,Excellent,4,0,0,1
+Product_709,Dairy,23.24,Clearance,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,2,3,0,3
+Product_710,Snacks,7.42,Clearance,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,3,0,4
+Product_711,Bakery,17.7,10% off,Eggs,Gluten-Free,In Stock,4.0,0,1,0,0,0,1,0,0,0,0,0,Good,0,1,0,2
+Product_712,Dairy,11.95,Clearance,No-Allergens,"Keto, Low Sugar",Low Stock,2.7,1,0,1,0,0,0,0,0,0,0,1,Poor,2,3,1,3
+Product_713,Pantry,18.6,Buy 1 Get 1,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,5,2,1,2
+Product_714,Meat,15.72,No-Offer,No-Allergens,Gluten-Free,Out of Stock,2.8,0,1,0,0,0,0,0,0,0,0,1,Poor,4,4,2,3
+Product_715,Dairy,16.09,Clearance,"None, Nuts",None,Low Stock,4.8,0,0,0,0,1,0,0,1,0,0,0,Excellent,2,3,1,1
+Product_716,Seafood,3.79,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,8,0,0,2
+Product_717,Bakery,11.58,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,0,4
+Product_718,Produce,7.83,No-Offer,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,7,4,1,0
+Product_719,Bakery,17.01,Buy 1 Get 1,"Soy, Eggs",None,In Stock,3.6,0,0,0,0,1,1,0,0,0,1,0,Average,0,2,0,0
+Product_720,Seafood,23.6,No-Offer,"Soy, Eggs","Gluten-Free, Low Sugar",In Stock,2.9,0,1,1,0,0,1,0,0,0,1,0,Poor,8,4,0,3
+Product_721,Meat,6.16,Buy 1 Get 1,"Milk, Soy","Keto, Vegan",Low Stock,4.9,1,0,0,1,0,0,1,0,0,1,0,Excellent,4,2,1,1
+Product_722,Produce,7.03,$2 off,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,7,0,0,0
+Product_723,Snacks,20.45,Clearance,No-Allergens,"None, Keto",In Stock,3.6,1,0,0,0,1,0,0,0,0,0,1,Average,9,3,0,0
+Product_724,Meat,17.12,$2 off,Soy,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,1,0,Good,4,0,0,2
+Product_725,Meat,21.24,Clearance,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,4,3,1,3
+Product_726,Seafood,11.8,Buy 1 Get 1,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,2,0,0
+Product_727,Pantry,17.54,10% off,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,1,0,1
+Product_728,Personal Care,18.86,$2 off,Milk,None,Out of Stock,3.1,0,0,0,0,1,0,1,0,0,0,0,Average,6,0,2,0
+Product_729,Seafood,11.78,No-Offer,No-Allergens,Vegan,In Stock,3.1,0,0,0,1,0,0,0,0,0,0,1,Average,8,4,0,0
+Product_730,Snacks,22.02,$2 off,"Milk, Wheat",Gluten-Free,In Stock,2.6,0,1,0,0,0,0,1,0,1,0,0,Poor,9,0,0,3
+Product_731,Beverages,7.1,$2 off,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,1,0,0,3
+Product_732,Meat,10.14,$2 off,No-Allergens,"Keto, Gluten-Free",In Stock,3.7,1,1,0,0,0,0,0,0,0,0,1,Good,4,0,0,2
+Product_733,Seafood,13.61,Buy 1 Get 1,Soy,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,1,0,Very Good,8,2,0,4
+Product_734,Pantry,18.57,Buy 1 Get 1,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,5,2,0,0
+Product_735,Frozen Foods,9.35,No-Offer,"Eggs, Soy",None,In Stock,2.6,0,0,0,0,1,1,0,0,0,1,0,Poor,3,4,0,3
+Product_736,Meat,2.23,No-Offer,Nuts,None,In Stock,2.7,0,0,0,0,1,0,0,1,0,0,0,Poor,4,4,0,3
+Product_737,Meat,10.2,$2 off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,4,0,0,0
+Product_738,Beverages,20.79,Buy 1 Get 1,No-Allergens,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,1,2,0,1
+Product_739,Produce,2.43,No-Offer,No-Allergens,None,Out of Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,7,4,2,3
+Product_740,Beverages,21.09,$2 off,No-Allergens,None,Out of Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,1,0,2,0
+Product_741,Pantry,1.51,Buy 1 Get 1,"Wheat, Eggs","Low Sugar, Vegan",In Stock,3.7,0,0,1,1,0,1,0,0,1,0,0,Good,5,2,0,2
+Product_742,Dairy,11.48,$2 off,No-Allergens,None,Out of Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,2,0,2,0
+Product_743,Meat,9.03,$2 off,Wheat,"Keto, Low Sugar",In Stock,3.6,1,0,1,0,0,0,0,0,1,0,0,Average,4,0,0,0
+Product_744,Pantry,8.63,Clearance,Eggs,"Gluten-Free, Keto",In Stock,3.5,1,1,0,0,0,1,0,0,0,0,0,Average,5,3,0,0
+Product_745,Pantry,9.13,No-Offer,Wheat,None,Out of Stock,4.9,0,0,0,0,1,0,0,0,1,0,0,Excellent,5,4,2,1
+Product_746,Bakery,18.41,$2 off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,0,0,0,3
+Product_747,Pantry,17.6,Buy 1 Get 1,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,5,2,0,0
+Product_748,Frozen Foods,21.13,10% off,No-Allergens,None,Low Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,3,1,1,2
+Product_749,Produce,7.86,No-Offer,Eggs,Vegan,Low Stock,3.3,0,0,0,1,0,1,0,0,0,0,0,Average,7,4,1,0
+Product_750,Personal Care,7.41,Buy 1 Get 1,No-Allergens,None,Out of Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,2,2,4
+Product_751,Snacks,7.28,Buy 1 Get 1,"Soy, Milk","Keto, Vegan",In Stock,2.7,1,0,0,1,0,0,1,0,0,1,0,Poor,9,2,0,3
+Product_752,Bakery,17.61,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,0,3,0,2
+Product_753,Dairy,23.73,No-Offer,"Eggs, Nuts",None,In Stock,4.4,0,0,0,0,1,1,0,1,0,0,0,Very Good,2,4,0,4
+Product_754,Frozen Foods,18.18,No-Offer,No-Allergens,None,Low Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,1,2
+Product_755,Produce,5.54,No-Offer,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,4,0,1
+Product_756,Frozen Foods,4.68,Buy 1 Get 1,No-Allergens,None,Low Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,3,2,1,0
+Product_757,Seafood,3.88,Buy 1 Get 1,Soy,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,1,0,Good,8,2,0,2
+Product_758,Pantry,21.17,No-Offer,Wheat,"Low Sugar, Keto",In Stock,4.6,1,0,1,0,0,0,0,0,1,0,0,Very Good,5,4,0,4
+Product_759,Dairy,14.48,Buy 1 Get 1,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,2,0,1
+Product_760,Beverages,2.16,Clearance,Wheat,None,Low Stock,4.1,0,0,0,0,1,0,0,0,1,0,0,Good,1,3,1,2
+Product_761,Seafood,13.44,Buy 1 Get 1,"Milk, Eggs",None,In Stock,4.8,0,0,0,0,1,1,1,0,0,0,0,Excellent,8,2,0,1
+Product_762,Seafood,8.68,10% off,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,8,1,0,1
+Product_763,Produce,9.31,Buy 1 Get 1,No-Allergens,"Gluten-Free, Vegan",In Stock,3.7,0,1,0,1,0,0,0,0,0,0,1,Good,7,2,0,2
+Product_764,Pantry,11.5,Clearance,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,5,3,0,3
+Product_765,Frozen Foods,4.61,No-Offer,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,0,2
+Product_766,Pantry,18.58,Clearance,No-Allergens,None,In Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,5,3,0,1
+Product_767,Personal Care,24.49,10% off,No-Allergens,"Low Sugar, None",In Stock,3.0,0,0,1,0,1,0,0,0,0,0,1,Poor,6,1,0,3
+Product_768,Meat,12.92,Buy 1 Get 1,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,4,2,0,1
+Product_769,Meat,22.63,Buy 1 Get 1,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,4,2,0,0
+Product_770,Pantry,14.41,No-Offer,No-Allergens,"Keto, None",In Stock,4.5,1,0,0,0,1,0,0,0,0,0,1,Very Good,5,4,0,4
+Product_771,Frozen Foods,14.69,Clearance,"None, Soy",None,Low Stock,2.9,0,0,0,0,1,0,0,0,0,1,0,Poor,3,3,1,3
+Product_772,Snacks,12.17,Buy 1 Get 1,No-Allergens,Vegan,In Stock,4.0,0,0,0,1,0,0,0,0,0,0,1,Good,9,2,0,2
+Product_773,Frozen Foods,5.19,No-Offer,"None, Nuts",None,Out of Stock,2.7,0,0,0,0,1,0,0,1,0,0,0,Poor,3,4,2,3
+Product_774,Personal Care,20.01,No-Offer,No-Allergens,None,In Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,6,4,0,3
+Product_775,Seafood,17.19,Buy 1 Get 1,"Eggs, None",None,In Stock,4.8,0,0,0,0,1,1,0,0,0,0,0,Excellent,8,2,0,1
+Product_776,Produce,8.2,Buy 1 Get 1,No-Allergens,"Keto, Gluten-Free",In Stock,4.3,1,1,0,0,0,0,0,0,0,0,1,Very Good,7,2,0,4
+Product_777,Beverages,17.7,10% off,"None, Wheat",None,Low Stock,4.3,0,0,0,0,1,0,0,0,1,0,0,Very Good,1,1,1,4
+Product_778,Personal Care,19.97,$2 off,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,6,0,0,3
+Product_779,Pantry,12.87,10% off,Milk,None,Out of Stock,4.6,0,0,0,0,1,0,1,0,0,0,0,Very Good,5,1,2,4
+Product_780,Personal Care,1.82,$2 off,Eggs,"Gluten-Free, Vegan",In Stock,3.8,0,1,0,1,0,1,0,0,0,0,0,Good,6,0,0,2
+Product_781,Seafood,5.7,Clearance,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,8,3,0,0
+Product_782,Seafood,16.62,$2 off,Eggs,None,In Stock,3.0,0,0,0,0,1,1,0,0,0,0,0,Poor,8,0,0,3
+Product_783,Beverages,7.55,Buy 1 Get 1,Wheat,None,In Stock,3.4,0,0,0,0,1,0,0,0,1,0,0,Average,1,2,0,0
+Product_784,Personal Care,14.32,Clearance,"None, Wheat",None,In Stock,4.9,0,0,0,0,1,0,0,0,1,0,0,Excellent,6,3,0,1
+Product_785,Meat,22.49,10% off,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,1,2
+Product_786,Dairy,23.8,Buy 1 Get 1,"Soy, Milk",None,In Stock,4.4,0,0,0,0,1,0,1,0,0,1,0,Very Good,2,2,0,4
+Product_787,Produce,1.05,No-Offer,Milk,None,Low Stock,3.6,0,0,0,0,1,0,1,0,0,0,0,Average,7,4,1,0
+Product_788,Produce,18.35,Clearance,Nuts,"None, Gluten-Free",In Stock,3.4,0,1,0,0,1,0,0,1,0,0,0,Average,7,3,0,0
+Product_789,Meat,9.4,No-Offer,No-Allergens,None,Low Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,4,4,1,3
+Product_790,Bakery,9.57,No-Offer,No-Allergens,None,Low Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,0,4,1,0
+Product_791,Personal Care,1.5,Clearance,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,6,3,0,3
+Product_792,Bakery,8.17,10% off,No-Allergens,None,Out of Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,2,4
+Product_793,Produce,7.46,10% off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,7,1,0,3
+Product_794,Produce,7.18,Clearance,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,3,0,4
+Product_795,Seafood,11.36,No-Offer,No-Allergens,"None, Keto",In Stock,3.0,1,0,0,0,1,0,0,0,0,0,1,Poor,8,4,0,3
+Product_796,Meat,18.26,$2 off,Soy,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,1,0,Poor,4,0,0,3
+Product_797,Snacks,14.95,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,9,0,0,0
+Product_798,Dairy,8.31,Buy 1 Get 1,Milk,"Keto, Gluten-Free",Low Stock,3.3,1,1,0,0,0,0,1,0,0,0,0,Average,2,2,1,0
+Product_799,Personal Care,24.16,Clearance,No-Allergens,Low Sugar,Low Stock,3.1,0,0,1,0,0,0,0,0,0,0,1,Average,6,3,1,0
+Product_800,Personal Care,7.42,10% off,Milk,None,In Stock,4.4,0,0,0,0,1,0,1,0,0,0,0,Very Good,6,1,0,4
+Product_801,Bakery,17.44,$2 off,"Wheat, Milk",Vegan,Low Stock,4.6,0,0,0,1,0,0,1,0,1,0,0,Very Good,0,0,1,4
+Product_802,Pantry,15.79,$2 off,Milk,None,In Stock,4.2,0,0,0,0,1,0,1,0,0,0,0,Good,5,0,0,2
+Product_803,Produce,23.16,10% off,No-Allergens,"None, Gluten-Free",Low Stock,2.9,0,1,0,0,1,0,0,0,0,0,1,Poor,7,1,1,3
+Product_804,Frozen Foods,4.37,No-Offer,"Wheat, Eggs",None,In Stock,4.1,0,0,0,0,1,1,0,0,1,0,0,Good,3,4,0,2
+Product_805,Bakery,5.81,Clearance,"Nuts, Eggs",None,In Stock,4.4,0,0,0,0,1,1,0,1,0,0,0,Very Good,0,3,0,4
+Product_806,Snacks,23.41,Clearance,No-Allergens,"Keto, Vegan",In Stock,4.0,1,0,0,1,0,0,0,0,0,0,1,Good,9,3,0,2
+Product_807,Meat,15.1,$2 off,No-Allergens,None,Low Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,4,0,1,1
+Product_808,Beverages,3.16,Clearance,Soy,None,Low Stock,3.5,0,0,0,0,1,0,0,0,0,1,0,Average,1,3,1,0
+Product_809,Pantry,12.39,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,5,2,0,4
+Product_810,Seafood,14.98,Clearance,No-Allergens,"Gluten-Free, Keto",In Stock,3.2,1,1,0,0,0,0,0,0,0,0,1,Average,8,3,0,0
+Product_811,Seafood,18.77,No-Offer,Milk,None,In Stock,4.9,0,0,0,0,1,0,1,0,0,0,0,Excellent,8,4,0,1
+Product_812,Seafood,5.91,Buy 1 Get 1,No-Allergens,"Gluten-Free, None",In Stock,3.7,0,1,0,0,1,0,0,0,0,0,1,Good,8,2,0,2
+Product_813,Frozen Foods,11.8,No-Offer,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,3,4,0,2
+Product_814,Pantry,20.57,Clearance,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,5,3,0,2
+Product_815,Produce,8.98,$2 off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,0,0,4
+Product_816,Meat,1.25,$2 off,No-Allergens,Gluten-Free,In Stock,2.7,0,1,0,0,0,0,0,0,0,0,1,Poor,4,0,0,3
+Product_817,Beverages,21.82,No-Offer,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,1,4,0,2
+Product_818,Beverages,2.02,Clearance,No-Allergens,None,In Stock,3.5,0,0,0,0,1,0,0,0,0,0,1,Average,1,3,0,0
+Product_819,Personal Care,6.84,10% off,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,6,1,1,2
+Product_820,Bakery,19.3,Buy 1 Get 1,Wheat,None,In Stock,2.5,0,0,0,0,1,0,0,0,1,0,0,Poor,0,2,0,3
+Product_821,Personal Care,17.52,10% off,"Milk, Soy",None,Low Stock,4.3,0,0,0,0,1,0,1,0,0,1,0,Very Good,6,1,1,4
+Product_822,Bakery,5.54,$2 off,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,0,0,0,2
+Product_823,Meat,22.51,$2 off,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,0,0,4
+Product_824,Produce,3.03,$2 off,"Eggs, Milk",None,In Stock,4.3,0,0,0,0,1,1,1,0,0,0,0,Very Good,7,0,0,4
+Product_825,Seafood,21.41,$2 off,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,8,0,0,0
+Product_826,Snacks,15.63,Clearance,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,3,0,1
+Product_827,Bakery,8.53,Buy 1 Get 1,"Wheat, Soy",None,In Stock,3.1,0,0,0,0,1,0,0,0,1,1,0,Average,0,2,0,0
+Product_828,Dairy,16.72,$2 off,No-Allergens,None,In Stock,3.0,0,0,0,0,1,0,0,0,0,0,1,Poor,2,0,0,3
+Product_829,Dairy,24.42,$2 off,No-Allergens,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,0,0,4
+Product_830,Bakery,11.13,10% off,No-Allergens,None,Low Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,1,1,4
+Product_831,Produce,8.63,Buy 1 Get 1,No-Allergens,None,In Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,2,0,4
+Product_832,Beverages,3.14,$2 off,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,0,2
+Product_833,Seafood,14.62,No-Offer,"Soy, None","Keto, Gluten-Free",Low Stock,2.6,1,1,0,0,0,0,0,0,0,1,0,Poor,8,4,1,3
+Product_834,Frozen Foods,18.12,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,3,0,0,2
+Product_835,Meat,19.35,Clearance,"Eggs, Wheat","Gluten-Free, None",In Stock,4.1,0,1,0,0,1,1,0,0,1,0,0,Good,4,3,0,2
+Product_836,Meat,24.66,$2 off,No-Allergens,Gluten-Free,Low Stock,4.6,0,1,0,0,0,0,0,0,0,0,1,Very Good,4,0,1,4
+Product_837,Frozen Foods,18.76,$2 off,No-Allergens,"Low Sugar, Keto",Out of Stock,4.8,1,0,1,0,0,0,0,0,0,0,1,Excellent,3,0,2,1
+Product_838,Snacks,8.79,$2 off,Nuts,None,In Stock,3.1,0,0,0,0,1,0,0,1,0,0,0,Average,9,0,0,0
+Product_839,Bakery,15.07,No-Offer,"Wheat, Eggs",None,In Stock,4.9,0,0,0,0,1,1,0,0,1,0,0,Excellent,0,4,0,1
+Product_840,Seafood,1.42,Clearance,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,8,3,0,2
+Product_841,Bakery,20.08,10% off,Soy,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,1,0,Poor,0,1,0,3
+Product_842,Dairy,2.63,No-Offer,Soy,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,1,0,Very Good,2,4,0,4
+Product_843,Seafood,24.73,Buy 1 Get 1,"None, Nuts",None,In Stock,2.7,0,0,0,0,1,0,0,1,0,0,0,Poor,8,2,0,3
+Product_844,Snacks,20.17,$2 off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,9,0,0,0
+Product_845,Frozen Foods,12.51,Buy 1 Get 1,"Eggs, Milk",None,In Stock,3.0,0,0,0,0,1,1,1,0,0,0,0,Poor,3,2,0,3
+Product_846,Dairy,2.43,Buy 1 Get 1,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,2,1,4
+Product_847,Beverages,7.73,Buy 1 Get 1,Soy,Low Sugar,In Stock,4.9,0,0,1,0,0,0,0,0,0,1,0,Excellent,1,2,0,1
+Product_848,Snacks,3.87,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,9,3,0,2
+Product_849,Seafood,14.05,10% off,No-Allergens,None,Out of Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,8,1,2,2
+Product_850,Dairy,2.58,Buy 1 Get 1,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,2,0,1
+Product_851,Meat,14.14,Clearance,No-Allergens,None,Low Stock,5.0,0,0,0,0,1,0,0,0,0,0,1,Excellent,4,3,1,1
+Product_852,Meat,3.91,$2 off,No-Allergens,Low Sugar,In Stock,4.4,0,0,1,0,0,0,0,0,0,0,1,Very Good,4,0,0,4
+Product_853,Meat,17.06,$2 off,No-Allergens,None,Low Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,4,0,1,0
+Product_854,Produce,15.63,Buy 1 Get 1,No-Allergens,None,Low Stock,2.7,0,0,0,0,1,0,0,0,0,0,1,Poor,7,2,1,3
+Product_855,Personal Care,9.33,No-Offer,"Soy, Eggs",None,Low Stock,3.9,0,0,0,0,1,1,0,0,0,1,0,Good,6,4,1,2
+Product_856,Produce,24.23,No-Offer,No-Allergens,"Vegan, Low Sugar",In Stock,4.6,0,0,1,1,0,0,0,0,0,0,1,Very Good,7,4,0,4
+Product_857,Meat,1.84,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,4,2,0,4
+Product_858,Seafood,13.94,No-Offer,"None, Wheat",None,In Stock,4.4,0,0,0,0,1,0,0,0,1,0,0,Very Good,8,4,0,4
+Product_859,Produce,20.8,10% off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,1,0,1
+Product_860,Snacks,6.0,Clearance,No-Allergens,Low Sugar,In Stock,3.9,0,0,1,0,0,0,0,0,0,0,1,Good,9,3,0,2
+Product_861,Meat,15.64,$2 off,"Soy, Nuts","Vegan, Keto",In Stock,4.3,1,0,0,1,0,0,0,1,0,1,0,Very Good,4,0,0,4
+Product_862,Snacks,5.13,10% off,No-Allergens,"None, Vegan",Low Stock,4.7,0,0,0,1,1,0,0,0,0,0,1,Excellent,9,1,1,1
+Product_863,Dairy,6.13,10% off,No-Allergens,Keto,In Stock,3.4,1,0,0,0,0,0,0,0,0,0,1,Average,2,1,0,0
+Product_864,Snacks,4.03,10% off,No-Allergens,None,Out of Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,9,1,2,0
+Product_865,Pantry,14.32,Buy 1 Get 1,No-Allergens,None,Out of Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,5,2,2,2
+Product_866,Personal Care,13.77,Buy 1 Get 1,"Wheat, None","Vegan, Low Sugar",Low Stock,4.1,0,0,1,1,0,0,0,0,1,0,0,Good,6,2,1,2
+Product_867,Bakery,2.66,Clearance,"None, Nuts",None,In Stock,4.8,0,0,0,0,1,0,0,1,0,0,0,Excellent,0,3,0,1
+Product_868,Dairy,15.74,Buy 1 Get 1,No-Allergens,None,Out of Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,2,2,4
+Product_869,Personal Care,15.74,Clearance,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,6,3,1,2
+Product_870,Seafood,19.69,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,8,4,0,0
+Product_871,Dairy,17.74,$2 off,No-Allergens,None,Low Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,2,0,1,2
+Product_872,Dairy,5.32,No-Offer,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,2,4,0,2
+Product_873,Bakery,1.07,No-Offer,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,0,4,0,4
+Product_874,Beverages,15.29,$2 off,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,0,0,0
+Product_875,Seafood,8.78,Buy 1 Get 1,No-Allergens,"Vegan, Gluten-Free",In Stock,4.4,0,1,0,1,0,0,0,0,0,0,1,Very Good,8,2,0,4
+Product_876,Meat,11.21,No-Offer,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,4,4,0,2
+Product_877,Personal Care,6.2,$2 off,No-Allergens,"Keto, Gluten-Free",In Stock,4.3,1,1,0,0,0,0,0,0,0,0,1,Very Good,6,0,0,4
+Product_878,Frozen Foods,22.24,10% off,No-Allergens,"Low Sugar, None",Low Stock,3.1,0,0,1,0,1,0,0,0,0,0,1,Average,3,1,1,0
+Product_879,Dairy,4.75,$2 off,No-Allergens,Gluten-Free,In Stock,2.8,0,1,0,0,0,0,0,0,0,0,1,Poor,2,0,0,3
+Product_880,Produce,16.99,Clearance,"None, Eggs",None,In Stock,2.7,0,0,0,0,1,1,0,0,0,0,0,Poor,7,3,0,3
+Product_881,Meat,21.03,Buy 1 Get 1,Soy,Low Sugar,In Stock,4.8,0,0,1,0,0,0,0,0,0,1,0,Excellent,4,2,0,1
+Product_882,Personal Care,20.9,$2 off,Eggs,None,Low Stock,3.9,0,0,0,0,1,1,0,0,0,0,0,Good,6,0,1,2
+Product_883,Beverages,6.97,Buy 1 Get 1,Soy,Low Sugar,Out of Stock,2.6,0,0,1,0,0,0,0,0,0,1,0,Poor,1,2,2,3
+Product_884,Personal Care,24.94,Buy 1 Get 1,"Wheat, Eggs","Vegan, Gluten-Free",Low Stock,4.8,0,1,0,1,0,1,0,0,1,0,0,Excellent,6,2,1,1
+Product_885,Bakery,6.11,10% off,No-Allergens,None,In Stock,3.8,0,0,0,0,1,0,0,0,0,0,1,Good,0,1,0,2
+Product_886,Personal Care,20.69,Clearance,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,6,3,0,0
+Product_887,Snacks,18.29,$2 off,Milk,"Vegan, None",In Stock,3.7,0,0,0,1,1,0,1,0,0,0,0,Good,9,0,0,2
+Product_888,Beverages,8.71,Clearance,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,1,3,0,2
+Product_889,Frozen Foods,22.98,10% off,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,3,1,0,0
+Product_890,Meat,2.94,10% off,No-Allergens,None,Low Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,1,2
+Product_891,Frozen Foods,19.71,Clearance,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,3,0,1
+Product_892,Personal Care,19.38,10% off,No-Allergens,Keto,Low Stock,3.8,1,0,0,0,0,0,0,0,0,0,1,Good,6,1,1,2
+Product_893,Snacks,7.9,10% off,No-Allergens,None,Low Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,9,1,1,3
+Product_894,Seafood,24.25,$2 off,No-Allergens,Keto,In Stock,4.4,1,0,0,0,0,0,0,0,0,0,1,Very Good,8,0,0,4
+Product_895,Frozen Foods,4.48,No-Offer,No-Allergens,None,Low Stock,4.9,0,0,0,0,1,0,0,0,0,0,1,Excellent,3,4,1,1
+Product_896,Personal Care,14.36,Clearance,"Soy, Milk",None,In Stock,2.7,0,0,0,0,1,0,1,0,0,1,0,Poor,6,3,0,3
+Product_897,Meat,9.07,10% off,No-Allergens,None,Low Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,1,2
+Product_898,Dairy,21.84,Clearance,No-Allergens,Gluten-Free,In Stock,4.3,0,1,0,0,0,0,0,0,0,0,1,Very Good,2,3,0,4
+Product_899,Snacks,12.37,10% off,No-Allergens,Keto,Low Stock,3.2,1,0,0,0,0,0,0,0,0,0,1,Average,9,1,1,0
+Product_900,Frozen Foods,1.09,Buy 1 Get 1,No-Allergens,"Keto, None",In Stock,3.1,1,0,0,0,1,0,0,0,0,0,1,Average,3,2,0,0
+Product_901,Frozen Foods,3.99,10% off,No-Allergens,None,In Stock,3.6,0,0,0,0,1,0,0,0,0,0,1,Average,3,1,0,0
+Product_902,Beverages,20.31,Clearance,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,3,0,0
+Product_903,Seafood,20.55,10% off,No-Allergens,None,Low Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,8,1,1,1
+Product_904,Dairy,22.3,10% off,Wheat,None,In Stock,3.5,0,0,0,0,1,0,0,0,1,0,0,Average,2,1,0,0
+Product_905,Dairy,24.86,No-Offer,"Milk, Wheat",None,In Stock,4.6,0,0,0,0,1,0,1,0,1,0,0,Very Good,2,4,0,4
+Product_906,Snacks,4.02,Buy 1 Get 1,Milk,None,In Stock,3.8,0,0,0,0,1,0,1,0,0,0,0,Good,9,2,0,2
+Product_907,Pantry,23.91,Clearance,No-Allergens,None,Out of Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,5,3,2,3
+Product_908,Bakery,21.68,10% off,Eggs,None,In Stock,3.2,0,0,0,0,1,1,0,0,0,0,0,Average,0,1,0,0
+Product_909,Seafood,18.68,10% off,No-Allergens,None,Low Stock,4.3,0,0,0,0,1,0,0,0,0,0,1,Very Good,8,1,1,4
+Product_910,Seafood,6.57,Clearance,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,8,3,0,2
+Product_911,Dairy,17.64,10% off,No-Allergens,"None, Keto",Low Stock,3.9,1,0,0,0,1,0,0,0,0,0,1,Good,2,1,1,2
+Product_912,Snacks,17.33,10% off,Milk,"None, Vegan",Low Stock,3.6,0,0,0,1,1,0,1,0,0,0,0,Average,9,1,1,0
+Product_913,Seafood,16.94,Clearance,No-Allergens,Keto,In Stock,2.6,1,0,0,0,0,0,0,0,0,0,1,Poor,8,3,0,3
+Product_914,Snacks,20.08,No-Offer,No-Allergens,Low Sugar,Low Stock,3.3,0,0,1,0,0,0,0,0,0,0,1,Average,9,4,1,0
+Product_915,Produce,9.57,$2 off,No-Allergens,None,Out of Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,7,0,2,3
+Product_916,Snacks,9.41,No-Offer,No-Allergens,None,Low Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,4,1,1
+Product_917,Bakery,8.07,Buy 1 Get 1,"Soy, Milk",None,In Stock,3.7,0,0,0,0,1,0,1,0,0,1,0,Good,0,2,0,2
+Product_918,Seafood,13.71,Buy 1 Get 1,No-Allergens,"None, Keto",In Stock,2.8,1,0,0,0,1,0,0,0,0,0,1,Poor,8,2,0,3
+Product_919,Bakery,20.33,10% off,No-Allergens,"Low Sugar, None",In Stock,2.9,0,0,1,0,1,0,0,0,0,0,1,Poor,0,1,0,3
+Product_920,Snacks,1.87,10% off,No-Allergens,"Vegan, Low Sugar",Out of Stock,2.9,0,0,1,1,0,0,0,0,0,0,1,Poor,9,1,2,3
+Product_921,Meat,18.95,$2 off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,4,0,0,3
+Product_922,Beverages,2.06,Clearance,No-Allergens,None,In Stock,3.1,0,0,0,0,1,0,0,0,0,0,1,Average,1,3,0,0
+Product_923,Snacks,20.28,Buy 1 Get 1,No-Allergens,"Gluten-Free, Low Sugar",Out of Stock,2.6,0,1,1,0,0,0,0,0,0,0,1,Poor,9,2,2,3
+Product_924,Frozen Foods,6.59,10% off,"None, Soy",None,Out of Stock,4.1,0,0,0,0,1,0,0,0,0,1,0,Good,3,1,2,2
+Product_925,Beverages,7.25,No-Offer,"Eggs, Soy",None,In Stock,4.5,0,0,0,0,1,1,0,0,0,1,0,Very Good,1,4,0,4
+Product_926,Produce,9.16,$2 off,No-Allergens,Vegan,In Stock,2.7,0,0,0,1,0,0,0,0,0,0,1,Poor,7,0,0,3
+Product_927,Frozen Foods,3.72,Clearance,Eggs,"None, Keto",In Stock,3.6,1,0,0,0,1,1,0,0,0,0,0,Average,3,3,0,0
+Product_928,Bakery,5.86,Buy 1 Get 1,No-Allergens,Keto,In Stock,3.6,1,0,0,0,0,0,0,0,0,0,1,Average,0,2,0,0
+Product_929,Snacks,4.99,Clearance,No-Allergens,"Vegan, Gluten-Free",In Stock,2.9,0,1,0,1,0,0,0,0,0,0,1,Poor,9,3,0,3
+Product_930,Snacks,10.56,10% off,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,9,1,0,4
+Product_931,Dairy,10.7,No-Offer,No-Allergens,None,In Stock,2.5,0,0,0,0,1,0,0,0,0,0,1,Poor,2,4,0,3
+Product_932,Meat,16.2,Buy 1 Get 1,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,4,2,0,2
+Product_933,Produce,17.56,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,0,0,1
+Product_934,Dairy,4.45,10% off,No-Allergens,"Gluten-Free, Low Sugar",In Stock,4.9,0,1,1,0,0,0,0,0,0,0,1,Excellent,2,1,0,1
+Product_935,Pantry,21.42,No-Offer,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,5,4,0,2
+Product_936,Frozen Foods,24.12,No-Offer,No-Allergens,None,In Stock,3.3,0,0,0,0,1,0,0,0,0,0,1,Average,3,4,0,0
+Product_937,Pantry,5.78,10% off,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,5,1,0,0
+Product_938,Meat,6.89,No-Offer,"Milk, Wheat",Vegan,In Stock,2.5,0,0,0,1,0,0,1,0,1,0,0,Poor,4,4,0,3
+Product_939,Seafood,14.64,Clearance,No-Allergens,None,Out of Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,8,3,2,1
+Product_940,Personal Care,8.9,$2 off,"Nuts, Wheat",None,In Stock,3.7,0,0,0,0,1,0,0,1,1,0,0,Good,6,0,0,2
+Product_941,Produce,12.79,No-Offer,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,7,4,0,1
+Product_942,Frozen Foods,15.77,Buy 1 Get 1,No-Allergens,None,In Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,3,2,0,2
+Product_943,Snacks,7.13,Buy 1 Get 1,"Wheat, Nuts",Keto,In Stock,4.1,1,0,0,0,0,0,0,1,1,0,0,Good,9,2,0,2
+Product_944,Pantry,9.11,Clearance,No-Allergens,Gluten-Free,Low Stock,3.5,0,1,0,0,0,0,0,0,0,0,1,Average,5,3,1,0
+Product_945,Beverages,6.68,Buy 1 Get 1,Eggs,None,In Stock,3.2,0,0,0,0,1,1,0,0,0,0,0,Average,1,2,0,0
+Product_946,Dairy,1.96,Clearance,"None, Nuts",None,Out of Stock,3.2,0,0,0,0,1,0,0,1,0,0,0,Average,2,3,2,0
+Product_947,Beverages,23.25,Buy 1 Get 1,Soy,None,In Stock,4.4,0,0,0,0,1,0,0,0,0,1,0,Very Good,1,2,0,4
+Product_948,Meat,9.03,10% off,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,4,1,1,2
+Product_949,Frozen Foods,5.81,Buy 1 Get 1,Eggs,None,In Stock,3.0,0,0,0,0,1,1,0,0,0,0,0,Poor,3,2,0,3
+Product_950,Seafood,21.29,Buy 1 Get 1,No-Allergens,Keto,In Stock,3.9,1,0,0,0,0,0,0,0,0,0,1,Good,8,2,0,2
+Product_951,Frozen Foods,24.23,Buy 1 Get 1,No-Allergens,None,In Stock,2.6,0,0,0,0,1,0,0,0,0,0,1,Poor,3,2,0,3
+Product_952,Meat,2.58,Clearance,No-Allergens,Keto,In Stock,3.7,1,0,0,0,0,0,0,0,0,0,1,Good,4,3,0,2
+Product_953,Beverages,11.96,$2 off,No-Allergens,None,In Stock,4.1,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,0,2
+Product_954,Bakery,17.05,Buy 1 Get 1,"Eggs, None",None,In Stock,3.1,0,0,0,0,1,1,0,0,0,0,0,Average,0,2,0,0
+Product_955,Produce,5.02,No-Offer,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,7,4,0,2
+Product_956,Meat,18.56,10% off,"Eggs, Wheat",None,Low Stock,4.8,0,0,0,0,1,1,0,0,1,0,0,Excellent,4,1,1,1
+Product_957,Produce,22.25,Clearance,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,7,3,0,2
+Product_958,Frozen Foods,12.3,No-Offer,"None, Soy","Gluten-Free, Keto",Out of Stock,2.5,1,1,0,0,0,0,0,0,0,1,0,Poor,3,4,2,3
+Product_959,Beverages,19.99,$2 off,"Soy, Milk",None,Out of Stock,3.7,0,0,0,0,1,0,1,0,0,1,0,Good,1,0,2,2
+Product_960,Beverages,9.16,Clearance,Nuts,None,In Stock,3.9,0,0,0,0,1,0,0,1,0,0,0,Good,1,3,0,2
+Product_961,Beverages,14.41,No-Offer,No-Allergens,Keto,In Stock,4.3,1,0,0,0,0,0,0,0,0,0,1,Very Good,1,4,0,4
+Product_962,Snacks,1.8,Buy 1 Get 1,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,2,0,1
+Product_963,Frozen Foods,4.24,10% off,No-Allergens,Low Sugar,Low Stock,2.7,0,0,1,0,0,0,0,0,0,0,1,Poor,3,1,1,3
+Product_964,Frozen Foods,3.4,$2 off,No-Allergens,None,Out of Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,3,0,2,3
+Product_965,Personal Care,14.65,10% off,No-Allergens,None,In Stock,4.5,0,0,0,0,1,0,0,0,0,0,1,Very Good,6,1,0,4
+Product_966,Beverages,21.46,$2 off,No-Allergens,None,In Stock,4.0,0,0,0,0,1,0,0,0,0,0,1,Good,1,0,0,2
+Product_967,Meat,3.97,Buy 1 Get 1,"Soy, Eggs",None,In Stock,4.8,0,0,0,0,1,1,0,0,0,1,0,Excellent,4,2,0,1
+Product_968,Personal Care,22.34,No-Offer,No-Allergens,None,In Stock,4.2,0,0,0,0,1,0,0,0,0,0,1,Good,6,4,0,2
+Product_969,Produce,16.59,10% off,Eggs,"Keto, Vegan",In Stock,3.8,1,0,0,1,0,1,0,0,0,0,0,Good,7,1,0,2
+Product_970,Bakery,12.9,$2 off,"Eggs, Wheat",None,In Stock,3.5,0,0,0,0,1,1,0,0,1,0,0,Average,0,0,0,0
+Product_971,Dairy,8.02,Clearance,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,2,3,0,4
+Product_972,Seafood,3.63,Buy 1 Get 1,No-Allergens,"Gluten-Free, None",In Stock,4.5,0,1,0,0,1,0,0,0,0,0,1,Very Good,8,2,0,4
+Product_973,Personal Care,14.77,No-Offer,No-Allergens,None,Out of Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,6,4,2,0
+Product_974,Beverages,20.15,$2 off,"Eggs, Soy",Gluten-Free,In Stock,3.3,0,1,0,0,0,1,0,0,0,1,0,Average,1,0,0,0
+Product_975,Produce,8.06,10% off,Soy,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,1,0,Good,7,1,1,2
+Product_976,Frozen Foods,19.42,$2 off,"Wheat, Nuts",None,In Stock,2.9,0,0,0,0,1,0,0,1,1,0,0,Poor,3,0,0,3
+Product_977,Bakery,20.99,Buy 1 Get 1,No-Allergens,"Keto, None",Low Stock,4.9,1,0,0,0,1,0,0,0,0,0,1,Excellent,0,2,1,1
+Product_978,Dairy,13.36,$2 off,No-Allergens,Gluten-Free,In Stock,4.2,0,1,0,0,0,0,0,0,0,0,1,Good,2,0,0,2
+Product_979,Beverages,15.54,Buy 1 Get 1,No-Allergens,None,In Stock,3.2,0,0,0,0,1,0,0,0,0,0,1,Average,1,2,0,0
+Product_980,Dairy,3.34,Clearance,No-Allergens,"None, Keto",In Stock,3.0,1,0,0,0,1,0,0,0,0,0,1,Poor,2,3,0,3
+Product_981,Personal Care,22.43,Buy 1 Get 1,No-Allergens,Vegan,In Stock,3.5,0,0,0,1,0,0,0,0,0,0,1,Average,6,2,0,0
+Product_982,Pantry,4.46,$2 off,Soy,None,In Stock,4.9,0,0,0,0,1,0,0,0,0,1,0,Excellent,5,0,0,1
+Product_983,Beverages,8.46,No-Offer,No-Allergens,None,In Stock,3.7,0,0,0,0,1,0,0,0,0,0,1,Good,1,4,0,2
+Product_984,Dairy,19.47,Clearance,No-Allergens,None,Low Stock,3.9,0,0,0,0,1,0,0,0,0,0,1,Good,2,3,1,2
+Product_985,Dairy,11.01,Clearance,No-Allergens,None,In Stock,4.7,0,0,0,0,1,0,0,0,0,0,1,Excellent,2,3,0,1
+Product_986,Bakery,18.59,Buy 1 Get 1,No-Allergens,Keto,In Stock,3.8,1,0,0,0,0,0,0,0,0,0,1,Good,0,2,0,2
+Product_987,Produce,13.6,$2 off,No-Allergens,"None, Gluten-Free",Out of Stock,4.2,0,1,0,0,1,0,0,0,0,0,1,Good,7,0,2,2
+Product_988,Pantry,5.16,10% off,Wheat,None,In Stock,4.2,0,0,0,0,1,0,0,0,1,0,0,Good,5,1,0,2
+Product_989,Meat,2.79,10% off,No-Allergens,None,In Stock,2.9,0,0,0,0,1,0,0,0,0,0,1,Poor,4,1,0,3
+Product_990,Dairy,16.22,No-Offer,"Milk, Wheat",None,Low Stock,4.1,0,0,0,0,1,0,1,0,1,0,0,Good,2,4,1,2
+Product_991,Frozen Foods,16.52,Buy 1 Get 1,No-Allergens,None,In Stock,4.6,0,0,0,0,1,0,0,0,0,0,1,Very Good,3,2,0,4
+Product_992,Bakery,8.56,Clearance,Wheat,None,In Stock,3.0,0,0,0,0,1,0,0,0,1,0,0,Poor,0,3,0,3
+Product_993,Beverages,7.6,No-Offer,No-Allergens,None,In Stock,3.4,0,0,0,0,1,0,0,0,0,0,1,Average,1,4,0,0
+Product_994,Bakery,11.89,Buy 1 Get 1,Wheat,"Gluten-Free, Vegan",Low Stock,2.9,0,1,0,1,0,0,0,0,1,0,0,Poor,0,2,1,3
+Product_995,Snacks,14.18,Buy 1 Get 1,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,9,2,0,3
+Product_996,Produce,5.24,Buy 1 Get 1,No-Allergens,None,Low Stock,4.4,0,0,0,0,1,0,0,0,0,0,1,Very Good,7,2,1,4
+Product_997,Dairy,2.46,10% off,No-Allergens,None,In Stock,2.8,0,0,0,0,1,0,0,0,0,0,1,Poor,2,1,0,3
+Product_998,Dairy,9.27,$2 off,"Eggs, Nuts",None,In Stock,3.9,0,0,0,0,1,1,0,1,0,0,0,Good,2,0,0,2
+Product_999,Snacks,16.63,$2 off,No-Allergens,None,In Stock,4.8,0,0,0,0,1,0,0,0,0,0,1,Excellent,9,0,0,1
